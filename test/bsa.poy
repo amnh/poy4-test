@@ -1,5 +1,4 @@
 (* Build and swap chel.aln *)
 read ("FILENAME")
-transform (tcm:(1,1))
 build (1)
-swap (trajectory, timeout:60)
+swap (all, trajectory, timeout:60)
