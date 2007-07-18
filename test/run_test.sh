@@ -3,7 +3,6 @@
 # This script compiles POY, copies the config.test as the new config, runs the
 # battery of tests and emails us if there is some error.
 
-config_location="../config"
 test_program="poy_test"
 list_of_tests="all_tests"
 test_execution_script="./test_line.sh"
@@ -12,11 +11,10 @@ temp="tmp_mail"
 
 # We start by checking that everything is good, we need to ensure that we have a
 # reasonable configuration, and that we have a completely up to date setup.
-if [ -a "${config_location}.test" ]
-then
-    echo "Found nice config file"
-    cp ${config_location} ${config_location}.original
-    cp ${config_location}.test ${config_location}
+cd ../
+if CFLAGS="-I /usr/include/malloc" ./configure --enable-interface=readline;
+then 
+    echo "Finished configuring the system."
 else
     echo "I could not find the configuration file ${config_location}.test"
     echo "Aborting the test run in `hostname`"
@@ -29,14 +27,13 @@ The test in `hostname` falied because I couldn't find a suitable config.test
 to compile and run the tests.
 EOF
     sendmail ${report_bug_to} < ${temp}
-    cp ${config_location}.original ${config_location}
     exit 1
 fi
 
 # Now we can make the test program and proceed to run the test suite in this
 # computer 
 echo "Making poy_test"
-cd ../src
+cd ./src
 if make clean &> ../test/make.log && make depend &>../test/make.log && make poy_test &> ../test/make.log
 then
     echo "Finished making poy_test"
@@ -55,7 +52,6 @@ the attempt to make is:
 EOF
     sendmail ${report_bug_to} < ${temp}
     cd ../test
-    cp ${config_location}.original ${config_location}
     exit 1
 fi
 mv ./poy_test ../test/
@@ -99,10 +95,8 @@ the failures is:
 EOF
     sendmail ${report_bug_to} < ${temp}
     cd ../test
-    cp ${config_location}.original ${config_location}
     exit 1
 else
     cd ../test
-    cp ${config_location}.original ${config_location}
     exit 0
 fi
