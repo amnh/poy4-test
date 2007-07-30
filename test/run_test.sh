@@ -12,7 +12,7 @@ temp="tmp_mail"
 # We start by checking that everything is good, we need to ensure that we have a
 # reasonable configuration, and that we have a completely up to date setup.
 cd ../
-if CFLAGS="-I /usr/include/malloc" ./configure --enable-interface=readline;
+if CFLAGS="-I /usr/include/malloc" ./configure --enable-interface=readline $1;
 then 
     echo "Finished configuring the system."
 else
@@ -23,7 +23,7 @@ From: $USER@$HOSTNAME
 To: ${report_bug_to}
 Subject: Test Failure
 
-The test in `hostname` falied because I couldn't find a suitable config.test
+The test $2 in `hostname` falied because I couldn't find a suitable config.test
 to compile and run the tests.
 EOF
     sendmail ${report_bug_to} < ${temp}
@@ -46,7 +46,7 @@ From:$USER@$HOSTNAME
 To: ${report_bug_to}
 Subject: Test Failure
 
-The test in `hostname` failed to make the ${test_program} executable. The log of
+The test $2 in `hostname` failed to make the ${test_program} executable. The log of
 the attempt to make is:
 `cat ../test/make.log`
 EOF
@@ -89,7 +89,7 @@ From: $USER@$HOSTNAME
 To: ${report_bug_to}
 Subject: Test Failure
 
-The test execution in `hostname` failed to pass all the unit tests. The log of
+The test $2 execution in `hostname` failed to pass all the unit tests. The log of
 the failures is:
 `cat ./test.log`
 EOF
