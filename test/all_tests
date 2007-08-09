@@ -1,436 +1,458 @@
-"Check tree cost 1 cnc.poy" "sed -e s/FILENAME/1.fas/ cnc.poy" -880
-"Check tree cost 2 cnc.poy" "sed -e s/FILENAME/2.fas/ cnc.poy" -339
-"Check tree cost 3 cnc.poy" "sed -e s/FILENAME/3.fas/ cnc.poy" -502
-"Check tree cost 4 cnc.poy" "sed -e s/FILENAME/4.fas/ cnc.poy" -853
-"Check tree cost 5 cnc.poy" "sed -e s/FILENAME/5.fas/ cnc.poy" -668
-"Check tree cost 6 cnc.poy" "sed -e s/FILENAME/6.fas/ cnc.poy" -20579
-"Check tree cost 7 cnc.poy" "sed -e s/FILENAME/7.fas/ cnc.poy" -723
-"Check tree cost 8 cnc.poy" "sed -e s/FILENAME/8.fas/ cnc.poy" -810
-"Check tree cost 9 cnc.poy" "sed -e s/FILENAME/9.fas/ cnc.poy" -1673
-"Check tree cost 10 cnc.poy" "sed -e s/FILENAME/10.fas/ cnc.poy" -16007
-"Check tree cost 11 cnc.poy" "sed -e s/FILENAME/11.fas/ cnc.poy" -723
-"Check tree cost 12 cnc.poy" "sed -e s/FILENAME/12.fas/ cnc.poy" -810
-"Check tree cost 13 cnc.poy" "sed -e s/FILENAME/13.fas/ cnc.poy" -1673
-"Check tree cost 1 cnc1.poy" "sed -e s/FILENAME/1.fas/ cnc1.poy" -614
-"Check tree cost 2 cnc1.poy" "sed -e s/FILENAME/2.fas/ cnc1.poy" -303
-"Check tree cost 3 cnc1.poy" "sed -e s/FILENAME/3.fas/ cnc1.poy" -506
-"Check tree cost 4 cnc1.poy" "sed -e s/FILENAME/4.fas/ cnc1.poy" -622
-"Check tree cost 5 cnc1.poy" "sed -e s/FILENAME/5.fas/ cnc1.poy" -604
-"Check tree cost 6 cnc1.poy" "sed -e s/FILENAME/6.fas/ cnc1.poy" -16903
-"Check tree cost 7 cnc1.poy" "sed -e s/FILENAME/7.fas/ cnc1.poy" -730
-"Check tree cost 8 cnc1.poy" "sed -e s/FILENAME/8.fas/ cnc1.poy" -816
-"Check tree cost 9 cnc1.poy" "sed -e s/FILENAME/9.fas/ cnc1.poy" -1672
-"Check tree cost 10 cnc1.poy" "sed -e s/FILENAME/10.fas/ cnc1.poy" -14128
-"Check tree cost 11 cnc1.poy" "sed -e s/FILENAME/11.fas/ cnc1.poy" -730
-"Check tree cost 12 cnc1.poy" "sed -e s/FILENAME/12.fas/ cnc1.poy" -816
-"Check tree cost 13 cnc1.poy" "sed -e s/FILENAME/13.fas/ cnc1.poy" -1672
-"Check tree cost 1 cnc2.poy" "sed -e s/FILENAME/1.fas/ cnc2.poy" -1139
-"Check tree cost 2 cnc2.poy" "sed -e s/FILENAME/2.fas/ cnc2.poy" -580
-"Check tree cost 3 cnc2.poy" "sed -e s/FILENAME/3.fas/ cnc2.poy" -1004
-"Check tree cost 4 cnc2.poy" "sed -e s/FILENAME/4.fas/ cnc2.poy" -1139
-"Check tree cost 5 cnc2.poy" "sed -e s/FILENAME/5.fas/ cnc2.poy" -1149
-"Check tree cost 6 cnc2.poy" "sed -e s/FILENAME/6.fas/ cnc2.poy" -43836
-"Check tree cost 7 cnc2.poy" "sed -e s/FILENAME/7.fas/ cnc2.poy" -1443
-"Check tree cost 8 cnc2.poy" "sed -e s/FILENAME/8.fas/ cnc2.poy" -1620
-"Check tree cost 9 cnc2.poy" "sed -e s/FILENAME/9.fas/ cnc2.poy" -3350
-"Check tree cost 10 cnc2.poy" "sed -e s/FILENAME/10.fas/ cnc2.poy" -27474
-"Check tree cost 11 cnc2.poy" "sed -e s/FILENAME/11.fas/ cnc2.poy" -1443
-"Check tree cost 12 cnc2.poy" "sed -e s/FILENAME/12.fas/ cnc2.poy" -1620
-"Check tree cost 13 cnc2.poy" "sed -e s/FILENAME/13.fas/ cnc2.poy" -3350
-"Check tree cost 1 cnc3.poy" "sed -e s/FILENAME/1.fas/ cnc3.poy" -2325
-"Check tree cost 2 cnc3.poy" "sed -e s/FILENAME/2.fas/ cnc3.poy" -1068
-"Check tree cost 3 cnc3.poy" "sed -e s/FILENAME/3.fas/ cnc3.poy" -1506
-"Check tree cost 4 cnc3.poy" "sed -e s/FILENAME/4.fas/ cnc3.poy" -2867
-"Check tree cost 5 cnc3.poy" "sed -e s/FILENAME/5.fas/ cnc3.poy" -2876
-"Check tree cost 6 cnc3.poy" "sed -e s/FILENAME/6.fas/ cnc3.poy" -68597
-"Check tree cost 7 cnc3.poy" "sed -e s/FILENAME/7.fas/ cnc3.poy" -2169
-"Check tree cost 8 cnc3.poy" "sed -e s/FILENAME/8.fas/ cnc3.poy" -2430
-"Check tree cost 9 cnc3.poy" "sed -e s/FILENAME/9.fas/ cnc3.poy" -5136
-"Check tree cost 10 cnc3.poy" "sed -e s/FILENAME/10.fas/ cnc3.poy" -48481
-"Check tree cost 11 cnc3.poy" "sed -e s/FILENAME/11.fas/ cnc3.poy" -2169
-"Check tree cost 12 cnc3.poy" "sed -e s/FILENAME/12.fas/ cnc3.poy" -2430
-"Check tree cost 13 cnc3.poy" "sed -e s/FILENAME/13.fas/ cnc3.poy" -5136
-"Check tree cost 1 cc.poy" "sed -e s/FILENAME/1.fas/ cc.poy" 865
-"Check tree cost 2 cc.poy" "sed -e s/FILENAME/2.fas/ cc.poy" 336
-"Check tree cost 3 cc.poy" "sed -e s/FILENAME/3.fas/ cc.poy" 502
-"Check tree cost 4 cc.poy" "sed -e s/FILENAME/4.fas/ cc.poy" 839
-"Check tree cost 5 cc.poy" "sed -e s/FILENAME/5.fas/ cc.poy" 667
-"Check tree cost 6 cc.poy" "sed -e s/FILENAME/6.fas/ cc.poy" 20482
-"Check tree cost 7 cc.poy" "sed -e s/FILENAME/7.fas/ cc.poy" 723
-"Check tree cost 8 cc.poy" "sed -e s/FILENAME/8.fas/ cc.poy" 810
-"Check tree cost 9 cc.poy" "sed -e s/FILENAME/9.fas/ cc.poy" 1672
-"Check tree cost 10 cc.poy" "sed -e s/FILENAME/10.fas/ cc.poy" 15959
-"Check tree cost 11 cc.poy" "sed -e s/FILENAME/11.fas/ cc.poy" 723
-"Check tree cost 12 cc.poy" "sed -e s/FILENAME/12.fas/ cc.poy" 810
-"Check tree cost 13 cc.poy" "sed -e s/FILENAME/13.fas/ cc.poy" 1672
-"Check tree cost 1 cc1.poy" "sed -e s/FILENAME/1.fas/ cc1.poy" 607
-"Check tree cost 2 cc1.poy" "sed -e s/FILENAME/2.fas/ cc1.poy" 295
-"Check tree cost 3 cc1.poy" "sed -e s/FILENAME/3.fas/ cc1.poy" 505
-"Check tree cost 4 cc1.poy" "sed -e s/FILENAME/4.fas/ cc1.poy" 609
-"Check tree cost 5 cc1.poy" "sed -e s/FILENAME/5.fas/ cc1.poy" 585
-"Check tree cost 6 cc1.poy" "sed -e s/FILENAME/6.fas/ cc1.poy" 16812
-"Check tree cost 7 cc1.poy" "sed -e s/FILENAME/7.fas/ cc1.poy" 729
-"Check tree cost 8 cc1.poy" "sed -e s/FILENAME/8.fas/ cc1.poy" 815
-"Check tree cost 9 cc1.poy" "sed -e s/FILENAME/9.fas/ cc1.poy" 1669
-"Check tree cost 10 cc1.poy" "sed -e s/FILENAME/10.fas/ cc1.poy" 14082
-"Check tree cost 11 cc1.poy" "sed -e s/FILENAME/11.fas/ cc1.poy" 729
-"Check tree cost 12 cc1.poy" "sed -e s/FILENAME/12.fas/ cc1.poy" 815
-"Check tree cost 13 cc1.poy" "sed -e s/FILENAME/13.fas/ cc1.poy" 1669
-"Check tree cost 1 cc2.poy" "sed -e s/FILENAME/1.fas/ cc2.poy" 1124
-"Check tree cost 2 cc2.poy" "sed -e s/FILENAME/2.fas/ cc2.poy" 556
-"Check tree cost 3 cc2.poy" "sed -e s/FILENAME/3.fas/ cc2.poy" 1002
-"Check tree cost 4 cc2.poy" "sed -e s/FILENAME/4.fas/ cc2.poy" 1124
-"Check tree cost 5 cc2.poy" "sed -e s/FILENAME/5.fas/ cc2.poy" 1096
-"Check tree cost 6 cc2.poy" "sed -e s/FILENAME/6.fas/ cc2.poy" 41988
-"Check tree cost 7 cc2.poy" "sed -e s/FILENAME/7.fas/ cc2.poy" 1439
-"Check tree cost 8 cc2.poy" "sed -e s/FILENAME/8.fas/ cc2.poy" 1620
-"Check tree cost 9 cc2.poy" "sed -e s/FILENAME/9.fas/ cc2.poy" 3338
-"Check tree cost 10 cc2.poy" "sed -e s/FILENAME/10.fas/ cc2.poy" 27379
-"Check tree cost 11 cc2.poy" "sed -e s/FILENAME/11.fas/ cc2.poy" 1439
-"Check tree cost 12 cc2.poy" "sed -e s/FILENAME/12.fas/ cc2.poy" 1620
-"Check tree cost 13 cc2.poy" "sed -e s/FILENAME/13.fas/ cc2.poy" 3338
-"Check tree cost 1 cc3.poy" "sed -e s/FILENAME/1.fas/ cc3.poy" 2225
-"Check tree cost 2 cc3.poy" "sed -e s/FILENAME/2.fas/ cc3.poy" 1002
-"Check tree cost 3 cc3.poy" "sed -e s/FILENAME/3.fas/ cc3.poy" 1506
-"Check tree cost 4 cc3.poy" "sed -e s/FILENAME/4.fas/ cc3.poy" 2213
-"Check tree cost 5 cc3.poy" "sed -e s/FILENAME/5.fas/ cc3.poy" 1643
-"Check tree cost 6 cc3.poy" "sed -e s/FILENAME/6.fas/ cc3.poy" 59894
-"Check tree cost 7 cc3.poy" "sed -e s/FILENAME/7.fas/ cc3.poy" 2169
-"Check tree cost 8 cc3.poy" "sed -e s/FILENAME/8.fas/ cc3.poy" 2430
-"Check tree cost 9 cc3.poy" "sed -e s/FILENAME/9.fas/ cc3.poy" 5012
-"Check tree cost 10 cc3.poy" "sed -e s/FILENAME/10.fas/ cc3.poy" 47040
-"Check tree cost 11 cc3.poy" "sed -e s/FILENAME/11.fas/ cc3.poy" 2169
-"Check tree cost 12 cc3.poy" "sed -e s/FILENAME/12.fas/ cc3.poy" 2430
-"Check tree cost 13 cc3.poy" "sed -e s/FILENAME/13.fas/ cc3.poy" 5012
-"Check tree cost after static approx 1 sa.poy" "sed -e s/FILENAME/1.fas/ sa.poy" 865
-"Check tree cost after static approx 2 sa.poy" "sed -e s/FILENAME/2.fas/ sa.poy" 336
-"Check tree cost after static approx 3 sa.poy" "sed -e s/FILENAME/3.fas/ sa.poy" 502
-"Check tree cost after static approx 4 sa.poy" "sed -e s/FILENAME/4.fas/ sa.poy" 839
-"Check tree cost after static approx 5 sa.poy" "sed -e s/FILENAME/5.fas/ sa.poy" 667
-"Check tree cost after static approx 6 sa.poy" "sed -e s/FILENAME/6.fas/ sa.poy" 20482
-"Check tree cost after static approx 7 sa.poy" "sed -e s/FILENAME/7.fas/ sa.poy" 723
-"Check tree cost after static approx 8 sa.poy" "sed -e s/FILENAME/8.fas/ sa.poy" 810
-"Check tree cost after static approx 9 sa.poy" "sed -e s/FILENAME/9.fas/ sa.poy" 1672
-"Check tree cost after static approx 10 sa.poy" "sed -e s/FILENAME/10.fas/ sa.poy" 15959
-"Check tree cost after static approx 11 sa.poy" "sed -e s/FILENAME/11.fas/ sa.poy" 723
-"Check tree cost after static approx 12 sa.poy" "sed -e s/FILENAME/12.fas/ sa.poy" 810
-"Check tree cost after static approx 13 sa.poy" "sed -e s/FILENAME/13.fas/ sa.poy" 1672
-"Check tree cost after static approx 1 sa1.poy" "sed -e s/FILENAME/1.fas/ sa1.poy" 607
-"Check tree cost after static approx 2 sa1.poy" "sed -e s/FILENAME/2.fas/ sa1.poy" 295
-"Check tree cost after static approx 3 sa1.poy" "sed -e s/FILENAME/3.fas/ sa1.poy" 505
-"Check tree cost after static approx 4 sa1.poy" "sed -e s/FILENAME/4.fas/ sa1.poy" 609
-"Check tree cost after static approx 5 sa1.poy" "sed -e s/FILENAME/5.fas/ sa1.poy" 585
-"Check tree cost after static approx 6 sa1.poy" "sed -e s/FILENAME/6.fas/ sa1.poy" 16812
-"Check tree cost after static approx 7 sa1.poy" "sed -e s/FILENAME/7.fas/ sa1.poy" 729
-"Check tree cost after static approx 8 sa1.poy" "sed -e s/FILENAME/8.fas/ sa1.poy" 815
-"Check tree cost after static approx 9 sa1.poy" "sed -e s/FILENAME/9.fas/ sa1.poy" 1669
-"Check tree cost after static approx 10 sa1.poy" "sed -e s/FILENAME/10.fas/ sa1.poy" 14082
-"Check tree cost after static approx 11 sa1.poy" "sed -e s/FILENAME/11.fas/ sa1.poy" 729
-"Check tree cost after static approx 12 sa1.poy" "sed -e s/FILENAME/12.fas/ sa1.poy" 815
-"Check tree cost after static approx 13 sa1.poy" "sed -e s/FILENAME/13.fas/ sa1.poy" 1669
-"Check static homology characters after converting from sequences 1 sh1.poy" "sed -e s/FILENAME/1.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 2 sh1.poy" "sed -e s/FILENAME/2.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 3 sh1.poy" "sed -e s/FILENAME/3.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 4 sh1.poy" "sed -e s/FILENAME/4.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 5 sh1.poy" "sed -e s/FILENAME/5.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 6 sh1.poy" "sed -e s/FILENAME/6.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 7 sh1.poy" "sed -e s/FILENAME/7.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 8 sh1.poy" "sed -e s/FILENAME/8.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 9 sh1.poy" "sed -e s/FILENAME/9.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 10 sh1.poy" "sed -e s/FILENAME/10.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 11 sh1.poy" "sed -e s/FILENAME/11.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 12 sh1.poy" "sed -e s/FILENAME/12.fas/ sh1.poy"
-"Check static homology characters after converting from sequences 13 sh1.poy" "sed -e s/FILENAME/13.fas/ sh1.poy"
-"Check build and search 1 bs.poy" "sed -e s/FILENAME/1.fas/ bs.poy"
-"Check build and search 2 bs.poy" "sed -e s/FILENAME/2.fas/ bs.poy"
-"Check build and search 3 bs.poy" "sed -e s/FILENAME/3.fas/ bs.poy"
-"Check build and search 4 bs.poy" "sed -e s/FILENAME/4.fas/ bs.poy"
-"Check build and search 5 bs.poy" "sed -e s/FILENAME/5.fas/ bs.poy"
-"Check build and search 6 bs.poy" "sed -e s/FILENAME/6.fas/ bs.poy"
-"Check build and search 7 bs.poy" "sed -e s/FILENAME/7.fas/ bs.poy"
-"Check build and search 8 bs.poy" "sed -e s/FILENAME/8.fas/ bs.poy"
-"Check build and search 9 bs.poy" "sed -e s/FILENAME/9.fas/ bs.poy"
-"Check build and search 10 bs.poy" "sed -e s/FILENAME/10.fas/ bs.poy"
-"Check build and search 11 bs.poy" "sed -e s/FILENAME/11.fas/ bs.poy"
-"Check build and search 12 bs.poy" "sed -e s/FILENAME/12.fas/ bs.poy"
-"Check build and search 13 bs.poy" "sed -e s/FILENAME/13.fas/ bs.poy"
-"Check build and search 14 bs.poy" "sed -e s/FILENAME/14.fas/ bs.poy"
-"Check build and search 15 bs.poy" "sed -e s/FILENAME/15.fas/ bs.poy"
-"Check build and search 16 bs.poy" "sed -e s/FILENAME/16.fas/ bs.poy"
-"Check build and search 17 bs.poy" "sed -e s/FILENAME/17.fas/ bs.poy"
-"Check build and search 18 bs.poy" "sed -e s/FILENAME/18.fas/ bs.poy"
-"Check build and search 19 bs.poy" "sed -e s/FILENAME/19.fas/ bs.poy"
-"Check build and search 20 bs.poy" "sed -e s/FILENAME/20.fas/ bs.poy"
-"Check build and search 21 bs.poy" "sed -e s/FILENAME/21.fas/ bs.poy"
-"Check build and search 22 bs.poy" "sed -e s/FILENAME/22.fas/ bs.poy"
-"Check build and search 23 bs.poy" "sed -e s/FILENAME/23.fas/ bs.poy"
-"Check build and search 24 bs.poy" "sed -e s/FILENAME/24.fas/ bs.poy"
-"Check build and search 25 bs.poy" "sed -e s/FILENAME/25.fas/ bs.poy"
-"Check build and search 26 bs.poy" "sed -e s/FILENAME/26.fas/ bs.poy"
-"Check build and search 27 bs.poy" "sed -e s/FILENAME/27.fas/ bs.poy"
-"Check build and search 28 bs.poy" "sed -e s/FILENAME/28.fas/ bs.poy"
-"Check build and search 29 bs.poy" "sed -e s/FILENAME/29.fas/ bs.poy"
-"Check build and search 1 bs1.poy" "sed -e s/FILENAME/1.fas/ bs1.poy"
-"Check build and search 2 bs1.poy" "sed -e s/FILENAME/2.fas/ bs1.poy"
-"Check build and search 3 bs1.poy" "sed -e s/FILENAME/3.fas/ bs1.poy"
-"Check build and search 4 bs1.poy" "sed -e s/FILENAME/4.fas/ bs1.poy"
-"Check build and search 5 bs1.poy" "sed -e s/FILENAME/5.fas/ bs1.poy"
-"Check build and search 6 bs1.poy" "sed -e s/FILENAME/6.fas/ bs1.poy"
-"Check build and search 7 bs1.poy" "sed -e s/FILENAME/7.fas/ bs1.poy"
-"Check build and search 8 bs1.poy" "sed -e s/FILENAME/8.fas/ bs1.poy"
-"Check build and search 9 bs1.poy" "sed -e s/FILENAME/9.fas/ bs1.poy"
-"Check build and search 10 bs1.poy" "sed -e s/FILENAME/10.fas/ bs1.poy"
-"Check build and search 11 bs1.poy" "sed -e s/FILENAME/11.fas/ bs1.poy"
-"Check build and search 12 bs1.poy" "sed -e s/FILENAME/12.fas/ bs1.poy"
-"Check build and search 13 bs1.poy" "sed -e s/FILENAME/13.fas/ bs1.poy"
-"Check build and search 14 bs1.poy" "sed -e s/FILENAME/14.fas/ bs1.poy"
-"Check build and search 15 bs1.poy" "sed -e s/FILENAME/15.fas/ bs1.poy"
-"Check build and search 16 bs1.poy" "sed -e s/FILENAME/16.fas/ bs1.poy"
-"Check build and search 17 bs1.poy" "sed -e s/FILENAME/17.fas/ bs1.poy"
-"Check build and search 18 bs1.poy" "sed -e s/FILENAME/18.fas/ bs1.poy"
-"Check build and search 19 bs1.poy" "sed -e s/FILENAME/19.fas/ bs1.poy"
-"Check build and search 20 bs1.poy" "sed -e s/FILENAME/20.fas/ bs1.poy"
-"Check build and search 21 bs1.poy" "sed -e s/FILENAME/21.fas/ bs1.poy"
-"Check build and search 22 bs1.poy" "sed -e s/FILENAME/22.fas/ bs1.poy"
-"Check build and search 23 bs1.poy" "sed -e s/FILENAME/23.fas/ bs1.poy"
-"Check build and search 24 bs1.poy" "sed -e s/FILENAME/24.fas/ bs1.poy"
-"Check build and search 25 bs1.poy" "sed -e s/FILENAME/25.fas/ bs1.poy"
-"Check build and search 26 bs1.poy" "sed -e s/FILENAME/26.fas/ bs1.poy"
-"Check build and search 27 bs1.poy" "sed -e s/FILENAME/27.fas/ bs1.poy"
-"Check build and search 28 bs1.poy" "sed -e s/FILENAME/28.fas/ bs1.poy"
-"Check build and search 29 bs1.poy" "sed -e s/FILENAME/29.fas/ bs1.poy"
-"Check build and search 1 bs2.poy" "sed -e s/FILENAME/1.fas/ bs2.poy"
-"Check build and search 2 bs2.poy" "sed -e s/FILENAME/2.fas/ bs2.poy"
-"Check build and search 3 bs2.poy" "sed -e s/FILENAME/3.fas/ bs2.poy"
-"Check build and search 4 bs2.poy" "sed -e s/FILENAME/4.fas/ bs2.poy"
-"Check build and search 5 bs2.poy" "sed -e s/FILENAME/5.fas/ bs2.poy"
-"Check build and search 6 bs2.poy" "sed -e s/FILENAME/6.fas/ bs2.poy"
-"Check build and search 7 bs2.poy" "sed -e s/FILENAME/7.fas/ bs2.poy"
-"Check build and search 8 bs2.poy" "sed -e s/FILENAME/8.fas/ bs2.poy"
-"Check build and search 9 bs2.poy" "sed -e s/FILENAME/9.fas/ bs2.poy"
-"Check build and search 10 bs2.poy" "sed -e s/FILENAME/10.fas/ bs2.poy"
-"Check build and search 11 bs2.poy" "sed -e s/FILENAME/11.fas/ bs2.poy"
-"Check build and search 12 bs2.poy" "sed -e s/FILENAME/12.fas/ bs2.poy"
-"Check build and search 13 bs2.poy" "sed -e s/FILENAME/13.fas/ bs2.poy"
-"Check build and search 14 bs2.poy" "sed -e s/FILENAME/14.fas/ bs2.poy"
-"Check build and search 15 bs2.poy" "sed -e s/FILENAME/15.fas/ bs2.poy"
-"Check build and search 16 bs2.poy" "sed -e s/FILENAME/16.fas/ bs2.poy"
-"Check build and search 17 bs2.poy" "sed -e s/FILENAME/17.fas/ bs2.poy"
-"Check build and search 18 bs2.poy" "sed -e s/FILENAME/18.fas/ bs2.poy"
-"Check build and search 19 bs2.poy" "sed -e s/FILENAME/19.fas/ bs2.poy"
-"Check build and search 20 bs2.poy" "sed -e s/FILENAME/20.fas/ bs2.poy"
-"Check build and search 21 bs2.poy" "sed -e s/FILENAME/21.fas/ bs2.poy"
-"Check build and search 22 bs2.poy" "sed -e s/FILENAME/22.fas/ bs2.poy"
-"Check build and search 23 bs2.poy" "sed -e s/FILENAME/23.fas/ bs2.poy"
-"Check build and search 24 bs2.poy" "sed -e s/FILENAME/24.fas/ bs2.poy"
-"Check build and search 25 bs2.poy" "sed -e s/FILENAME/25.fas/ bs2.poy"
-"Check build and search 26 bs2.poy" "sed -e s/FILENAME/26.fas/ bs2.poy"
-"Check build and search 27 bs2.poy" "sed -e s/FILENAME/27.fas/ bs2.poy"
-"Check build and search 28 bs2.poy" "sed -e s/FILENAME/28.fas/ bs2.poy"
-"Check build and search 29 bs2.poy" "sed -e s/FILENAME/29.fas/ bs2.poy"
-"Check build and search 1 bs3.poy" "sed -e s/FILENAME/1.fas/ bs3.poy"
-"Check build and search 2 bs3.poy" "sed -e s/FILENAME/2.fas/ bs3.poy"
-"Check build and search 3 bs3.poy" "sed -e s/FILENAME/3.fas/ bs3.poy"
-"Check build and search 4 bs3.poy" "sed -e s/FILENAME/4.fas/ bs3.poy"
-"Check build and search 5 bs3.poy" "sed -e s/FILENAME/5.fas/ bs3.poy"
-"Check build and search 6 bs3.poy" "sed -e s/FILENAME/6.fas/ bs3.poy"
-"Check build and search 7 bs3.poy" "sed -e s/FILENAME/7.fas/ bs3.poy"
-"Check build and search 8 bs3.poy" "sed -e s/FILENAME/8.fas/ bs3.poy"
-"Check build and search 9 bs3.poy" "sed -e s/FILENAME/9.fas/ bs3.poy"
-"Check build and search 10 bs3.poy" "sed -e s/FILENAME/10.fas/ bs3.poy"
-"Check build and search 11 bs3.poy" "sed -e s/FILENAME/11.fas/ bs3.poy"
-"Check build and search 12 bs3.poy" "sed -e s/FILENAME/12.fas/ bs3.poy"
-"Check build and search 13 bs3.poy" "sed -e s/FILENAME/13.fas/ bs3.poy"
-"Check build and search 14 bs3.poy" "sed -e s/FILENAME/14.fas/ bs3.poy"
-"Check build and search 15 bs3.poy" "sed -e s/FILENAME/15.fas/ bs3.poy"
-"Check build and search 16 bs3.poy" "sed -e s/FILENAME/16.fas/ bs3.poy"
-"Check build and search 17 bs3.poy" "sed -e s/FILENAME/17.fas/ bs3.poy"
-"Check build and search 18 bs3.poy" "sed -e s/FILENAME/18.fas/ bs3.poy"
-"Check build and search 19 bs3.poy" "sed -e s/FILENAME/19.fas/ bs3.poy"
-"Check build and search 20 bs3.poy" "sed -e s/FILENAME/20.fas/ bs3.poy"
-"Check build and search 21 bs3.poy" "sed -e s/FILENAME/21.fas/ bs3.poy"
-"Check build and search 22 bs3.poy" "sed -e s/FILENAME/22.fas/ bs3.poy"
-"Check build and search 23 bs3.poy" "sed -e s/FILENAME/23.fas/ bs3.poy"
-"Check build and search 24 bs3.poy" "sed -e s/FILENAME/24.fas/ bs3.poy"
-"Check build and search 25 bs3.poy" "sed -e s/FILENAME/25.fas/ bs3.poy"
-"Check build and search 26 bs3.poy" "sed -e s/FILENAME/26.fas/ bs3.poy"
-"Check build and search 27 bs3.poy" "sed -e s/FILENAME/27.fas/ bs3.poy"
-"Check build and search 28 bs3.poy" "sed -e s/FILENAME/28.fas/ bs3.poy"
-"Check build and search 29 bs3.poy" "sed -e s/FILENAME/29.fas/ bs3.poy"
-"Check build and search 1 bsa.poy" "sed -e s/FILENAME/1.fas/ bsa.poy"
-"Check build and search 2 bsa.poy" "sed -e s/FILENAME/2.fas/ bsa.poy"
-"Check build and search 3 bsa.poy" "sed -e s/FILENAME/3.fas/ bsa.poy"
-"Check build and search 4 bsa.poy" "sed -e s/FILENAME/4.fas/ bsa.poy"
-"Check build and search 5 bsa.poy" "sed -e s/FILENAME/5.fas/ bsa.poy"
-"Check build and search 6 bsa.poy" "sed -e s/FILENAME/6.fas/ bsa.poy"
-"Check build and search 7 bsa.poy" "sed -e s/FILENAME/7.fas/ bsa.poy"
-"Check build and search 8 bsa.poy" "sed -e s/FILENAME/8.fas/ bsa.poy"
-"Check build and search 9 bsa.poy" "sed -e s/FILENAME/9.fas/ bsa.poy"
-"Check build and search 10 bsa.poy" "sed -e s/FILENAME/10.fas/ bsa.poy"
-"Check build and search 11 bsa.poy" "sed -e s/FILENAME/11.fas/ bsa.poy"
-"Check build and search 12 bsa.poy" "sed -e s/FILENAME/12.fas/ bsa.poy"
-"Check build and search 13 bsa.poy" "sed -e s/FILENAME/13.fas/ bsa.poy"
-"Check build and search 14 bsa.poy" "sed -e s/FILENAME/14.fas/ bsa.poy"
-"Check build and search 15 bsa.poy" "sed -e s/FILENAME/15.fas/ bsa.poy"
-"Check build and search 16 bsa.poy" "sed -e s/FILENAME/16.fas/ bsa.poy"
-"Check build and search 17 bsa.poy" "sed -e s/FILENAME/17.fas/ bsa.poy"
-"Check build and search 18 bsa.poy" "sed -e s/FILENAME/18.fas/ bsa.poy"
-"Check build and search 19 bsa.poy" "sed -e s/FILENAME/19.fas/ bsa.poy"
-"Check build and search 20 bsa.poy" "sed -e s/FILENAME/20.fas/ bsa.poy"
-"Check build and search 21 bsa.poy" "sed -e s/FILENAME/21.fas/ bsa.poy"
-"Check build and search 22 bsa.poy" "sed -e s/FILENAME/22.fas/ bsa.poy"
-"Check build and search 23 bsa.poy" "sed -e s/FILENAME/23.fas/ bsa.poy"
-"Check build and search 24 bsa.poy" "sed -e s/FILENAME/24.fas/ bsa.poy"
-"Check build and search 25 bsa.poy" "sed -e s/FILENAME/25.fas/ bsa.poy"
-"Check build and search 26 bsa.poy" "sed -e s/FILENAME/26.fas/ bsa.poy"
-"Check build and search 27 bsa.poy" "sed -e s/FILENAME/27.fas/ bsa.poy"
-"Check build and search 28 bsa.poy" "sed -e s/FILENAME/28.fas/ bsa.poy"
-"Check build and search 29 bsa.poy" "sed -e s/FILENAME/29.fas/ bsa.poy"
-"Check build and search 1 bs1a.poy" "sed -e s/FILENAME/1.fas/ bs1a.poy"
-"Check build and search 2 bs1a.poy" "sed -e s/FILENAME/2.fas/ bs1a.poy"
-"Check build and search 3 bs1a.poy" "sed -e s/FILENAME/3.fas/ bs1a.poy"
-"Check build and search 4 bs1a.poy" "sed -e s/FILENAME/4.fas/ bs1a.poy"
-"Check build and search 5 bs1a.poy" "sed -e s/FILENAME/5.fas/ bs1a.poy"
-"Check build and search 6 bs1a.poy" "sed -e s/FILENAME/6.fas/ bs1a.poy"
-"Check build and search 7 bs1a.poy" "sed -e s/FILENAME/7.fas/ bs1a.poy"
-"Check build and search 8 bs1a.poy" "sed -e s/FILENAME/8.fas/ bs1a.poy"
-"Check build and search 9 bs1a.poy" "sed -e s/FILENAME/9.fas/ bs1a.poy"
-"Check build and search 10 bs1a.poy" "sed -e s/FILENAME/10.fas/ bs1a.poy"
-"Check build and search 11 bs1a.poy" "sed -e s/FILENAME/11.fas/ bs1a.poy"
-"Check build and search 12 bs1a.poy" "sed -e s/FILENAME/12.fas/ bs1a.poy"
-"Check build and search 13 bs1a.poy" "sed -e s/FILENAME/13.fas/ bs1a.poy"
-"Check build and search 14 bs1a.poy" "sed -e s/FILENAME/14.fas/ bs1a.poy"
-"Check build and search 15 bs1a.poy" "sed -e s/FILENAME/15.fas/ bs1a.poy"
-"Check build and search 16 bs1a.poy" "sed -e s/FILENAME/16.fas/ bs1a.poy"
-"Check build and search 17 bs1a.poy" "sed -e s/FILENAME/17.fas/ bs1a.poy"
-"Check build and search 18 bs1a.poy" "sed -e s/FILENAME/18.fas/ bs1a.poy"
-"Check build and search 19 bs1a.poy" "sed -e s/FILENAME/19.fas/ bs1a.poy"
-"Check build and search 20 bs1a.poy" "sed -e s/FILENAME/20.fas/ bs1a.poy"
-"Check build and search 21 bs1a.poy" "sed -e s/FILENAME/21.fas/ bs1a.poy"
-"Check build and search 22 bs1a.poy" "sed -e s/FILENAME/22.fas/ bs1a.poy"
-"Check build and search 23 bs1a.poy" "sed -e s/FILENAME/23.fas/ bs1a.poy"
-"Check build and search 24 bs1a.poy" "sed -e s/FILENAME/24.fas/ bs1a.poy"
-"Check build and search 25 bs1a.poy" "sed -e s/FILENAME/25.fas/ bs1a.poy"
-"Check build and search 26 bs1a.poy" "sed -e s/FILENAME/26.fas/ bs1a.poy"
-"Check build and search 27 bs1a.poy" "sed -e s/FILENAME/27.fas/ bs1a.poy"
-"Check build and search 28 bs1a.poy" "sed -e s/FILENAME/28.fas/ bs1a.poy"
-"Check build and search 29 bs1a.poy" "sed -e s/FILENAME/29.fas/ bs1a.poy"
-"Check build and search 1 bs2a.poy" "sed -e s/FILENAME/1.fas/ bs2a.poy"
-"Check build and search 2 bs2a.poy" "sed -e s/FILENAME/2.fas/ bs2a.poy"
-"Check build and search 3 bs2a.poy" "sed -e s/FILENAME/3.fas/ bs2a.poy"
-"Check build and search 4 bs2a.poy" "sed -e s/FILENAME/4.fas/ bs2a.poy"
-"Check build and search 5 bs2a.poy" "sed -e s/FILENAME/5.fas/ bs2a.poy"
-"Check build and search 6 bs2a.poy" "sed -e s/FILENAME/6.fas/ bs2a.poy"
-"Check build and search 7 bs2a.poy" "sed -e s/FILENAME/7.fas/ bs2a.poy"
-"Check build and search 8 bs2a.poy" "sed -e s/FILENAME/8.fas/ bs2a.poy"
-"Check build and search 9 bs2a.poy" "sed -e s/FILENAME/9.fas/ bs2a.poy"
-"Check build and search 10 bs2a.poy" "sed -e s/FILENAME/10.fas/ bs2a.poy"
-"Check build and search 11 bs2a.poy" "sed -e s/FILENAME/11.fas/ bs2a.poy"
-"Check build and search 12 bs2a.poy" "sed -e s/FILENAME/12.fas/ bs2a.poy"
-"Check build and search 13 bs2a.poy" "sed -e s/FILENAME/13.fas/ bs2a.poy"
-"Check build and search 14 bs2a.poy" "sed -e s/FILENAME/14.fas/ bs2a.poy"
-"Check build and search 15 bs2a.poy" "sed -e s/FILENAME/15.fas/ bs2a.poy"
-"Check build and search 16 bs2a.poy" "sed -e s/FILENAME/16.fas/ bs2a.poy"
-"Check build and search 17 bs2a.poy" "sed -e s/FILENAME/17.fas/ bs2a.poy"
-"Check build and search 18 bs2a.poy" "sed -e s/FILENAME/18.fas/ bs2a.poy"
-"Check build and search 19 bs2a.poy" "sed -e s/FILENAME/19.fas/ bs2a.poy"
-"Check build and search 20 bs2a.poy" "sed -e s/FILENAME/20.fas/ bs2a.poy"
-"Check build and search 21 bs2a.poy" "sed -e s/FILENAME/21.fas/ bs2a.poy"
-"Check build and search 22 bs2a.poy" "sed -e s/FILENAME/22.fas/ bs2a.poy"
-"Check build and search 23 bs2a.poy" "sed -e s/FILENAME/23.fas/ bs2a.poy"
-"Check build and search 24 bs2a.poy" "sed -e s/FILENAME/24.fas/ bs2a.poy"
-"Check build and search 25 bs2a.poy" "sed -e s/FILENAME/25.fas/ bs2a.poy"
-"Check build and search 26 bs2a.poy" "sed -e s/FILENAME/26.fas/ bs2a.poy"
-"Check build and search 27 bs2a.poy" "sed -e s/FILENAME/27.fas/ bs2a.poy"
-"Check build and search 28 bs2a.poy" "sed -e s/FILENAME/28.fas/ bs2a.poy"
-"Check build and search 29 bs2a.poy" "sed -e s/FILENAME/29.fas/ bs2a.poy"
-"Check build and search 1 bs3a.poy" "sed -e s/FILENAME/1.fas/ bs3a.poy"
-"Check build and search 2 bs3a.poy" "sed -e s/FILENAME/2.fas/ bs3a.poy"
-"Check build and search 3 bs3a.poy" "sed -e s/FILENAME/3.fas/ bs3a.poy"
-"Check build and search 4 bs3a.poy" "sed -e s/FILENAME/4.fas/ bs3a.poy"
-"Check build and search 5 bs3a.poy" "sed -e s/FILENAME/5.fas/ bs3a.poy"
-"Check build and search 6 bs3a.poy" "sed -e s/FILENAME/6.fas/ bs3a.poy"
-"Check build and search 7 bs3a.poy" "sed -e s/FILENAME/7.fas/ bs3a.poy"
-"Check build and search 8 bs3a.poy" "sed -e s/FILENAME/8.fas/ bs3a.poy"
-"Check build and search 9 bs3a.poy" "sed -e s/FILENAME/9.fas/ bs3a.poy"
-"Check build and search 10 bs3a.poy" "sed -e s/FILENAME/10.fas/ bs3a.poy"
-"Check build and search 11 bs3a.poy" "sed -e s/FILENAME/11.fas/ bs3a.poy"
-"Check build and search 12 bs3a.poy" "sed -e s/FILENAME/12.fas/ bs3a.poy"
-"Check build and search 13 bs3a.poy" "sed -e s/FILENAME/13.fas/ bs3a.poy"
-"Check build and search 14 bs3a.poy" "sed -e s/FILENAME/14.fas/ bs3a.poy"
-"Check build and search 15 bs3a.poy" "sed -e s/FILENAME/15.fas/ bs3a.poy"
-"Check build and search 16 bs3a.poy" "sed -e s/FILENAME/16.fas/ bs3a.poy"
-"Check build and search 17 bs3a.poy" "sed -e s/FILENAME/17.fas/ bs3a.poy"
-"Check build and search 18 bs3a.poy" "sed -e s/FILENAME/18.fas/ bs3a.poy"
-"Check build and search 19 bs3a.poy" "sed -e s/FILENAME/19.fas/ bs3a.poy"
-"Check build and search 20 bs3a.poy" "sed -e s/FILENAME/20.fas/ bs3a.poy"
-"Check build and search 21 bs3a.poy" "sed -e s/FILENAME/21.fas/ bs3a.poy"
-"Check build and search 22 bs3a.poy" "sed -e s/FILENAME/22.fas/ bs3a.poy"
-"Check build and search 23 bs3a.poy" "sed -e s/FILENAME/23.fas/ bs3a.poy"
-"Check build and search 24 bs3a.poy" "sed -e s/FILENAME/24.fas/ bs3a.poy"
-"Check build and search 25 bs3a.poy" "sed -e s/FILENAME/25.fas/ bs3a.poy"
-"Check build and search 26 bs3a.poy" "sed -e s/FILENAME/26.fas/ bs3a.poy"
-"Check build and search 27 bs3a.poy" "sed -e s/FILENAME/27.fas/ bs3a.poy"
-"Check build and search 28 bs3a.poy" "sed -e s/FILENAME/28.fas/ bs3a.poy"
-"Check build and search 29 bs3a.poy" "sed -e s/FILENAME/29.fas/ bs3a.poy"
-"Check build and search 28 bs3a.poy" "sed -e s/FILENAME/28.fas/ bs3a.poy"
-"Check auto sequence partition 1 asp.poy" "sed -e s/FILENAME/1.fas/ asp.poy"
-"Check auto sequence partition 2 asp.poy" "sed -e s/FILENAME/2.fas/ asp.poy"
-"Check auto sequence partition 3 asp.poy" "sed -e s/FILENAME/3.fas/ asp.poy"
-"Check auto sequence partition 4 asp.poy" "sed -e s/FILENAME/4.fas/ asp.poy"
-"Check auto sequence partition 5 asp.poy" "sed -e s/FILENAME/5.fas/ asp.poy"
-"Check auto sequence partition 6 asp.poy" "sed -e s/FILENAME/6.fas/ asp.poy"
-"Check auto sequence partition 7 asp.poy" "sed -e s/FILENAME/7.fas/ asp.poy"
-"Check auto sequence partition 8 asp.poy" "sed -e s/FILENAME/8.fas/ asp.poy"
-"Check auto sequence partition 9 asp.poy" "sed -e s/FILENAME/9.fas/ asp.poy"
-"Check auto sequence partition 10 asp.poy" "sed -e s/FILENAME/10.fas/ asp.poy"
-"Check auto sequence partition 11 asp.poy" "sed -e s/FILENAME/11.fas/ asp.poy"
-"Check auto sequence partition 12 asp.poy" "sed -e s/FILENAME/12.fas/ asp.poy"
-"Check auto sequence partition 13 asp.poy" "sed -e s/FILENAME/13.fas/ asp.poy"
-"Check auto sequence partition 14 asp.poy" "sed -e s/FILENAME/14.fas/ asp.poy"
-"Check auto sequence partition 15 asp.poy" "sed -e s/FILENAME/15.fas/ asp.poy"
-"Check auto sequence partition 16 asp.poy" "sed -e s/FILENAME/16.fas/ asp.poy"
-"Check auto sequence partition 17 asp.poy" "sed -e s/FILENAME/17.fas/ asp.poy"
-"Check auto sequence partition 18 asp.poy" "sed -e s/FILENAME/18.fas/ asp.poy"
-"Check auto sequence partition 19 asp.poy" "sed -e s/FILENAME/19.fas/ asp.poy"
-"Check auto sequence partition 20 asp.poy" "sed -e s/FILENAME/20.fas/ asp.poy"
-"Check auto sequence partition 21 asp.poy" "sed -e s/FILENAME/21.fas/ asp.poy"
-"Check auto sequence partition 22 asp.poy" "sed -e s/FILENAME/22.fas/ asp.poy"
-"Check auto sequence partition 23 asp.poy" "sed -e s/FILENAME/23.fas/ asp.poy"
-"Check auto sequence partition 24 asp.poy" "sed -e s/FILENAME/24.fas/ asp.poy"
-"Check auto sequence partition 25 asp.poy" "sed -e s/FILENAME/25.fas/ asp.poy"
-"Check auto sequence partition 26 asp.poy" "sed -e s/FILENAME/26.fas/ asp.poy"
-"Check auto sequence partition 27 asp.poy" "sed -e s/FILENAME/27.fas/ asp.poy"
-"Check auto sequence partition 28 asp.poy" "sed -e s/FILENAME/28.fas/ asp.poy"
-"Check auto sequence partition 29 asp.poy" "sed -e s/FILENAME/29.fas/ asp.poy"
-"Check auto sequence partition 28 asp.poy" "sed -e s/FILENAME/28.fas/ asp.poy"
-"Check auto static approx 1 asx.poy" "sed -e s/FILENAME/1.fas/ asx.poy"
-"Check auto static approx 2 asx.poy" "sed -e s/FILENAME/2.fas/ asx.poy"
-"Check auto static approx 3 asx.poy" "sed -e s/FILENAME/3.fas/ asx.poy"
-"Check auto static approx 4 asx.poy" "sed -e s/FILENAME/4.fas/ asx.poy"
-"Check auto static approx 5 asx.poy" "sed -e s/FILENAME/5.fas/ asx.poy"
-"Check auto static approx 6 asx.poy" "sed -e s/FILENAME/6.fas/ asx.poy"
-"Check auto static approx 7 asx.poy" "sed -e s/FILENAME/7.fas/ asx.poy"
-"Check auto static approx 8 asx.poy" "sed -e s/FILENAME/8.fas/ asx.poy"
-"Check auto static approx 9 asx.poy" "sed -e s/FILENAME/9.fas/ asx.poy"
-"Check auto static approx 10 asx.poy" "sed -e s/FILENAME/10.fas/ asx.poy"
-"Check auto static approx 11 asx.poy" "sed -e s/FILENAME/11.fas/ asx.poy"
-"Check auto static approx 12 asx.poy" "sed -e s/FILENAME/12.fas/ asx.poy"
-"Check auto static approx 13 asx.poy" "sed -e s/FILENAME/13.fas/ asx.poy"
-"Check auto static approx 14 asx.poy" "sed -e s/FILENAME/14.fas/ asx.poy"
-"Check auto static approx 15 asx.poy" "sed -e s/FILENAME/15.fas/ asx.poy"
-"Check auto static approx 16 asx.poy" "sed -e s/FILENAME/16.fas/ asx.poy"
-"Check auto static approx 17 asx.poy" "sed -e s/FILENAME/17.fas/ asx.poy"
-"Check auto static approx 18 asx.poy" "sed -e s/FILENAME/18.fas/ asx.poy"
-"Check auto static approx 19 asx.poy" "sed -e s/FILENAME/19.fas/ asx.poy"
-"Check auto static approx 20 asx.poy" "sed -e s/FILENAME/20.fas/ asx.poy"
-"Check auto static approx 21 asx.poy" "sed -e s/FILENAME/21.fas/ asx.poy"
-"Check auto static approx 22 asx.poy" "sed -e s/FILENAME/22.fas/ asx.poy"
-"Check auto static approx 23 asx.poy" "sed -e s/FILENAME/23.fas/ asx.poy"
-"Check auto static approx 24 asx.poy" "sed -e s/FILENAME/24.fas/ asx.poy"
-"Check auto static approx 25 asx.poy" "sed -e s/FILENAME/25.fas/ asx.poy"
-"Check auto static approx 26 asx.poy" "sed -e s/FILENAME/26.fas/ asx.poy"
-"Check auto static approx 27 asx.poy" "sed -e s/FILENAME/27.fas/ asx.poy"
-"Check auto static approx 28 asx.poy" "sed -e s/FILENAME/28.fas/ asx.poy"
-"Check auto static approx 29 asx.poy" "sed -e s/FILENAME/29.fas/ asx.poy"
-"Check auto static approx 28 asx.poy" "sed -e s/FILENAME/28.fas/ asx.poy"
+-message "Check custom alphabet read" -command "cat ca.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/"
+-message "Check custom alphabet ia" -command "cat ca1.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/" 
+-message "Check custom alphabet read and build" -command "cat ca2.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/ | sed -e s/FILENAME3/ca2.tree/" 
+-message "Check tree cost 1 chromosome ua.poy" -command "sed -e s/FILENAME/ua.fas/ ua.poy" -cost -208 
+-message "Check ia for chromosome" -command "sed -e s/FILENAME/ua.fas/ ua1.poy"
+-message "Check tree cost ua2 with locus_indel chromosome ua2.poy" -command "sed -e s/FILENAME/ua2.fas/ ua2.poy" -cost -746 
+-message "Check tree cost ua3 with rearranged_len chromosome ua3.poy" -command "sed -e s/FILENAME/ua3.fas/ ua3.poy" -cost -208
+-message "Check tree cost ua4 with sig_block_len chromosome ua4.poy" -command "sed -e s/FILENAME/ua4.fas/ ua4.poy" -cost -208
+-message "Check tree cost 1 annotated chromosome an.poy" -command "sed -e s/FILENAME/an.fas/ an.poy" -cost -40 
+-message "Check ia for annotated chromosome" -command "sed -e s/FILENAME/an.fas/ an1.poy"
+-message "Check tree cost an2 with locus_indel annotated chromosome ua2.poy" -command "sed -e s/FILENAME/an2.fas/ an2.poy" -cost -40 
+-message "Check tree cost an3 with rearranged_len annotated chromosome an3.poy" -command "sed -e s/FILENAME/an3.fas/ an3.poy" -cost -40
+-message "Check tree cost an4.fas with sig_block_len annotated chromosome an4.poy" -command "sed -e s/FILENAME/an4.fas/ an4.poy" -cost -100
+-message "Check transformation into static sankoff character sk.poy" -command "cat sk.poy | sed -e s/FILENAME1/2.fas/ | sed -e s/FILENAME2/g6ts1tv2/" 
+-message "Check break inv read" -command "cat bi.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/"
+-message "Check break inv ia" -command "cat bi1.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/" 
+-message "Check xml output bi2.poy" -command "cat bi2.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/"
+-message "Check xml output ca3.poy" -command "cat ca3.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/"
+-message "Check xml output an5.poy" -command "sed -e s/FILENAME/an2.fas/ an5.poy" 
+-message "Check xml output of sankoff character s1k.poy" -command "cat sk1.poy | sed -e s/FILENAME1/2.fas/ | sed -e s/FILENAME2/g6ts1tv2/" 
+-message "Check xml output for chromosome ua5.poy" -command "sed -e s/FILENAME/ua.fas/ ua5.poy"
+-message "Check tree cost 1 cnc.poy" -command "sed -e s/FILENAME/1.fas/ cnc.poy" -cost -880
+-message "Check tree cost 2 cnc.poy" -command "sed -e s/FILENAME/2.fas/ cnc.poy" -cost -339
+-message "Check tree cost 3 cnc.poy" -command "sed -e s/FILENAME/3.fas/ cnc.poy" -cost -502
+-message "Check tree cost 4 cnc.poy" -command "sed -e s/FILENAME/4.fas/ cnc.poy" -cost -853
+-message "Check tree cost 5 cnc.poy" -command "sed -e s/FILENAME/5.fas/ cnc.poy" -cost -668
+-message "Check tree cost 6 cnc.poy" -command "sed -e s/FILENAME/6.fas/ cnc.poy" -cost -20579
+-message "Check tree cost 7 cnc.poy" -command "sed -e s/FILENAME/7.fas/ cnc.poy" -cost -723
+-message "Check tree cost 8 cnc.poy" -command "sed -e s/FILENAME/8.fas/ cnc.poy" -cost -810
+-message "Check tree cost 9 cnc.poy" -command "sed -e s/FILENAME/9.fas/ cnc.poy" -cost -1673
+-message "Check tree cost 10 cnc.poy" -command "sed -e s/FILENAME/10.fas/ cnc.poy" -cost -16007
+-message "Check tree cost 11 cnc.poy" -command "sed -e s/FILENAME/11.fas/ cnc.poy" -cost -723
+-message "Check tree cost 12 cnc.poy" -command "sed -e s/FILENAME/12.fas/ cnc.poy" -cost -810
+-message "Check tree cost 13 cnc.poy" -command "sed -e s/FILENAME/13.fas/ cnc.poy" -cost -1673
+-message "Check tree cost 1 cnc1.poy" -command "sed -e s/FILENAME/1.fas/ cnc1.poy" -cost -614
+-message "Check tree cost 2 cnc1.poy" -command "sed -e s/FILENAME/2.fas/ cnc1.poy" -cost -303
+-message "Check tree cost 3 cnc1.poy" -command "sed -e s/FILENAME/3.fas/ cnc1.poy" -cost -506
+-message "Check tree cost 4 cnc1.poy" -command "sed -e s/FILENAME/4.fas/ cnc1.poy" -cost -622
+-message "Check tree cost 5 cnc1.poy" -command "sed -e s/FILENAME/5.fas/ cnc1.poy" -cost -604
+-message "Check tree cost 6 cnc1.poy" -command "sed -e s/FILENAME/6.fas/ cnc1.poy" -cost -16903
+-message "Check tree cost 7 cnc1.poy" -command "sed -e s/FILENAME/7.fas/ cnc1.poy" -cost -730
+-message "Check tree cost 8 cnc1.poy" -command "sed -e s/FILENAME/8.fas/ cnc1.poy" -cost -816
+-message "Check tree cost 9 cnc1.poy" -command "sed -e s/FILENAME/9.fas/ cnc1.poy" -cost -1672
+-message "Check tree cost 10 cnc1.poy" -command "sed -e s/FILENAME/10.fas/ cnc1.poy" -cost -14128
+-message "Check tree cost 11 cnc1.poy" -command "sed -e s/FILENAME/11.fas/ cnc1.poy" -cost -730
+-message "Check tree cost 12 cnc1.poy" -command "sed -e s/FILENAME/12.fas/ cnc1.poy" -cost -816
+-message "Check tree cost 13 cnc1.poy" -command "sed -e s/FILENAME/13.fas/ cnc1.poy" -cost -1672
+-message "Check tree cost 1 cnc2.poy" -command "sed -e s/FILENAME/1.fas/ cnc2.poy" -cost -1139
+-message "Check tree cost 2 cnc2.poy" -command "sed -e s/FILENAME/2.fas/ cnc2.poy" -cost -580
+-message "Check tree cost 3 cnc2.poy" -command "sed -e s/FILENAME/3.fas/ cnc2.poy" -cost -1004
+-message "Check tree cost 4 cnc2.poy" -command "sed -e s/FILENAME/4.fas/ cnc2.poy" -cost -1139
+-message "Check tree cost 5 cnc2.poy" -command "sed -e s/FILENAME/5.fas/ cnc2.poy" -cost -1149
+-message "Check tree cost 6 cnc2.poy" -command "sed -e s/FILENAME/6.fas/ cnc2.poy" -cost -43836
+-message "Check tree cost 7 cnc2.poy" -command "sed -e s/FILENAME/7.fas/ cnc2.poy" -cost -1443
+-message "Check tree cost 8 cnc2.poy" -command "sed -e s/FILENAME/8.fas/ cnc2.poy" -cost -1620
+-message "Check tree cost 9 cnc2.poy" -command "sed -e s/FILENAME/9.fas/ cnc2.poy" -cost -3350
+-message "Check tree cost 10 cnc2.poy" -command "sed -e s/FILENAME/10.fas/ cnc2.poy" -cost -27474
+-message "Check tree cost 11 cnc2.poy" -command "sed -e s/FILENAME/11.fas/ cnc2.poy" -cost -1443
+-message "Check tree cost 12 cnc2.poy" -command "sed -e s/FILENAME/12.fas/ cnc2.poy" -cost -1620
+-message "Check tree cost 13 cnc2.poy" -command "sed -e s/FILENAME/13.fas/ cnc2.poy" -cost -3350
+-message "Check tree cost 1 cnc3.poy" -command "sed -e s/FILENAME/1.fas/ cnc3.poy" -cost -2325
+-message "Check tree cost 2 cnc3.poy" -command "sed -e s/FILENAME/2.fas/ cnc3.poy" -cost -1068
+-message "Check tree cost 3 cnc3.poy" -command "sed -e s/FILENAME/3.fas/ cnc3.poy" -cost -1506
+-message "Check tree cost 4 cnc3.poy" -command "sed -e s/FILENAME/4.fas/ cnc3.poy" -cost -2867
+-message "Check tree cost 5 cnc3.poy" -command "sed -e s/FILENAME/5.fas/ cnc3.poy" -cost -2876
+-message "Check tree cost 6 cnc3.poy" -command "sed -e s/FILENAME/6.fas/ cnc3.poy" -cost -68597
+-message "Check tree cost 7 cnc3.poy" -command "sed -e s/FILENAME/7.fas/ cnc3.poy" -cost -2169
+-message "Check tree cost 8 cnc3.poy" -command "sed -e s/FILENAME/8.fas/ cnc3.poy" -cost -2430
+-message "Check tree cost 9 cnc3.poy" -command "sed -e s/FILENAME/9.fas/ cnc3.poy" -cost -5136
+-message "Check tree cost 10 cnc3.poy" -command "sed -e s/FILENAME/10.fas/ cnc3.poy" -cost -48481
+-message "Check tree cost 11 cnc3.poy" -command "sed -e s/FILENAME/11.fas/ cnc3.poy" -cost -2169
+-message "Check tree cost 12 cnc3.poy" -command "sed -e s/FILENAME/12.fas/ cnc3.poy" -cost -2430
+-message "Check tree cost 13 cnc3.poy" -command "sed -e s/FILENAME/13.fas/ cnc3.poy" -cost -5136
+-message "Check tree cost 1 cc.poy" -command "sed -e s/FILENAME/1.fas/ cc.poy" -cost 865
+-message "Check tree cost 2 cc.poy" -command "sed -e s/FILENAME/2.fas/ cc.poy" -cost 336
+-message "Check tree cost 3 cc.poy" -command "sed -e s/FILENAME/3.fas/ cc.poy" -cost 502
+-message "Check tree cost 4 cc.poy" -command "sed -e s/FILENAME/4.fas/ cc.poy" -cost 839
+-message "Check tree cost 5 cc.poy" -command "sed -e s/FILENAME/5.fas/ cc.poy" -cost 667
+-message "Check tree cost 6 cc.poy" -command "sed -e s/FILENAME/6.fas/ cc.poy" -cost 20482
+-message "Check tree cost 7 cc.poy" -command "sed -e s/FILENAME/7.fas/ cc.poy" -cost 723
+-message "Check tree cost 8 cc.poy" -command "sed -e s/FILENAME/8.fas/ cc.poy" -cost 810
+-message "Check tree cost 9 cc.poy" -command "sed -e s/FILENAME/9.fas/ cc.poy" -cost 1672
+-message "Check tree cost 10 cc.poy" -command "sed -e s/FILENAME/10.fas/ cc.poy" -cost 15959
+-message "Check tree cost 11 cc.poy" -command "sed -e s/FILENAME/11.fas/ cc.poy" -cost 723
+-message "Check tree cost 12 cc.poy" -command "sed -e s/FILENAME/12.fas/ cc.poy" -cost 810
+-message "Check tree cost 13 cc.poy" -command "sed -e s/FILENAME/13.fas/ cc.poy" -cost 1672
+-message "Check tree cost 1 cc1.poy" -command "sed -e s/FILENAME/1.fas/ cc1.poy" -cost 607
+-message "Check tree cost 2 cc1.poy" -command "sed -e s/FILENAME/2.fas/ cc1.poy" -cost 295
+-message "Check tree cost 3 cc1.poy" -command "sed -e s/FILENAME/3.fas/ cc1.poy" -cost 505
+-message "Check tree cost 4 cc1.poy" -command "sed -e s/FILENAME/4.fas/ cc1.poy" -cost 609
+-message "Check tree cost 5 cc1.poy" -command "sed -e s/FILENAME/5.fas/ cc1.poy" -cost 585
+-message "Check tree cost 6 cc1.poy" -command "sed -e s/FILENAME/6.fas/ cc1.poy" -cost 16812
+-message "Check tree cost 7 cc1.poy" -command "sed -e s/FILENAME/7.fas/ cc1.poy" -cost 729
+-message "Check tree cost 8 cc1.poy" -command "sed -e s/FILENAME/8.fas/ cc1.poy" -cost 815
+-message "Check tree cost 9 cc1.poy" -command "sed -e s/FILENAME/9.fas/ cc1.poy" -cost 1669
+-message "Check tree cost 10 cc1.poy" -command "sed -e s/FILENAME/10.fas/ cc1.poy" -cost 14082
+-message "Check tree cost 11 cc1.poy" -command "sed -e s/FILENAME/11.fas/ cc1.poy" -cost 729
+-message "Check tree cost 12 cc1.poy" -command "sed -e s/FILENAME/12.fas/ cc1.poy" -cost 815
+-message "Check tree cost 13 cc1.poy" -command "sed -e s/FILENAME/13.fas/ cc1.poy" -cost 1669
+-message "Check tree cost 1 cc2.poy" -command "sed -e s/FILENAME/1.fas/ cc2.poy" -cost 1124
+-message "Check tree cost 2 cc2.poy" -command "sed -e s/FILENAME/2.fas/ cc2.poy" -cost 556
+-message "Check tree cost 3 cc2.poy" -command "sed -e s/FILENAME/3.fas/ cc2.poy" -cost 1002
+-message "Check tree cost 4 cc2.poy" -command "sed -e s/FILENAME/4.fas/ cc2.poy" -cost 1124
+-message "Check tree cost 5 cc2.poy" -command "sed -e s/FILENAME/5.fas/ cc2.poy" -cost 1096
+-message "Check tree cost 6 cc2.poy" -command "sed -e s/FILENAME/6.fas/ cc2.poy" -cost 41988
+-message "Check tree cost 7 cc2.poy" -command "sed -e s/FILENAME/7.fas/ cc2.poy" -cost 1439
+-message "Check tree cost 8 cc2.poy" -command "sed -e s/FILENAME/8.fas/ cc2.poy" -cost 1620
+-message "Check tree cost 9 cc2.poy" -command "sed -e s/FILENAME/9.fas/ cc2.poy" -cost 3338
+-message "Check tree cost 10 cc2.poy" -command "sed -e s/FILENAME/10.fas/ cc2.poy" -cost 27379
+-message "Check tree cost 11 cc2.poy" -command "sed -e s/FILENAME/11.fas/ cc2.poy" -cost 1439
+-message "Check tree cost 12 cc2.poy" -command "sed -e s/FILENAME/12.fas/ cc2.poy" -cost 1620
+-message "Check tree cost 13 cc2.poy" -command "sed -e s/FILENAME/13.fas/ cc2.poy" -cost 3338
+-message "Check tree cost 1 cc3.poy" -command "sed -e s/FILENAME/1.fas/ cc3.poy" -cost 2225
+-message "Check tree cost 2 cc3.poy" -command "sed -e s/FILENAME/2.fas/ cc3.poy" -cost 1002
+-message "Check tree cost 3 cc3.poy" -command "sed -e s/FILENAME/3.fas/ cc3.poy" -cost 1506
+-message "Check tree cost 4 cc3.poy" -command "sed -e s/FILENAME/4.fas/ cc3.poy" -cost 2213
+-message "Check tree cost 5 cc3.poy" -command "sed -e s/FILENAME/5.fas/ cc3.poy" -cost 1643
+-message "Check tree cost 6 cc3.poy" -command "sed -e s/FILENAME/6.fas/ cc3.poy" -cost 59894
+-message "Check tree cost 7 cc3.poy" -command "sed -e s/FILENAME/7.fas/ cc3.poy" -cost 2169
+-message "Check tree cost 8 cc3.poy" -command "sed -e s/FILENAME/8.fas/ cc3.poy" -cost 2430
+-message "Check tree cost 9 cc3.poy" -command "sed -e s/FILENAME/9.fas/ cc3.poy" -cost 5012
+-message "Check tree cost 10 cc3.poy" -command "sed -e s/FILENAME/10.fas/ cc3.poy" -cost 47040
+-message "Check tree cost 11 cc3.poy" -command "sed -e s/FILENAME/11.fas/ cc3.poy" -cost 2169
+-message "Check tree cost 12 cc3.poy" -command "sed -e s/FILENAME/12.fas/ cc3.poy" -cost 2430
+-message "Check tree cost 13 cc3.poy" -command "sed -e s/FILENAME/13.fas/ cc3.poy" -cost 5012
+-message "Check tree cost after static approx 1 sa.poy" -command "sed -e s/FILENAME/1.fas/ sa.poy" -cost 865
+-message "Check tree cost after static approx 2 sa.poy" -command "sed -e s/FILENAME/2.fas/ sa.poy" -cost 336
+-message "Check tree cost after static approx 3 sa.poy" -command "sed -e s/FILENAME/3.fas/ sa.poy" -cost 502
+-message "Check tree cost after static approx 4 sa.poy" -command "sed -e s/FILENAME/4.fas/ sa.poy" -cost 839
+-message "Check tree cost after static approx 5 sa.poy" -command "sed -e s/FILENAME/5.fas/ sa.poy" -cost 667
+-message "Check tree cost after static approx 6 sa.poy" -command "sed -e s/FILENAME/6.fas/ sa.poy" -cost 20482
+-message "Check tree cost after static approx 7 sa.poy" -command "sed -e s/FILENAME/7.fas/ sa.poy" -cost 723
+-message "Check tree cost after static approx 8 sa.poy" -command "sed -e s/FILENAME/8.fas/ sa.poy" -cost 810
+-message "Check tree cost after static approx 9 sa.poy" -command "sed -e s/FILENAME/9.fas/ sa.poy" -cost 1672
+-message "Check tree cost after static approx 10 sa.poy" -command "sed -e s/FILENAME/10.fas/ sa.poy" -cost 15959
+-message "Check tree cost after static approx 11 sa.poy" -command "sed -e s/FILENAME/11.fas/ sa.poy" -cost 723
+-message "Check tree cost after static approx 12 sa.poy" -command "sed -e s/FILENAME/12.fas/ sa.poy" -cost 810
+-message "Check tree cost after static approx 13 sa.poy" -command "sed -e s/FILENAME/13.fas/ sa.poy" -cost 1672
+-message "Check tree cost after static approx 1 sa1.poy" -command "sed -e s/FILENAME/1.fas/ sa1.poy" -cost 607
+-message "Check tree cost after static approx 2 sa1.poy" -command "sed -e s/FILENAME/2.fas/ sa1.poy" -cost 295
+-message "Check tree cost after static approx 3 sa1.poy" -command "sed -e s/FILENAME/3.fas/ sa1.poy" -cost 505
+-message "Check tree cost after static approx 4 sa1.poy" -command "sed -e s/FILENAME/4.fas/ sa1.poy" -cost 609
+-message "Check tree cost after static approx 5 sa1.poy" -command "sed -e s/FILENAME/5.fas/ sa1.poy" -cost 585
+-message "Check tree cost after static approx 6 sa1.poy" -command "sed -e s/FILENAME/6.fas/ sa1.poy" -cost 16812
+-message "Check tree cost after static approx 7 sa1.poy" -command "sed -e s/FILENAME/7.fas/ sa1.poy" -cost 729
+-message "Check tree cost after static approx 8 sa1.poy" -command "sed -e s/FILENAME/8.fas/ sa1.poy" -cost 815
+-message "Check tree cost after static approx 9 sa1.poy" -command "sed -e s/FILENAME/9.fas/ sa1.poy" -cost 1669
+-message "Check tree cost after static approx 10 sa1.poy" -command "sed -e s/FILENAME/10.fas/ sa1.poy" -cost 14082
+-message "Check tree cost after static approx 11 sa1.poy" -command "sed -e s/FILENAME/11.fas/ sa1.poy" -cost 729
+-message "Check tree cost after static approx 12 sa1.poy" -command "sed -e s/FILENAME/12.fas/ sa1.poy" -cost 815
+-message "Check tree cost after static approx 13 sa1.poy" -command "sed -e s/FILENAME/13.fas/ sa1.poy" -cost 1669
+-message "Check static homology characters after converting from sequences 1 sh1.poy" -command "sed -e s/FILENAME/1.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 2 sh1.poy" -command "sed -e s/FILENAME/2.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 3 sh1.poy" -command "sed -e s/FILENAME/3.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 4 sh1.poy" -command "sed -e s/FILENAME/4.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 5 sh1.poy" -command "sed -e s/FILENAME/5.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 6 sh1.poy" -command "sed -e s/FILENAME/6.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 7 sh1.poy" -command "sed -e s/FILENAME/7.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 8 sh1.poy" -command "sed -e s/FILENAME/8.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 9 sh1.poy" -command "sed -e s/FILENAME/9.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 10 sh1.poy" -command "sed -e s/FILENAME/10.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 11 sh1.poy" -command "sed -e s/FILENAME/11.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 12 sh1.poy" -command "sed -e s/FILENAME/12.fas/ sh1.poy"
+-message "Check static homology characters after converting from sequences 13 sh1.poy" -command "sed -e s/FILENAME/13.fas/ sh1.poy"
+-message "Check build and search 1 bs.poy" -command "sed -e s/FILENAME/1.fas/ bs.poy"
+-message "Check build and search 2 bs.poy" -command "sed -e s/FILENAME/2.fas/ bs.poy"
+-message "Check build and search 3 bs.poy" -command "sed -e s/FILENAME/3.fas/ bs.poy"
+-message "Check build and search 4 bs.poy" -command "sed -e s/FILENAME/4.fas/ bs.poy"
+-message "Check build and search 5 bs.poy" -command "sed -e s/FILENAME/5.fas/ bs.poy"
+-message "Check build and search 6 bs.poy" -command "sed -e s/FILENAME/6.fas/ bs.poy"
+-message "Check build and search 7 bs.poy" -command "sed -e s/FILENAME/7.fas/ bs.poy"
+-message "Check build and search 8 bs.poy" -command "sed -e s/FILENAME/8.fas/ bs.poy"
+-message "Check build and search 9 bs.poy" -command "sed -e s/FILENAME/9.fas/ bs.poy"
+-message "Check build and search 10 bs.poy" -command "sed -e s/FILENAME/10.fas/ bs.poy"
+-message "Check build and search 11 bs.poy" -command "sed -e s/FILENAME/11.fas/ bs.poy"
+-message "Check build and search 12 bs.poy" -command "sed -e s/FILENAME/12.fas/ bs.poy"
+-message "Check build and search 13 bs.poy" -command "sed -e s/FILENAME/13.fas/ bs.poy"
+-message "Check build and search 14 bs.poy" -command "sed -e s/FILENAME/14.fas/ bs.poy"
+-message "Check build and search 15 bs.poy" -command "sed -e s/FILENAME/15.fas/ bs.poy"
+-message "Check build and search 16 bs.poy" -command "sed -e s/FILENAME/16.fas/ bs.poy"
+-message "Check build and search 17 bs.poy" -command "sed -e s/FILENAME/17.fas/ bs.poy"
+-message "Check build and search 18 bs.poy" -command "sed -e s/FILENAME/18.fas/ bs.poy"
+-message "Check build and search 19 bs.poy" -command "sed -e s/FILENAME/19.fas/ bs.poy"
+-message "Check build and search 20 bs.poy" -command "sed -e s/FILENAME/20.fas/ bs.poy"
+-message "Check build and search 21 bs.poy" -command "sed -e s/FILENAME/21.fas/ bs.poy"
+-message "Check build and search 22 bs.poy" -command "sed -e s/FILENAME/22.fas/ bs.poy"
+-message "Check build and search 23 bs.poy" -command "sed -e s/FILENAME/23.fas/ bs.poy"
+-message "Check build and search 24 bs.poy" -command "sed -e s/FILENAME/24.fas/ bs.poy"
+-message "Check build and search 25 bs.poy" -command "sed -e s/FILENAME/25.fas/ bs.poy"
+-message "Check build and search 26 bs.poy" -command "sed -e s/FILENAME/26.fas/ bs.poy"
+-message "Check build and search 27 bs.poy" -command "sed -e s/FILENAME/27.fas/ bs.poy"
+-message "Check build and search 28 bs.poy" -command "sed -e s/FILENAME/28.fas/ bs.poy"
+-message "Check build and search 29 bs.poy" -command "sed -e s/FILENAME/29.fas/ bs.poy"
+-message "Check build and search 1 bs1.poy" -command "sed -e s/FILENAME/1.fas/ bs1.poy"
+-message "Check build and search 2 bs1.poy" -command "sed -e s/FILENAME/2.fas/ bs1.poy"
+-message "Check build and search 3 bs1.poy" -command "sed -e s/FILENAME/3.fas/ bs1.poy"
+-message "Check build and search 4 bs1.poy" -command "sed -e s/FILENAME/4.fas/ bs1.poy"
+-message "Check build and search 5 bs1.poy" -command "sed -e s/FILENAME/5.fas/ bs1.poy"
+-message "Check build and search 6 bs1.poy" -command "sed -e s/FILENAME/6.fas/ bs1.poy"
+-message "Check build and search 7 bs1.poy" -command "sed -e s/FILENAME/7.fas/ bs1.poy"
+-message "Check build and search 8 bs1.poy" -command "sed -e s/FILENAME/8.fas/ bs1.poy"
+-message "Check build and search 9 bs1.poy" -command "sed -e s/FILENAME/9.fas/ bs1.poy"
+-message "Check build and search 10 bs1.poy" -command "sed -e s/FILENAME/10.fas/ bs1.poy"
+-message "Check build and search 11 bs1.poy" -command "sed -e s/FILENAME/11.fas/ bs1.poy"
+-message "Check build and search 12 bs1.poy" -command "sed -e s/FILENAME/12.fas/ bs1.poy"
+-message "Check build and search 13 bs1.poy" -command "sed -e s/FILENAME/13.fas/ bs1.poy"
+-message "Check build and search 14 bs1.poy" -command "sed -e s/FILENAME/14.fas/ bs1.poy"
+-message "Check build and search 15 bs1.poy" -command "sed -e s/FILENAME/15.fas/ bs1.poy"
+-message "Check build and search 16 bs1.poy" -command "sed -e s/FILENAME/16.fas/ bs1.poy"
+-message "Check build and search 17 bs1.poy" -command "sed -e s/FILENAME/17.fas/ bs1.poy"
+-message "Check build and search 18 bs1.poy" -command "sed -e s/FILENAME/18.fas/ bs1.poy"
+-message "Check build and search 19 bs1.poy" -command "sed -e s/FILENAME/19.fas/ bs1.poy"
+-message "Check build and search 20 bs1.poy" -command "sed -e s/FILENAME/20.fas/ bs1.poy"
+-message "Check build and search 21 bs1.poy" -command "sed -e s/FILENAME/21.fas/ bs1.poy"
+-message "Check build and search 22 bs1.poy" -command "sed -e s/FILENAME/22.fas/ bs1.poy"
+-message "Check build and search 23 bs1.poy" -command "sed -e s/FILENAME/23.fas/ bs1.poy"
+-message "Check build and search 24 bs1.poy" -command "sed -e s/FILENAME/24.fas/ bs1.poy"
+-message "Check build and search 25 bs1.poy" -command "sed -e s/FILENAME/25.fas/ bs1.poy"
+-message "Check build and search 26 bs1.poy" -command "sed -e s/FILENAME/26.fas/ bs1.poy"
+-message "Check build and search 27 bs1.poy" -command "sed -e s/FILENAME/27.fas/ bs1.poy"
+-message "Check build and search 28 bs1.poy" -command "sed -e s/FILENAME/28.fas/ bs1.poy"
+-message "Check build and search 29 bs1.poy" -command "sed -e s/FILENAME/29.fas/ bs1.poy"
+-message "Check build and search 1 bs2.poy" -command "sed -e s/FILENAME/1.fas/ bs2.poy"
+-message "Check build and search 2 bs2.poy" -command "sed -e s/FILENAME/2.fas/ bs2.poy"
+-message "Check build and search 3 bs2.poy" -command "sed -e s/FILENAME/3.fas/ bs2.poy"
+-message "Check build and search 4 bs2.poy" -command "sed -e s/FILENAME/4.fas/ bs2.poy"
+-message "Check build and search 5 bs2.poy" -command "sed -e s/FILENAME/5.fas/ bs2.poy"
+-message "Check build and search 6 bs2.poy" -command "sed -e s/FILENAME/6.fas/ bs2.poy"
+-message "Check build and search 7 bs2.poy" -command "sed -e s/FILENAME/7.fas/ bs2.poy"
+-message "Check build and search 8 bs2.poy" -command "sed -e s/FILENAME/8.fas/ bs2.poy"
+-message "Check build and search 9 bs2.poy" -command "sed -e s/FILENAME/9.fas/ bs2.poy"
+-message "Check build and search 10 bs2.poy" -command "sed -e s/FILENAME/10.fas/ bs2.poy"
+-message "Check build and search 11 bs2.poy" -command "sed -e s/FILENAME/11.fas/ bs2.poy"
+-message "Check build and search 12 bs2.poy" -command "sed -e s/FILENAME/12.fas/ bs2.poy"
+-message "Check build and search 13 bs2.poy" -command "sed -e s/FILENAME/13.fas/ bs2.poy"
+-message "Check build and search 14 bs2.poy" -command "sed -e s/FILENAME/14.fas/ bs2.poy"
+-message "Check build and search 15 bs2.poy" -command "sed -e s/FILENAME/15.fas/ bs2.poy"
+-message "Check build and search 16 bs2.poy" -command "sed -e s/FILENAME/16.fas/ bs2.poy"
+-message "Check build and search 17 bs2.poy" -command "sed -e s/FILENAME/17.fas/ bs2.poy"
+-message "Check build and search 18 bs2.poy" -command "sed -e s/FILENAME/18.fas/ bs2.poy"
+-message "Check build and search 19 bs2.poy" -command "sed -e s/FILENAME/19.fas/ bs2.poy"
+-message "Check build and search 20 bs2.poy" -command "sed -e s/FILENAME/20.fas/ bs2.poy"
+-message "Check build and search 21 bs2.poy" -command "sed -e s/FILENAME/21.fas/ bs2.poy"
+-message "Check build and search 22 bs2.poy" -command "sed -e s/FILENAME/22.fas/ bs2.poy"
+-message "Check build and search 23 bs2.poy" -command "sed -e s/FILENAME/23.fas/ bs2.poy"
+-message "Check build and search 24 bs2.poy" -command "sed -e s/FILENAME/24.fas/ bs2.poy"
+-message "Check build and search 25 bs2.poy" -command "sed -e s/FILENAME/25.fas/ bs2.poy"
+-message "Check build and search 26 bs2.poy" -command "sed -e s/FILENAME/26.fas/ bs2.poy"
+-message "Check build and search 27 bs2.poy" -command "sed -e s/FILENAME/27.fas/ bs2.poy"
+-message "Check build and search 28 bs2.poy" -command "sed -e s/FILENAME/28.fas/ bs2.poy"
+-message "Check build and search 29 bs2.poy" -command "sed -e s/FILENAME/29.fas/ bs2.poy"
+-message "Check build and search 1 bs3.poy" -command "sed -e s/FILENAME/1.fas/ bs3.poy"
+-message "Check build and search 2 bs3.poy" -command "sed -e s/FILENAME/2.fas/ bs3.poy"
+-message "Check build and search 3 bs3.poy" -command "sed -e s/FILENAME/3.fas/ bs3.poy"
+-message "Check build and search 4 bs3.poy" -command "sed -e s/FILENAME/4.fas/ bs3.poy"
+-message "Check build and search 5 bs3.poy" -command "sed -e s/FILENAME/5.fas/ bs3.poy"
+-message "Check build and search 6 bs3.poy" -command "sed -e s/FILENAME/6.fas/ bs3.poy"
+-message "Check build and search 7 bs3.poy" -command "sed -e s/FILENAME/7.fas/ bs3.poy"
+-message "Check build and search 8 bs3.poy" -command "sed -e s/FILENAME/8.fas/ bs3.poy"
+-message "Check build and search 9 bs3.poy" -command "sed -e s/FILENAME/9.fas/ bs3.poy"
+-message "Check build and search 10 bs3.poy" -command "sed -e s/FILENAME/10.fas/ bs3.poy"
+-message "Check build and search 11 bs3.poy" -command "sed -e s/FILENAME/11.fas/ bs3.poy"
+-message "Check build and search 12 bs3.poy" -command "sed -e s/FILENAME/12.fas/ bs3.poy"
+-message "Check build and search 13 bs3.poy" -command "sed -e s/FILENAME/13.fas/ bs3.poy"
+-message "Check build and search 14 bs3.poy" -command "sed -e s/FILENAME/14.fas/ bs3.poy"
+-message "Check build and search 15 bs3.poy" -command "sed -e s/FILENAME/15.fas/ bs3.poy"
+-message "Check build and search 16 bs3.poy" -command "sed -e s/FILENAME/16.fas/ bs3.poy"
+-message "Check build and search 17 bs3.poy" -command "sed -e s/FILENAME/17.fas/ bs3.poy"
+-message "Check build and search 18 bs3.poy" -command "sed -e s/FILENAME/18.fas/ bs3.poy"
+-message "Check build and search 19 bs3.poy" -command "sed -e s/FILENAME/19.fas/ bs3.poy"
+-message "Check build and search 20 bs3.poy" -command "sed -e s/FILENAME/20.fas/ bs3.poy"
+-message "Check build and search 21 bs3.poy" -command "sed -e s/FILENAME/21.fas/ bs3.poy"
+-message "Check build and search 22 bs3.poy" -command "sed -e s/FILENAME/22.fas/ bs3.poy"
+-message "Check build and search 23 bs3.poy" -command "sed -e s/FILENAME/23.fas/ bs3.poy"
+-message "Check build and search 24 bs3.poy" -command "sed -e s/FILENAME/24.fas/ bs3.poy"
+-message "Check build and search 25 bs3.poy" -command "sed -e s/FILENAME/25.fas/ bs3.poy"
+-message "Check build and search 26 bs3.poy" -command "sed -e s/FILENAME/26.fas/ bs3.poy"
+-message "Check build and search 27 bs3.poy" -command "sed -e s/FILENAME/27.fas/ bs3.poy"
+-message "Check build and search 28 bs3.poy" -command "sed -e s/FILENAME/28.fas/ bs3.poy"
+-message "Check build and search 29 bs3.poy" -command "sed -e s/FILENAME/29.fas/ bs3.poy"
+-message "Check build and search 1 bsa.poy" -command "sed -e s/FILENAME/1.fas/ bsa.poy"
+-message "Check build and search 2 bsa.poy" -command "sed -e s/FILENAME/2.fas/ bsa.poy"
+-message "Check build and search 3 bsa.poy" -command "sed -e s/FILENAME/3.fas/ bsa.poy"
+-message "Check build and search 4 bsa.poy" -command "sed -e s/FILENAME/4.fas/ bsa.poy"
+-message "Check build and search 5 bsa.poy" -command "sed -e s/FILENAME/5.fas/ bsa.poy"
+-message "Check build and search 6 bsa.poy" -command "sed -e s/FILENAME/6.fas/ bsa.poy"
+-message "Check build and search 7 bsa.poy" -command "sed -e s/FILENAME/7.fas/ bsa.poy"
+-message "Check build and search 8 bsa.poy" -command "sed -e s/FILENAME/8.fas/ bsa.poy"
+-message "Check build and search 9 bsa.poy" -command "sed -e s/FILENAME/9.fas/ bsa.poy"
+-message "Check build and search 10 bsa.poy" -command "sed -e s/FILENAME/10.fas/ bsa.poy"
+-message "Check build and search 11 bsa.poy" -command "sed -e s/FILENAME/11.fas/ bsa.poy"
+-message "Check build and search 12 bsa.poy" -command "sed -e s/FILENAME/12.fas/ bsa.poy"
+-message "Check build and search 13 bsa.poy" -command "sed -e s/FILENAME/13.fas/ bsa.poy"
+-message "Check build and search 14 bsa.poy" -command "sed -e s/FILENAME/14.fas/ bsa.poy"
+-message "Check build and search 15 bsa.poy" -command "sed -e s/FILENAME/15.fas/ bsa.poy"
+-message "Check build and search 16 bsa.poy" -command "sed -e s/FILENAME/16.fas/ bsa.poy"
+-message "Check build and search 17 bsa.poy" -command "sed -e s/FILENAME/17.fas/ bsa.poy"
+-message "Check build and search 18 bsa.poy" -command "sed -e s/FILENAME/18.fas/ bsa.poy"
+-message "Check build and search 19 bsa.poy" -command "sed -e s/FILENAME/19.fas/ bsa.poy"
+-message "Check build and search 20 bsa.poy" -command "sed -e s/FILENAME/20.fas/ bsa.poy"
+-message "Check build and search 21 bsa.poy" -command "sed -e s/FILENAME/21.fas/ bsa.poy"
+-message "Check build and search 22 bsa.poy" -command "sed -e s/FILENAME/22.fas/ bsa.poy"
+-message "Check build and search 23 bsa.poy" -command "sed -e s/FILENAME/23.fas/ bsa.poy"
+-message "Check build and search 24 bsa.poy" -command "sed -e s/FILENAME/24.fas/ bsa.poy"
+-message "Check build and search 25 bsa.poy" -command "sed -e s/FILENAME/25.fas/ bsa.poy"
+-message "Check build and search 26 bsa.poy" -command "sed -e s/FILENAME/26.fas/ bsa.poy"
+-message "Check build and search 27 bsa.poy" -command "sed -e s/FILENAME/27.fas/ bsa.poy"
+-message "Check build and search 28 bsa.poy" -command "sed -e s/FILENAME/28.fas/ bsa.poy"
+-message "Check build and search 29 bsa.poy" -command "sed -e s/FILENAME/29.fas/ bsa.poy"
+-message "Check build and search 1 bs1a.poy" -command "sed -e s/FILENAME/1.fas/ bs1a.poy"
+-message "Check build and search 2 bs1a.poy" -command "sed -e s/FILENAME/2.fas/ bs1a.poy"
+-message "Check build and search 3 bs1a.poy" -command "sed -e s/FILENAME/3.fas/ bs1a.poy"
+-message "Check build and search 4 bs1a.poy" -command "sed -e s/FILENAME/4.fas/ bs1a.poy"
+-message "Check build and search 5 bs1a.poy" -command "sed -e s/FILENAME/5.fas/ bs1a.poy"
+-message "Check build and search 6 bs1a.poy" -command "sed -e s/FILENAME/6.fas/ bs1a.poy"
+-message "Check build and search 7 bs1a.poy" -command "sed -e s/FILENAME/7.fas/ bs1a.poy"
+-message "Check build and search 8 bs1a.poy" -command "sed -e s/FILENAME/8.fas/ bs1a.poy"
+-message "Check build and search 9 bs1a.poy" -command "sed -e s/FILENAME/9.fas/ bs1a.poy"
+-message "Check build and search 10 bs1a.poy" -command "sed -e s/FILENAME/10.fas/ bs1a.poy"
+-message "Check build and search 11 bs1a.poy" -command "sed -e s/FILENAME/11.fas/ bs1a.poy"
+-message "Check build and search 12 bs1a.poy" -command "sed -e s/FILENAME/12.fas/ bs1a.poy"
+-message "Check build and search 13 bs1a.poy" -command "sed -e s/FILENAME/13.fas/ bs1a.poy"
+-message "Check build and search 14 bs1a.poy" -command "sed -e s/FILENAME/14.fas/ bs1a.poy"
+-message "Check build and search 15 bs1a.poy" -command "sed -e s/FILENAME/15.fas/ bs1a.poy"
+-message "Check build and search 16 bs1a.poy" -command "sed -e s/FILENAME/16.fas/ bs1a.poy"
+-message "Check build and search 17 bs1a.poy" -command "sed -e s/FILENAME/17.fas/ bs1a.poy"
+-message "Check build and search 18 bs1a.poy" -command "sed -e s/FILENAME/18.fas/ bs1a.poy"
+-message "Check build and search 19 bs1a.poy" -command "sed -e s/FILENAME/19.fas/ bs1a.poy"
+-message "Check build and search 20 bs1a.poy" -command "sed -e s/FILENAME/20.fas/ bs1a.poy"
+-message "Check build and search 21 bs1a.poy" -command "sed -e s/FILENAME/21.fas/ bs1a.poy"
+-message "Check build and search 22 bs1a.poy" -command "sed -e s/FILENAME/22.fas/ bs1a.poy"
+-message "Check build and search 23 bs1a.poy" -command "sed -e s/FILENAME/23.fas/ bs1a.poy"
+-message "Check build and search 24 bs1a.poy" -command "sed -e s/FILENAME/24.fas/ bs1a.poy"
+-message "Check build and search 25 bs1a.poy" -command "sed -e s/FILENAME/25.fas/ bs1a.poy"
+-message "Check build and search 26 bs1a.poy" -command "sed -e s/FILENAME/26.fas/ bs1a.poy"
+-message "Check build and search 27 bs1a.poy" -command "sed -e s/FILENAME/27.fas/ bs1a.poy"
+-message "Check build and search 28 bs1a.poy" -command "sed -e s/FILENAME/28.fas/ bs1a.poy"
+-message "Check build and search 29 bs1a.poy" -command "sed -e s/FILENAME/29.fas/ bs1a.poy"
+-message "Check build and search 1 bs2a.poy" -command "sed -e s/FILENAME/1.fas/ bs2a.poy"
+-message "Check build and search 2 bs2a.poy" -command "sed -e s/FILENAME/2.fas/ bs2a.poy"
+-message "Check build and search 3 bs2a.poy" -command "sed -e s/FILENAME/3.fas/ bs2a.poy"
+-message "Check build and search 4 bs2a.poy" -command "sed -e s/FILENAME/4.fas/ bs2a.poy"
+-message "Check build and search 5 bs2a.poy" -command "sed -e s/FILENAME/5.fas/ bs2a.poy"
+-message "Check build and search 6 bs2a.poy" -command "sed -e s/FILENAME/6.fas/ bs2a.poy"
+-message "Check build and search 7 bs2a.poy" -command "sed -e s/FILENAME/7.fas/ bs2a.poy"
+-message "Check build and search 8 bs2a.poy" -command "sed -e s/FILENAME/8.fas/ bs2a.poy"
+-message "Check build and search 9 bs2a.poy" -command "sed -e s/FILENAME/9.fas/ bs2a.poy"
+-message "Check build and search 10 bs2a.poy" -command "sed -e s/FILENAME/10.fas/ bs2a.poy"
+-message "Check build and search 11 bs2a.poy" -command "sed -e s/FILENAME/11.fas/ bs2a.poy"
+-message "Check build and search 12 bs2a.poy" -command "sed -e s/FILENAME/12.fas/ bs2a.poy"
+-message "Check build and search 13 bs2a.poy" -command "sed -e s/FILENAME/13.fas/ bs2a.poy"
+-message "Check build and search 14 bs2a.poy" -command "sed -e s/FILENAME/14.fas/ bs2a.poy"
+-message "Check build and search 15 bs2a.poy" -command "sed -e s/FILENAME/15.fas/ bs2a.poy"
+-message "Check build and search 16 bs2a.poy" -command "sed -e s/FILENAME/16.fas/ bs2a.poy"
+-message "Check build and search 17 bs2a.poy" -command "sed -e s/FILENAME/17.fas/ bs2a.poy"
+-message "Check build and search 18 bs2a.poy" -command "sed -e s/FILENAME/18.fas/ bs2a.poy"
+-message "Check build and search 19 bs2a.poy" -command "sed -e s/FILENAME/19.fas/ bs2a.poy"
+-message "Check build and search 20 bs2a.poy" -command "sed -e s/FILENAME/20.fas/ bs2a.poy"
+-message "Check build and search 21 bs2a.poy" -command "sed -e s/FILENAME/21.fas/ bs2a.poy"
+-message "Check build and search 22 bs2a.poy" -command "sed -e s/FILENAME/22.fas/ bs2a.poy"
+-message "Check build and search 23 bs2a.poy" -command "sed -e s/FILENAME/23.fas/ bs2a.poy"
+-message "Check build and search 24 bs2a.poy" -command "sed -e s/FILENAME/24.fas/ bs2a.poy"
+-message "Check build and search 25 bs2a.poy" -command "sed -e s/FILENAME/25.fas/ bs2a.poy"
+-message "Check build and search 26 bs2a.poy" -command "sed -e s/FILENAME/26.fas/ bs2a.poy"
+-message "Check build and search 27 bs2a.poy" -command "sed -e s/FILENAME/27.fas/ bs2a.poy"
+-message "Check build and search 28 bs2a.poy" -command "sed -e s/FILENAME/28.fas/ bs2a.poy"
+-message "Check build and search 29 bs2a.poy" -command "sed -e s/FILENAME/29.fas/ bs2a.poy"
+-message "Check build and search 1 bs3a.poy" -command "sed -e s/FILENAME/1.fas/ bs3a.poy"
+-message "Check build and search 2 bs3a.poy" -command "sed -e s/FILENAME/2.fas/ bs3a.poy"
+-message "Check build and search 3 bs3a.poy" -command "sed -e s/FILENAME/3.fas/ bs3a.poy"
+-message "Check build and search 4 bs3a.poy" -command "sed -e s/FILENAME/4.fas/ bs3a.poy"
+-message "Check build and search 5 bs3a.poy" -command "sed -e s/FILENAME/5.fas/ bs3a.poy"
+-message "Check build and search 6 bs3a.poy" -command "sed -e s/FILENAME/6.fas/ bs3a.poy"
+-message "Check build and search 7 bs3a.poy" -command "sed -e s/FILENAME/7.fas/ bs3a.poy"
+-message "Check build and search 8 bs3a.poy" -command "sed -e s/FILENAME/8.fas/ bs3a.poy"
+-message "Check build and search 9 bs3a.poy" -command "sed -e s/FILENAME/9.fas/ bs3a.poy"
+-message "Check build and search 10 bs3a.poy" -command "sed -e s/FILENAME/10.fas/ bs3a.poy"
+-message "Check build and search 11 bs3a.poy" -command "sed -e s/FILENAME/11.fas/ bs3a.poy"
+-message "Check build and search 12 bs3a.poy" -command "sed -e s/FILENAME/12.fas/ bs3a.poy"
+-message "Check build and search 13 bs3a.poy" -command "sed -e s/FILENAME/13.fas/ bs3a.poy"
+-message "Check build and search 14 bs3a.poy" -command "sed -e s/FILENAME/14.fas/ bs3a.poy"
+-message "Check build and search 15 bs3a.poy" -command "sed -e s/FILENAME/15.fas/ bs3a.poy"
+-message "Check build and search 16 bs3a.poy" -command "sed -e s/FILENAME/16.fas/ bs3a.poy"
+-message "Check build and search 17 bs3a.poy" -command "sed -e s/FILENAME/17.fas/ bs3a.poy"
+-message "Check build and search 18 bs3a.poy" -command "sed -e s/FILENAME/18.fas/ bs3a.poy"
+-message "Check build and search 19 bs3a.poy" -command "sed -e s/FILENAME/19.fas/ bs3a.poy"
+-message "Check build and search 20 bs3a.poy" -command "sed -e s/FILENAME/20.fas/ bs3a.poy"
+-message "Check build and search 21 bs3a.poy" -command "sed -e s/FILENAME/21.fas/ bs3a.poy"
+-message "Check build and search 22 bs3a.poy" -command "sed -e s/FILENAME/22.fas/ bs3a.poy"
+-message "Check build and search 23 bs3a.poy" -command "sed -e s/FILENAME/23.fas/ bs3a.poy"
+-message "Check build and search 24 bs3a.poy" -command "sed -e s/FILENAME/24.fas/ bs3a.poy"
+-message "Check build and search 25 bs3a.poy" -command "sed -e s/FILENAME/25.fas/ bs3a.poy"
+-message "Check build and search 26 bs3a.poy" -command "sed -e s/FILENAME/26.fas/ bs3a.poy"
+-message "Check build and search 27 bs3a.poy" -command "sed -e s/FILENAME/27.fas/ bs3a.poy"
+-message "Check build and search 28 bs3a.poy" -command "sed -e s/FILENAME/28.fas/ bs3a.poy"
+-message "Check build and search 29 bs3a.poy" -command "sed -e s/FILENAME/29.fas/ bs3a.poy"
+-message "Check build and search 28 bs3a.poy" -command "sed -e s/FILENAME/28.fas/ bs3a.poy"
+-message "Check auto sequence partition 1 asp.poy" -command "sed -e s/FILENAME/1.fas/ asp.poy"
+-message "Check auto sequence partition 2 asp.poy" -command "sed -e s/FILENAME/2.fas/ asp.poy"
+-message "Check auto sequence partition 3 asp.poy" -command "sed -e s/FILENAME/3.fas/ asp.poy"
+-message "Check auto sequence partition 4 asp.poy" -command "sed -e s/FILENAME/4.fas/ asp.poy"
+-message "Check auto sequence partition 5 asp.poy" -command "sed -e s/FILENAME/5.fas/ asp.poy"
+-message "Check auto sequence partition 6 asp.poy" -command "sed -e s/FILENAME/6.fas/ asp.poy"
+-message "Check auto sequence partition 7 asp.poy" -command "sed -e s/FILENAME/7.fas/ asp.poy"
+-message "Check auto sequence partition 8 asp.poy" -command "sed -e s/FILENAME/8.fas/ asp.poy"
+-message "Check auto sequence partition 9 asp.poy" -command "sed -e s/FILENAME/9.fas/ asp.poy"
+-message "Check auto sequence partition 10 asp.poy" -command "sed -e s/FILENAME/10.fas/ asp.poy"
+-message "Check auto sequence partition 11 asp.poy" -command "sed -e s/FILENAME/11.fas/ asp.poy"
+-message "Check auto sequence partition 12 asp.poy" -command "sed -e s/FILENAME/12.fas/ asp.poy"
+-message "Check auto sequence partition 13 asp.poy" -command "sed -e s/FILENAME/13.fas/ asp.poy"
+-message "Check auto sequence partition 14 asp.poy" -command "sed -e s/FILENAME/14.fas/ asp.poy"
+-message "Check auto sequence partition 15 asp.poy" -command "sed -e s/FILENAME/15.fas/ asp.poy"
+-message "Check auto sequence partition 16 asp.poy" -command "sed -e s/FILENAME/16.fas/ asp.poy"
+-message "Check auto sequence partition 17 asp.poy" -command "sed -e s/FILENAME/17.fas/ asp.poy"
+-message "Check auto sequence partition 18 asp.poy" -command "sed -e s/FILENAME/18.fas/ asp.poy"
+-message "Check auto sequence partition 19 asp.poy" -command "sed -e s/FILENAME/19.fas/ asp.poy"
+-message "Check auto sequence partition 20 asp.poy" -command "sed -e s/FILENAME/20.fas/ asp.poy"
+-message "Check auto sequence partition 21 asp.poy" -command "sed -e s/FILENAME/21.fas/ asp.poy"
+-message "Check auto sequence partition 22 asp.poy" -command "sed -e s/FILENAME/22.fas/ asp.poy"
+-message "Check auto sequence partition 23 asp.poy" -command "sed -e s/FILENAME/23.fas/ asp.poy"
+-message "Check auto sequence partition 24 asp.poy" -command "sed -e s/FILENAME/24.fas/ asp.poy"
+-message "Check auto sequence partition 25 asp.poy" -command "sed -e s/FILENAME/25.fas/ asp.poy"
+-message "Check auto sequence partition 26 asp.poy" -command "sed -e s/FILENAME/26.fas/ asp.poy"
+-message "Check auto sequence partition 27 asp.poy" -command "sed -e s/FILENAME/27.fas/ asp.poy"
+-message "Check auto sequence partition 28 asp.poy" -command "sed -e s/FILENAME/28.fas/ asp.poy"
+-message "Check auto sequence partition 29 asp.poy" -command "sed -e s/FILENAME/29.fas/ asp.poy"
+-message "Check auto sequence partition 28 asp.poy" -command "sed -e s/FILENAME/28.fas/ asp.poy"
+-message "Check auto static approx 1 asx.poy" -command "sed -e s/FILENAME/1.fas/ asx.poy"
+-message "Check auto static approx 2 asx.poy" -command "sed -e s/FILENAME/2.fas/ asx.poy"
+-message "Check auto static approx 3 asx.poy" -command "sed -e s/FILENAME/3.fas/ asx.poy"
+-message "Check auto static approx 4 asx.poy" -command "sed -e s/FILENAME/4.fas/ asx.poy"
+-message "Check auto static approx 5 asx.poy" -command "sed -e s/FILENAME/5.fas/ asx.poy"
+-message "Check auto static approx 6 asx.poy" -command "sed -e s/FILENAME/6.fas/ asx.poy"
+-message "Check auto static approx 7 asx.poy" -command "sed -e s/FILENAME/7.fas/ asx.poy"
+-message "Check auto static approx 8 asx.poy" -command "sed -e s/FILENAME/8.fas/ asx.poy"
+-message "Check auto static approx 9 asx.poy" -command "sed -e s/FILENAME/9.fas/ asx.poy"
+-message "Check auto static approx 10 asx.poy" -command "sed -e s/FILENAME/10.fas/ asx.poy"
+-message "Check auto static approx 11 asx.poy" -command "sed -e s/FILENAME/11.fas/ asx.poy"
+-message "Check auto static approx 12 asx.poy" -command "sed -e s/FILENAME/12.fas/ asx.poy"
+-message "Check auto static approx 13 asx.poy" -command "sed -e s/FILENAME/13.fas/ asx.poy"
+-message "Check auto static approx 14 asx.poy" -command "sed -e s/FILENAME/14.fas/ asx.poy"
+-message "Check auto static approx 15 asx.poy" -command "sed -e s/FILENAME/15.fas/ asx.poy"
+-message "Check auto static approx 16 asx.poy" -command "sed -e s/FILENAME/16.fas/ asx.poy"
+-message "Check auto static approx 17 asx.poy" -command "sed -e s/FILENAME/17.fas/ asx.poy"
+-message "Check auto static approx 18 asx.poy" -command "sed -e s/FILENAME/18.fas/ asx.poy"
+-message "Check auto static approx 19 asx.poy" -command "sed -e s/FILENAME/19.fas/ asx.poy"
+-message "Check auto static approx 20 asx.poy" -command "sed -e s/FILENAME/20.fas/ asx.poy"
+-message "Check auto static approx 21 asx.poy" -command "sed -e s/FILENAME/21.fas/ asx.poy"
+-message "Check auto static approx 22 asx.poy" -command "sed -e s/FILENAME/22.fas/ asx.poy"
+-message "Check auto static approx 23 asx.poy" -command "sed -e s/FILENAME/23.fas/ asx.poy"
+-message "Check auto static approx 24 asx.poy" -command "sed -e s/FILENAME/24.fas/ asx.poy"
+-message "Check auto static approx 25 asx.poy" -command "sed -e s/FILENAME/25.fas/ asx.poy"
+-message "Check auto static approx 26 asx.poy" -command "sed -e s/FILENAME/26.fas/ asx.poy"
+-message "Check auto static approx 27 asx.poy" -command "sed -e s/FILENAME/27.fas/ asx.poy"
+-message "Check auto static approx 28 asx.poy" -command "sed -e s/FILENAME/28.fas/ asx.poy"
+-message "Check auto static approx 29 asx.poy" -command "sed -e s/FILENAME/29.fas/ asx.poy"
+p
+-message "Check auto static approx 28 asx.poy" -command "sed -e s/FILENAME/28.fas/ asx.poy"
