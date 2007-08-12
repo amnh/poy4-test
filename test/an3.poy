@@ -1,0 +1,5 @@
+(* Build and transform annotated chromosome with rearranged_len function check against tree cost *)
+read (annotated:("FILENAME"))
+transform ((all, dynamic_pam:(rearranged_len:25,locus_breakpoint:20)))
+read ("../test/FILENAME.tree")
+
