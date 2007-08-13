@@ -1,16 +1,16 @@
 -message "Check custom alphabet read" -command "cat ca.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/"
 -message "Check custom alphabet ia" -command "cat ca1.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/" 
 -message "Check custom alphabet read and build" -command "cat ca2.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/ | sed -e s/FILENAME3/ca2.tree/" 
--message "Check tree cost 1 chromosome ua.poy" -command "sed -e s/FILENAME/ua.fas/ ua.poy" -cost -208 
+-message "Check tree cost 1 chromosome ua.poy" -command "sed -e s/FILENAME/ua.fas/ ua.poy" -cost 208 
 -message "Check ia for chromosome" -command "sed -e s/FILENAME/ua2.fas/ ua1.poy"
--message "Check tree cost ua2 with locus_indel chromosome ua2.poy" -command "sed -e s/FILENAME/ua2.fas/ ua2.poy" -cost -746 
--message "Check tree cost ua3 with rearranged_len chromosome ua3.poy" -command "sed -e s/FILENAME/ua3.fas/ ua3.poy" -cost -208
--message "Check tree cost ua4 with sig_block_len chromosome ua4.poy" -command "sed -e s/FILENAME/ua4.fas/ ua4.poy" -cost -208
--message "Check tree cost 1 annotated chromosome an.poy" -command "sed -e s/FILENAME/an.fas/ an.poy" 
+-message "Check tree cost ua2 with locus_indel chromosome ua2.poy" -command "sed -e s/FILENAME/ua2.fas/ ua2.poy" -cost 746 
+-message "Check tree cost ua3 with rearranged_len chromosome ua3.poy" -command "sed -e s/FILENAME/ua3.fas/ ua3.poy" -cost 208
+-message "Check tree cost ua4 with sig_block_len chromosome ua4.poy" -command "sed -e s/FILENAME/ua4.fas/ ua4.poy" -cost 208
+-message "Check tree build for annotated chromosome an.poy" -command "sed -e s/FILENAME/an.fas/ an.poy" 
 -message "Check ia for annotated chromosome an1.poy" -command "sed -e s/FILENAME/an.fas/ an1.poy"
--message "Check tree cost an2 with locus_indel annotated chromosome an2.poy" -command "sed -e s/FILENAME/an2.fas/ an2.poy" -cost -40 
--message "Check tree cost an3 with rearranged_len annotated chromosome an3.poy" -command "sed -e s/FILENAME/an3.fas/ an3.poy" -cost -40
--message "Check tree cost an4.fas with sig_block_len annotated chromosome an4.poy" -command "sed -e s/FILENAME/an4.fas/ an4.poy" -cost -100
+-message "Check tree cost an2 with locus_indel annotated chromosome an2.poy" -command "sed -e s/FILENAME/an2.fas/ an2.poy" -cost 40 
+-message "Check tree cost an3 with rearranged_len annotated chromosome an3.poy" -command "sed -e s/FILENAME/an3.fas/ an3.poy" -cost 40
+-message "Check transform with sig_block_len annotated chromosome an4.poy" -command "sed -e s/FILENAME/an4.fas/ an4.poy"
 -message "Check transformation into static sankoff character sk.poy" -command "cat sk.poy | sed -e s/FILENAME1/2.fas/ | sed -e s/FILENAME2/g6ts1tv2/" 
 -message "Check break inv read" -command "cat bi.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/"
 -message "Check break inv ia" -command "cat bi1.poy | sed -e s/FILENAME1/ca1.fas/ | sed -e s/FILENAME2/m1.fas/" 

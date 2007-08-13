@@ -2,5 +2,5 @@
 read (chromosome:("FILENAME"))
 transform ((all, dynamic_pam:(locus_breakpoint:20)))
 build (1)
-report (ia)
+report ("ua_ia",ia)
 
