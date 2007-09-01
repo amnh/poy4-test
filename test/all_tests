@@ -141,11 +141,11 @@
 -message "Check tree cost after static approx 3 sa1.poy" -command "sed -e s/FILENAME/3.fas/ sa1.poy" -cost 505
 -message "Check tree cost after static approx 4 sa1.poy" -command "sed -e s/FILENAME/4.fas/ sa1.poy" -cost 609
 -message "Check tree cost after static approx 5 sa1.poy" -command "sed -e s/FILENAME/5.fas/ sa1.poy" -cost 585
--message "Check tree cost after static approx 6 sa1.poy" -command "sed -e s/FILENAME/6.fas/ sa1.poy" -cost 16812
+-message "Check tree cost after static approx 6 sa1.poy" -command "sed -e s/FILENAME/6.fas/ sa1.poy" -costless 16812
 -message "Check tree cost after static approx 7 sa1.poy" -command "sed -e s/FILENAME/7.fas/ sa1.poy" -cost 729
 -message "Check tree cost after static approx 8 sa1.poy" -command "sed -e s/FILENAME/8.fas/ sa1.poy" -cost 815
 -message "Check tree cost after static approx 9 sa1.poy" -command "sed -e s/FILENAME/9.fas/ sa1.poy" -cost 1669
--message "Check tree cost after static approx 10 sa1.poy" -command "sed -e s/FILENAME/10.fas/ sa1.poy" -cost 14082
+-message "Check tree cost after static approx 10 sa1.poy" -command "sed -e s/FILENAME/10.fas/ sa1.poy" -costless 14082
 -message "Check tree cost after static approx 11 sa1.poy" -command "sed -e s/FILENAME/11.fas/ sa1.poy" -cost 729
 -message "Check tree cost after static approx 12 sa1.poy" -command "sed -e s/FILENAME/12.fas/ sa1.poy" -cost 815
 -message "Check tree cost after static approx 13 sa1.poy" -command "sed -e s/FILENAME/13.fas/ sa1.poy" -cost 1669

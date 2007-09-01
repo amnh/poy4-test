@@ -13,6 +13,8 @@ let () =
         "The message to be printed out during the test");
         ("-command", Arg.String (assign command),
         "The command to be executed in this test");
+        ("-costless", Arg.Int (fun x -> check_cost_less := Some x), 
+        "The cost of the final tree, if we are intended to do that")]
         ("-cost", Arg.Int (fun x -> check_cost := Some x), 
         "The cost of the final tree, if we are intended to do that")]
     in
@@ -28,9 +30,10 @@ let move_temp_to_report () =
 let () =
     let prefix = !command ^ " | ./poy_test " in
     let execution_line =
-        match !check_cost with
-        | None -> prefix ^ " &> " ^ !temp
-        | Some x -> prefix ^ " -c " ^ string_of_int x
+        match !check_cost, !check_cost_less with
+        | None, None -> prefix ^ " &> " ^ !temp
+        | _, Some x -> prefix ^ " -cl " ^ string_of_int x
+        | Some x, _ -> prefix ^ " -c " ^ string_of_int x
     in
     print_endline "Executing ./poy_test";
     match Unix.system execution_line with
