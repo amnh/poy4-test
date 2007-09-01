@@ -1,6 +1,7 @@
 let command = ref ""
 let message = ref ""
 let check_cost = ref None
+let check_cost_less = ref None
 let temp = ref "tmp.log"
 
 let assign item v = item := v
@@ -14,7 +15,7 @@ let () =
         ("-command", Arg.String (assign command),
         "The command to be executed in this test");
         ("-costless", Arg.Int (fun x -> check_cost_less := Some x), 
-        "The cost of the final tree, if we are intended to do that")]
+        "The cost of the final tree, if we are intended to do that");
         ("-cost", Arg.Int (fun x -> check_cost := Some x), 
         "The cost of the final tree, if we are intended to do that")]
     in
