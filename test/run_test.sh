@@ -4,7 +4,7 @@
 # battery of tests and emails us if there is some error.
 
 test_program="poy_test"
-list_of_tests="all_tests"
+list_of_tests=$3
 test_execution_script="ocaml unix.cma test_line.ml"
 report_bug_to="avaron@amnh.org"
 temp="tmp_mail"
@@ -12,7 +12,7 @@ temp="tmp_mail"
 # We start by checking that everything is good, we need to ensure that we have a
 # reasonable configuration, and that we have a completely up to date setup.
 cd ../
-if CFLAGS="-I /usr/include/malloc" ./configure --enable-interface=readline $1;
+if ./configure --enable-interface=readline $1;
 then 
     echo "Finished configuring the system."
 else
