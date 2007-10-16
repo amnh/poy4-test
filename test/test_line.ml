@@ -91,7 +91,7 @@ let move_temp_to_report () =
 
 let default_stderr = "tmp_line.err"
 let default_stdout = "tmp_line.out"
-let default_report = "tmp_line.report"
+let default_report = "test.xml"
 
 let append_all_output filename_fixer command =
     let append_output command (filename, redirector, default) =
@@ -152,10 +152,15 @@ let rec all_files_execution executer acc lst =
                 get_cost_ref check_cost, get_cost_ref check_cost_less
             in
             executer (append_all_output filename_fixer) command message
-            check_cost cost_less 
+            check_cost cost_less filename_fixer
 
 let () =
-    let executer append_output command message check_cost check_cost_less =
+    let executer append_output command message check_cost check_cost_less
+    filename_fixer =
+        let () =
+            match Unix.system ("rm -fr " ^ default_report) with
+            | _ -> ()
+        in
         let check_files a b =
             match a with
             | None -> true
@@ -177,6 +182,19 @@ let () =
         | Unix.WEXITED 0 ->
                 (* We finished cleanly, time to verify that things are correct
                 * *)
+                let () =
+                    match !rmdiff with
+                    | None -> ()
+                    | Some x -> 
+                            let x = filename_fixer x in
+                            match Unix.system ("mv " ^ default_report ^ " " ^ x)
+                            with
+                            | Unix.WEXITED 0 -> ()
+                            | _ ->
+                                    Printf.printf 
+                                    "FAILED: Could not generate reference %s\n"
+                                    x
+                in
                 let res = 
                     (check_files !mstdout default_stdout) &&
                     (check_files !mstderr default_stderr) &&
