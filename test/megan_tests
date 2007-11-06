@@ -1,0 +1,59 @@
+-message "test default settings with fasta, ss, and aa files " -command ./build/build.poy
+-message "test build with fasta, ss, and aa files " -command ./build/build1.poy
+-message "test as_is build with fasta, ss, and aa files " -command ./build/build2.poy
+-message "test as_is with fasta, ss, and aa files " -command ./build/build3.poy
+-message "Build with 1.fas specifying a negative number Expect Error" -command ./build/build4.poy -stderr "./build/stderr/build4.err" -error
+-message "build with all with fasta, ss, and aa files " -command ./build/build5.poy 
+-message "build with of_file with fasta file 1.fas, read tree 1.fas.1.tree" -command ./build/build6.poy
+-message "test build 2 trees and default fuse with fasta and ss files fuse.poy" -command ./fuse/fuse.poy
+-message "test build 3 trees and fuse keep 2 for with fasta and ss files fuse1.poy" -command ./fuse/fuse1.poy
+-message "Fuse with 1.fas fasta files without build, Expect Error There are no active trees in memory" -command ./fuse/fuse2.poy -stderr "./fuse/stderr/fuse2.poy.err" -error
+-message "test build, fuse from read tree files with fasta file 2.fas.1.tree fuse4.poy" -command ./fuse/fuse4.poy
+-message "Fuse from read tree files without data file Expext error could not find data"./fuse/fuse3.poy -stderr "./fuse/stderr/fuse3.poy.err" -error
+-message "test build and fuse with 10 iterations with fasta ss files fuse5.poy" -command ./fuse/fuse5.poy
+-message "Fuse with fasta and ss files with a float rather than an integer for iterations, Expect Error" -command ./fuse/fuse6.poy -stderr "./fuse/stderr/fuse6.err" -error
+-message "Fuse with fasta and ss files with a float rather than an integer for keep, Expect Error" -command ./fuse/fuse7.poy -stderr "./fuse/stderr/fuse7.err" -error
+-message "test fuse with better with fasta and ss files fuse8.poy" -command ./fuse/fuse8.poy
+-message "test build and fuse with 10 iterations with fasta and ss files fuse9.poy" -command ./fuse/fuse9.poy 
+-message "test fuse swap with constraint with fasta and ss files" -command ./fuse/fuse11.poy
+-message "test fuse swap with swap around with fasta and ss files" -command ./fuse/fuse12.poy
+-message "test fuse with swap tbr with fasta and ss files" -command ./fuse/fuse13.poy
+-message "test fuse with swap threshold 5 with fasta and ss files" -command ./fuse/fuse14.poy
+-message "Build with FILENAME1 fas and 30.ss and Report with default setting report.poy" -command ./report/report.poy -inputfile first_fasta -stdout "./report/stdout/report.out"
+-message "Build with FILENAME1 fas and 30.ss and Report to a file report1.poy" -command ./report/report1.poy -inputfile first_fasta -stdout "./report/stdout/report1.out"
+-message "Build with FILENAME1 fas and 30.ss and Report cross_references defaults report2.poy" -command ./report/report2.poy -inputfile first_fasta
+-message "Build with 1.fas and Report cross_references: names report3.poy" -command ./report/report3.poy -inputfile first_fasta -stdout "./report/stdout/report3.out"
+-message "Build with FILENAME1 fas and 30.ss Report data report4.poy" -command ./report/report4.poy -inputfile first_fasta
+-message "Build 3 trees with FILENAME1 .fas and report consensus with integer44 Expect under 50 Error report12.poy" -command ./report/report12.poy -inputfile first_fasta -ostderr "./report/stderr/report12.err" -error
+-message "Build with FILENAME1 fas and 30.ss and report with terminals report6.poy" -command ./report/report6.poy -inputfile first_fasta -stdout "./report/stdout/report6.out"
+-message "Build with FILENAME1 fas and 30.ss and report with treestats report7.poy" -command ./report/report7.poy -inputfile first_fasta -stdout "./report/stdout/report7.out"
+-message "Build with FILENAME1 fas and 30.ss and report trees directed to a file report8.poy" -command ./report/report8.poy -inputfile first_fasta -stdout "./report/stdout/report8.out"
+-message "Build with FILENAME1 fas and 30.ss and report asciitrees default report9.poy" -command ./report/report9.poy -inputfile first_fasta -stdout "./report/stdout/report9.out"
+-message "Build with FILENAME1 fas report clades report10.poy" -command ./report/report10.poy -inputfile first_fasta -stdout "./report/stdout/report10.out"
+-message "Build with FILENAME1 fas and 30.ss report with graphconsensus Majority rules 88 report14.poy" -command ./report/report14.poy -inputfile first_fasta -stdout "./report/stdout/report14.out"
+-message "Build with FILENAME1 fas and 30.ss and report with graphconsensus Majority rules 44 EXPECT "under 50" report15.poy" -command ./report/report15.poy -inputfile first_fasta -ostderr "./report/stderr/report15.err" -error
+-message "Build 3 trees with FILENAME1 fas and 30.ss and report with graphconsensus to a ps file" report16.poy" -command ./report/report16.poy -inputfile first_fasta -stdout "./report/stdout/report16.out"
+-message "Build 3 trees with FILENAME1 fas and 30.ss and report with graphsupports for jackknife to screen " report17.poy" -command ./report/report17.poy -inputfile first_fasta -stdout "./report/stdout/report17.out"
+-message "Build 3 with FILENAME1 fas and 30.ss trees and fas report with graphsupports for jackknife ps file" report18.poy" -command ./report/report18.poy -inputfile first_fasta -stdout "./report/stdout/report18.out"
+-message "Build 3 trees with FILENAME1 fas and 30.ss report with graphsupports for bootstrap to screen" report19.poy" -command ./report/report19.poy -inputfile first_fasta -stdout "./report/stdout/report19.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report with graphsupports for bootstrap to ps file boot" report20.poy" -command ./report/report20.poy -inputfile first_fasta -stdout "./report/stdout/report20.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report with graphsupports for bremer on screen report21.poy" -command ./report/report21.poy -inputfile first_fasta -stdout "./report/stdout/report21.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report with graphsupports for bremer to ps file report22.poy" -command ./report/report22.poy
+-message "Build 3 trees FILENAME1 fas and 30.ss report graphtrees to screen report23.poy" -command ./report/report23.poy -inputfile first_fasta -stdout "./report/stdout/report23.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report terminals report24.poy" -command ./report/report24.poy -inputfile first_fasta -stdout "./report/stdout/report24.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report terminals report25.poy" -command ./report/report25.poy -inputfile first_fasta -stdout "./report/stdout/report25.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report terminals report26.poy" -command ./report/report26.poy -inputfile first_fasta -stdout "./report/stdout/report26.out"
+-message "Build 3 trees FILENAME1 fas and 30.ss report terminals report27.poy" -command ./report/report27.poy -inputfile first_fasta -stdout "./report/stdout/report27.out"
+-message "Build and report trees: cost FILENAME1 fas and 30.ss report terminals report27.poy" -command ./report/report27.poy -inputfile first_fasta -stdout "./report/stdout/report27.out"
+-message "Build FILENAME1 report trees: margin report29.poy" -command ./report/report29.poy -inputfile first_fasta -stdout "./report/stdout/report29.out"
+-message "Build FILENAME1 report trees: nomargin report30.poy" -command ./report/report30.poy -inputfile first_fasta -stdout "./report/stdout/report30.out"
+-message "Build FILENAME1 report trees: collapse report31.poy" -command ./report/report31.poy -inputfile first_fasta -stdout "./report/stdout/report31.out"
+-message "Build FILENAME1 report trees: collapse false 32.poy" -command ./report/report32.poy -inputfile first_fasta -stdout "./report/stdout/report32.out"
+-message "Build FILENAME1 report implied alignments 33.poy" -command ./report/report33.poy -inputfile first_fasta -stdout "./report/stdout/report33.out"
+-message "Build FILENAME1 report implied alignments 34.poy" -command ./report/report34.poy -inputfile first_fasta -stdout "./report/stdout/report34.out"
+-message "Build FILENAME1 transform using static_approx, and report as a phatwinclad file 39.poy" -command ./report/report39.poy -inputfile first_fasta -stdout "./report/stdout/report39.out"
+-message "Build FILENAME1 and report diagnosis to screen 40.poy" -command ./report/report40.poy -inputfile first_fasta -stdout "./report/stdout/report40.out"
+-message "Build FILENAME1 and report diagnosis to file 41.poy" -command ./report/report41.poy -inputfile first_fasta -stdout "./report/stdout/report41.out"
+-message "Build FILENAME1 transform to static characters, and report memory 44.poy" -command ./report/report44.poy -inputfile first_fasta -stdout "./report/stdout/report44.out"
+-message "Build FILENAME1 report as a phatwinclad file 46.poy" -command ./report/report46.poy -inputfile first_fasta -stdout "./report/stdout/report46.out"
+-message "Build FILENAME1 .fas with set seed and report ia to xml file 36.poy" -command ./report/report36.poy -inputfile first_fasta -diff "./report/xml/report36.xml"
