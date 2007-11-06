@@ -1,0 +1,4 @@
+(* Build and report trees : hennig *)
+read ("FILENAME1", "30.ss" )
+build (1)
+report (trees: (hennig))

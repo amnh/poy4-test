@@ -1,0 +1,4 @@
+(* Build and report ia *)
+read ("FILENAME1")
+build (1)
+report (ia)

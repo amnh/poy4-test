@@ -1,0 +1,5 @@
+(* Build report data defaults *)
+read ("FILENAME1","30.ss")
+build (1)
+set(seed:50)
+report (data)

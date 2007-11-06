@@ -1,0 +1,5 @@
+(* Build report with treestats *)
+read ("FILENAME1", "30.ss" )
+set(seed:50)
+build (1)
+report (treestats)
