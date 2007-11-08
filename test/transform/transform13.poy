@@ -1,0 +1,8 @@
+(* Read and transform trailing_insertion *)
+read ("FILENAME1")
+transform (ti:(2,2,2,2,0))
+build (1)
+
+
+
+

@@ -1,0 +1,9 @@
+(* Read and transform weightfactor float *)
+read ("FILENAME1")
+transform (weightfactor:0.4)
+
+
+
+
+
+

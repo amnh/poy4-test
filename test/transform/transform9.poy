@@ -1,0 +1,5 @@
+(* Read and transform multi_static_approx *)
+read ("FILENAME1")
+build (2)
+transform ((all, multi_static_approx))
+
