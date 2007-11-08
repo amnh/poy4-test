@@ -11,10 +11,10 @@
 -message "test build, fuse from read tree files with fasta file 2.fas.1.tree fuse4.poy" -command ./fuse/fuse4.poy
 -message "Fuse from read tree files without data file Expext error could not find data"./fuse/fuse3.poy -stderr "./fuse/stderr/fuse3.poy.err" -error
 -message "test build and fuse with 10 iterations with fasta ss files fuse5.poy" -command ./fuse/fuse5.poy
--message "Fuse with fasta and ss files with a float rather than an integer for iterations, Expect Error" -command ./fuse/fuse6.poy -stderr "./fuse/stderr/fuse6.err" -error
--message "Fuse with fasta and ss files with a float rather than an integer for keep, Expect Error" -command ./fuse/fuse7.poy -stderr "./fuse/stderr/fuse7.err" -error
+-message "Fuse with fasta and ss files with a float rather than an integer for iterations, Expect Error" -command ./fuse/fuse6.poy -stderr "./fuse/stderr/fuse6.poy.err" - error
+-message "Fuse with fasta and ss files with a float rather than an integer for keep, Expect Error" -command ./fuse/fuse7.poy -stderr "./fuse/stderr/fuse7.poy.err" - error
 -message "test fuse with better with fasta and ss files fuse8.poy" -command ./fuse/fuse8.poy
--message "test build and fuse with 10 iterations with fasta and ss files fuse9.poy" -command ./fuse/fuse9.poy 
+-message "test build and fuse with 10 iterations with fasta and ss files fuse9.poy" -command ./fuse/fuse9.poy
 -message "test fuse swap with constraint with fasta and ss files" -command ./fuse/fuse11.poy
 -message "test fuse swap with swap around with fasta and ss files" -command ./fuse/fuse12.poy
 -message "test fuse with swap tbr with fasta and ss files" -command ./fuse/fuse13.poy
@@ -25,19 +25,21 @@
 -message "Build with 1.fas and Report cross_references: names report3.poy" -command ./report/report3.poy -inputfile first_fasta -stdout "./report/stdout/report3.out"
 -message "Build with FILENAME1 fas and 30.ss Report data report4.poy" -command ./report/report4.poy -inputfile first_fasta
 -message "Build 3 trees with FILENAME1 .fas and report consensus with integer44 Expect under 50 Error report12.poy" -command ./report/report12.poy -inputfile first_fasta -ostderr "./report/stderr/report12.err" -error
--message "Build with FILENAME1 fas and 30.ss and report with terminals report6.poy" -command ./report/report6.poy -inputfile first_fasta -stdout "./report/stdout/report6.out"
--message "Build with FILENAME1 fas and 30.ss and report with treestats report7.poy" -command ./report/report7.poy -inputfile first_fasta -stdout "./report/stdout/report7.out"
+-message "Build with FILENAME1 fas and 30.ss and report with terminals report6.poy" -command ./report/report6.poy -inputfile first_fasta 
+-message "Build with FILENAME1 fas and 30.ss and report with treestats report7.poy" -command ./report/report7.poy -inputfile first_fasta
 -message "Build with FILENAME1 fas and 30.ss and report trees directed to a file report8.poy" -command ./report/report8.poy -inputfile first_fasta -stdout "./report/stdout/report8.out"
--message "Build with FILENAME1 fas and 30.ss and report asciitrees default report9.poy" -command ./report/report9.poy -inputfile first_fasta -stdout "./report/stdout/report9.out"
--message "Build with FILENAME1 fas report clades report10.poy" -command ./report/report10.poy -inputfile first_fasta -stdout "./report/stdout/report10.out"
--message "Build with FILENAME1 fas and 30.ss report with graphconsensus Majority rules 88 report14.poy" -command ./report/report14.poy -inputfile first_fasta -stdout "./report/stdout/report14.out"
--message "Build with FILENAME1 fas and 30.ss and report with graphconsensus Majority rules 44 EXPECT "under 50" report15.poy" -command ./report/report15.poy -inputfile first_fasta -ostderr "./report/stderr/report15.err" -error
--message "Build 3 trees with FILENAME1 fas and 30.ss and report with graphconsensus to a ps file" report16.poy" -command ./report/report16.poy -inputfile first_fasta -stdout "./report/stdout/report16.out"
--message "Build 3 trees with FILENAME1 fas and 30.ss and report with graphsupports for jackknife to screen " report17.poy" -command ./report/report17.poy -inputfile first_fasta -stdout "./report/stdout/report17.out"
--message "Build 3 with FILENAME1 fas and 30.ss trees and fas report with graphsupports for jackknife ps file" report18.poy" -command ./report/report18.poy -inputfile first_fasta -stdout "./report/stdout/report18.out"
--message "Build 3 trees with FILENAME1 fas and 30.ss report with graphsupports for bootstrap to screen" report19.poy" -command ./report/report19.poy -inputfile first_fasta -stdout "./report/stdout/report19.out"
+-message "Build with FILENAME1 fas and 30.ss and report asciitrees default report9.poy" -command ./report/report9.poy -inputfile first_fasta
+-message "Build with FILENAME1 fas report clades report10.poy" -command ./report/report10.poy -stdout "./report/stdout/report10.out"
+
+-message "Build with FILENAME1 fas and 30.ss report with graphconsensus Majority rules 88 report14.poy" -command ./report/report14.poy -stdout "./report/stdout/report14.out"
+-message "Build with FILENAME1 fas and 30.ss and report with graphconsensus Majority rules 44 EXPECT under 50 report15.poy" -command ./report/report15.poy -inputfile first_fasta -stderr "./report/stderr/report15.err" -error
+-message "Build 3 trees with FILENAME1 fas and 30.ss and report with graphconsensus to a ps file report16.poy" -command ./report/report16.poy -inputfile first_fasta -stdout "./report/stdout/report16.out"
+-message "Build 3 trees with FILENAME1 fas and 30.ss and report with graphsupports for jackknife to screen report17.poy" -command ./report/report17.poy -inputfile first_fasta -stdout "./report/stdout/report17.out"
+-message "Build 3 with FILENAME1 fas and 30.ss trees and fas report with graphsupports for jackknife ps file report18.poy" -command ./report/report18.poy -inputfile first_fasta -stdout "./report/stdout/report18.out"
+-message "Build 3 trees with FILENAME1 fas and 30.ss report with graphsupports for bootstrap to screen report19.poy" -command ./report/report19.poy -inputfile first_fasta -stdout "./report/stdout/report19.out"
 -message "Build 3 trees FILENAME1 fas and 30.ss report with graphsupports for bootstrap to ps file boot" report20.poy" -command ./report/report20.poy -inputfile first_fasta -stdout "./report/stdout/report20.out"
 -message "Build 3 trees FILENAME1 fas and 30.ss report with graphsupports for bremer on screen report21.poy" -command ./report/report21.poy -inputfile first_fasta -stdout "./report/stdout/report21.out"
+
 -message "Build 3 trees FILENAME1 fas and 30.ss report with graphsupports for bremer to ps file report22.poy" -command ./report/report22.poy
 -message "Build 3 trees FILENAME1 fas and 30.ss report graphtrees to screen report23.poy" -command ./report/report23.poy -inputfile first_fasta -stdout "./report/stdout/report23.out"
 -message "Build 3 trees FILENAME1 fas and 30.ss report terminals report24.poy" -command ./report/report24.poy -inputfile first_fasta -stdout "./report/stdout/report24.out"
@@ -52,8 +54,58 @@
 -message "Build FILENAME1 report implied alignments 33.poy" -command ./report/report33.poy -inputfile first_fasta -stdout "./report/stdout/report33.out"
 -message "Build FILENAME1 report implied alignments 34.poy" -command ./report/report34.poy -inputfile first_fasta -stdout "./report/stdout/report34.out"
 -message "Build FILENAME1 transform using static_approx, and report as a phatwinclad file 39.poy" -command ./report/report39.poy -inputfile first_fasta -stdout "./report/stdout/report39.out"
--message "Build FILENAME1 and report diagnosis to screen 40.poy" -command ./report/report40.poy -inputfile first_fasta -stdout "./report/stdout/report40.out"
--message "Build FILENAME1 and report diagnosis to file 41.poy" -command ./report/report41.poy -inputfile first_fasta -stdout "./report/stdout/report41.out"
--message "Build FILENAME1 transform to static characters, and report memory 44.poy" -command ./report/report44.poy -inputfile first_fasta -stdout "./report/stdout/report44.out"
--message "Build FILENAME1 report as a phatwinclad file 46.poy" -command ./report/report46.poy -inputfile first_fasta -stdout "./report/stdout/report46.out"
--message "Build FILENAME1 .fas with set seed and report ia to xml file 36.poy" -command ./report/report36.poy -inputfile first_fasta -diff "./report/xml/report36.xml"
+-message "Build FILENAME1 and report diagnosis to screen 40.poy" -command ./report/report40.poy -stdout "./report/stdout/report40.poy.out"
+-message "Build FILENAME1 and report diagnosis to file 41.poy" -command ./report/report41.poy  -stdout "./report/stdout/report41.poy..out"
+-message "Build FILENAME1 transform to static characters, and report memory 44.poy" -command ./report/report44.poy -stdout "./report/stdout/report44.poy.out"
+-message "Build FILENAME1 report as a phatwinclad file 46.poy" -command ./report/report46.poy  -stdout "./report/stdout/report46.poy.out"
+-message "test read and transform auto_sequence_partition and build with fasta FILENAME1 transform6.poy" -command ./transform/transform6.poy -inputfile first_fasta -ostdout "./transform/stdout/transform6.out"
+-message "test read and transform fixedstates with fasta FILENAME1 transform7.poy"  -command ./transform/transform7.poy -inputfile first_fasta -ostdout "./transform/stdout/transform7.out"
+-message "test read and transform gap_opening with fasta FILENAME1 transform8.poy" -command ./transform/transform8.poy -inputfile first_fasta -ostdout "./transform/stdout/transform8.out"
+-message "test read and transform multi_static_approx with fasta FILENAME1 transform9.poy" -command ./transform/transform9.poy -inputfile first_fasta -ostdout "./transform/stdout/transform9.out"
+-message "test read and transform static_approx with fasta FILENAME1 transform11.poy" -command ./transform/transform11.poy -inputfile first_fasta -ostdout "./transform/stdout/transform11.out"
+-message "test read and transform trailing_insertion with fasta FILENAME1 transform13.poy" -command ./transform/transform13.poy -inputfile first_fasta -ostdout "./transform/stdout/transform13.out"
+-message "test read and transform weightfactor float with fasta FILENAME1 transform21.poy" -command ./transform/transform21.poy -inputfile first_fasta -ostdout "./transform/stdout/transform21.out"
+-message "test read and transform weight float with fasta FILENAME1 transform23.poy" -command ./transform/transform23.poy -inputfile first_fasta -ostdout "./transform/stdout/transform23.out"
+-message "test read and transform weightfactor integer with fasta FILENAME1 transform25.poy" -command ./transform/transform25.poy -inputfile first_fasta -ostdout "./transform/stdout/transform25.out"
+-message "test read and transform static_approx: keep with fasta FILENAME1 transform12.poy" -command ./transform/transform12.poy -inputfile first_fasta
+-message "test read and transform custom alphabet to breakinv using dynamic pam default" -command ./transform/transform30.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam locus_breakpoint 50" -command ./transform/transform31.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam approx true" -command ./transform/transform32.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam circular" -command ./transform/transform33.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam inversion" -command ./transform/transform34.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam locus_indel" -command ./transform/transform35.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam median" -command ./transform/transform36.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam seed_length" -command ./transform/transform37.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam sig_block_len" -command ./transform/transform38.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam rearranged_len" -command ./transform/transform39.poy
+-message "test read and transform custom alphabet to breakinv using dynamic pam swap_med" -command ./transform/transform40.poy
+-message "test read annotated chromosome using dynamic pam default with fasta FILENAME1 transform42.poy" -command ./transform/transform42.poy -inputfile ann
+-message "test read annotated chromosome using dynamic pam locus_breakpoint 50 with fasta FILENAME1 transform43.poy" -command ./transform/transform43.poy -inputfile ann
+-message "test read annotated chromosome using dynamic pam approx true with fasta FILENAME1 transform43.poy" -command ./transform/transform44.poy -inputfile ann
+-message "test annotated chromosome and transform using dynamic pam circular true with fasta FILENAME1 transform45.poy" -command ./transform/transform45.poy -inputfile ann
+-message "test read annotated chromosome using dynamic pam inversion 50 with fasta FILENAME1 transform46.poy" -command ./transform/transform46.poy -inputfile ann
+-message "test read annotated chromosome using dynamic pam locus_indel 50, 2.0 with fasta FILENAME1 transform47.poy" -command ./transform/transform47.poy -inputfile ann
+-message "test read annotated chromosome using dynamic pam median 2 with fasta FILENAME1 transform48.poy" -command ./transform/transform48.poy -inputfile ann 
+-message "test read annotated chromosome using dynamic pam seed_length 15 with fasta FILENAME1 transform49.poy" -command ./transform/transform49.poy -inputfile ann
+-message "test read annotated chromosome using dynamic pam rearranged_len 150 with fasta FILENAME1 transform51.poy" -command ./transform/transform51.poy -inputfile ann 
+-message "test read annotated chromosome using dynamic pam swap_med 2 with fasta FILENAME1 transform52.poy" -command ./transform/transform52.poy -inputfile ann 
+-message "test read annotated chromosome using dynamic pam default with fasta FILENAME1 transform54.poy " -command ./transform/transform54.poy -inputfile ann
+-message "test read unannotated chromosome and using dynamic pam locus_breakpoint ua.fas with transform55.poy" -command ./transform/transform55.poy
+-message "test read unannotated chromosome and using dynamic pam approx true with ua.fas transform56.poy"  -command ./transform/transform56.poy
+-message "test read unannotated chromosome and using dynamic pam circular true with ua.fas transform57.poy" -command ./transform/transform57.poy
+-message "test read unannotated chromosome and using dynamic pam locus_indel 50, 2.0 with fasta ua.fas transform59.poy" -command ./transform/transform59.poy
+-message "test read unannotated chromosome and using dynamic pam median 2 with fasta ua.fas transform60.poy" -command ./transform/transform60.poy
+-message "test read unannotated chromosome and using dynamic pam seed_length 15 with fasta ua.fas transform61.poy" -command ./transform/transform61.poy
+-message "test read unannotated chromosome and using dynamic pam rearranged_len 150 with fasta ua.fas transform62.poy" -command ./transform/transform62.poy
+-message "test read unannotated chromosome and using dynamic pam swap_med 2 with fasta ua.fas transform64.poy" -command ./transform/transform64.poy
+-message "test read unannotated chromosome and using dynamic pam inversion 50 with fasta ua_inv2.fas transform58.poy" -command ./transform/transform58.poy
+-message "test read unannotated chromosome and using dynamic pam locus_indel 50, 2.0 with fasta FILENAME1 transform59.poy" -command ./transform/transform59.poy -inputfile unann 
+-message "test read unannotated chromosome and using dynamic pam median 2 with fasta FILENAME1 transform60.poy" -command ./transform/transform60.poy -inputfile unann 
+-message "test read unannotated chromosome and using dynamic pam seed_length 15 with fasta FILENAME1 transform61.poy" -command ./transform/transform61.poy -inputfile unann 
+-message "test read unannotated chromosome and using dynamic pam rearranged_len 150 with fasta FILENAME1 transform62.poy" -command ./transform/transform62.poy -inputfile unann
+-message "test read unannotated chromosome and using dynamic pam swap_med 2 with fasta FILENAME1 transform64.poy" -command ./transform/transform64.poy -inputfile unann
+-message "test read genome and transform using dynamic pam chrom_breakpoint 20 with fasta FILENAME1 transform66.poy" -command ./transform/transform66.poy -inputfile gen 
+-message "test read genome and transform using dynamic pam chrom_hom 0.80 with fasta FILENAME1 transform67.poy" -command ./transform/transform67.poy -inputfile gen
+-message "test read genome and transform using dynamic pam chrom_indel 2.0 .80 with fasta FILENAME1 transform68.poy" -command ./transform/transform68.poy -inputfile gen
+-message "test read genome and transform using dynamic pam inversion with fasta FILENAME1 transform69.poy" -command ./transform/transform69.poy -inputfile gen
+
