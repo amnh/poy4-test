@@ -1,4 +1,4 @@
 (* Build and report ia *)
-read ("FILENAME1")
+read ("1.fas")
 build (1)
 report (ia)

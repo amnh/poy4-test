@@ -1,4 +1,4 @@
 (* Build and report trees : nomargin *)
-read ("FILENAME1")
+read ("1.fas")
 build (1)
 report (trees: (nomargin))
