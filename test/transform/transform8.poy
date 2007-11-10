@@ -1,5 +1,5 @@
 (* Read and transform gap_opening *)
-read ("FILENAME1")
+read ("2.fas")
 transform ((all, gap_opening:3))
 build (1)
 

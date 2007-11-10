@@ -1,5 +1,5 @@
 (* Read and transform weightfactor float *)
-read ("FILENAME1")
+read ("2.fas")
 transform (weightfactor:0.4)
 
 

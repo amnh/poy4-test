@@ -1,5 +1,5 @@
 (* Read and transform weightfactor integer *)
-read ("FILENAME1")
+read ("1.fas")
 transform (weightfactor:4)
 
 

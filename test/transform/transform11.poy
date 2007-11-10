@@ -1,5 +1,5 @@
 (* Read and transform static_approx *)
-read ("FILENAME1")
+read ("2.fas")
 build (2)
 transform ((all, static_approx))
 

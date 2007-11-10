@@ -1,5 +1,5 @@
 (* Read and transform static_approx:keep *)
-read ("FILENAME1")
+read ("1.fas")
 set(seed:50)
 build (1)
 transform ((all, static_approx:keep))

@@ -1,5 +1,5 @@
 (* Build report asciitrees default *)
-read ("FILENAME1", "30.ss")
+read ("1.fas", "30.ss")
 set(seed:50)
 build (1)
 report (asciitrees)
