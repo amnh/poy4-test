@@ -6,7 +6,9 @@
 test_program="poy_test"
 list_of_tests=$3
 test_execution_script="ocaml unix.cma str.cma test_line.ml"
-report_bug_to="avaron@amnh.org megan@amnh.org ilya@amnh.org vle@amnh.org"
+
+report_bug_to="ilya@amnh.org"
+
 temp="tmp_mail"
 
 # We start by checking that everything is good, we need to ensure that we have a
