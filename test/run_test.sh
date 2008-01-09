@@ -3,7 +3,15 @@
 # This script compiles POY, copies the config.test as the new config, runs the
 # battery of tests and emails us if there is some error.
 
-test_program="poy_test"
+# System dependent options
+case `../gnu/config.guess` in
+    *-cygwin*)
+        test_program="poy_test.exe"
+        ;;
+    *)
+        test_program="poy_test"
+        ;;
+esac
 list_of_tests=$3
 test_execution_script="ocaml unix.cma str.cma test_line.ml"
 
@@ -34,11 +42,11 @@ fi
 
 # Now we can make the test program and proceed to run the test suite in this
 # computer 
-echo "Making poy_test"
+echo "Making ${test_program}"
 cd ./src
 if make clean &> ../test/make.log && make depend &>../test/make.log && make poy_test &> ../test/make.log
 then
-    echo "Finished making poy_test"
+    echo "Finished making ${test_program}"
 else
     echo "There was an error while attempting to build the poy_test in `hostname`."
     echo "The following is the log from the make attempt:"
@@ -56,7 +64,7 @@ EOF
     cd ../test
     exit 1
 fi
-mv ./poy_test ../test/
+mv ./${test_program} ../test/
 cd ../test/
 rm -f test_all.log
 

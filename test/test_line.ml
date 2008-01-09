@@ -157,6 +157,10 @@ let rec all_files_execution executer acc lst =
             executer (append_all_output filename_fixer) command message
             check_cost cost_less filename_fixer
 
+let test_program =
+    match Sys.os_type with
+    | "Win32" -> " | poy_test.exe "
+    | _ -> " | ./poy_test "
 let () =
     let executer append_output command message check_cost check_cost_less
     filename_fixer =
@@ -173,7 +177,7 @@ let () =
                     | Unix.WEXITED 0 -> true
                     | _ -> false
         in
-        let prefix = command ^ " | ./poy_test " in
+        let prefix = command ^ test_program in
         let execution_line =
             match check_cost, check_cost_less with
             | None, None -> prefix 
