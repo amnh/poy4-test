@@ -92,9 +92,10 @@ let move_temp_to_report () =
     in
     ()
 
-let default_stderr = "tmp_line.err"
-let default_stdout = "tmp_line.out"
-let default_report = "test.xml"
+let pid = string_of_int (Unix.getpid ())
+let default_stderr = "tmp_line" ^ pid ^ ".err"
+let default_stdout = "tmp_line" ^ pid ^ ".out"
+let default_report = "test" ^ pid ^ ".xml"
 
 let append_all_output filename_fixer command =
     let append_output command (filename, redirector, default) =
@@ -220,5 +221,6 @@ let () =
         | Unix.WSTOPPED x ->
                 Printf.printf "FAILED: stopped with signal %d -- %s\n%!" x message
     in
-    all_files_execution executer ("cat " ^ !command, !message, (fun x -> x), 1)
+    all_files_execution executer ("cat " ^ !command ^
+    " | sed -e s,test.xml," ^ default_report ^ ",", !message, (fun x -> x), 1)
     files

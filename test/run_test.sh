@@ -13,6 +13,7 @@ case `../gnu/config.guess` in
         ;;
 esac
 list_of_tests=$3
+number_of_processors=$4
 test_execution_script="ocaml unix.cma str.cma test_line.ml"
 
 report_bug_to="ilya@amnh.org"
@@ -70,7 +71,7 @@ rm -f test_all.log
 
 # Now we run all the tests we have on list
 echo "Running tests in `hostname`"
-if cat ${list_of_tests} | xargs -L 1 ${test_execution_script} >> test_all.log
+if ocaml unix.cma concurrent_test.ml -scriptsfile ${list_of_tests} -p $4
 then
     grep FAILED test_all.log > test.log
 else
