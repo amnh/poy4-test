@@ -16,7 +16,7 @@ list_of_tests=$3
 number_of_processors=$4
 test_execution_script="ocaml unix.cma str.cma test_line.ml"
 
-report_bug_to="avaron@amnh.org megan@amnh.org ilya@amnh.org vle@amnh.org"
+report_bug_to="avaron@amnh.org, megan@amnh.org, ilya@amnh.org, vle@amnh.org"
 
 temp="tmp_mail"
 
@@ -37,7 +37,7 @@ Subject: Test Failure
 The test $2 in `hostname` falied because I couldn't find a suitable config.test
 to compile and run the tests.
 EOF
-    sendmail < ${temp}
+    sendmail -t < ${temp}
     exit 1
 fi
 
@@ -61,7 +61,7 @@ The test $2 in `hostname` failed to make the ${test_program} executable. The log
 the attempt to make is:
 `cat ../test/make.log`
 EOF
-    sendmail < ${temp}
+    sendmail -t < ${temp}
     cd ../test
     exit 1
 fi
@@ -106,7 +106,7 @@ The test $2 execution in `hostname` failed to pass all the unit tests. The log o
 the failures is:
 `cat ./test.log`
 EOF
-    sendmail < ${temp}
+    sendmail -t < ${temp}
     cd ../test
     exit 1
 else
