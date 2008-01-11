@@ -197,7 +197,7 @@ let () =
                         | None -> ()
                         | Some x -> 
                                 let x = filename_fixer x in
-                                match Unix.system ("mv " ^ default_report ^ " " ^ x)
+                                match Unix.system ("mv -f " ^ default_report ^ " " ^ x)
                                 with
                                 | Unix.WEXITED 0 -> ()
                                 | _ ->
