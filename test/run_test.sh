@@ -67,7 +67,9 @@ EOF
 fi
 mv ./${test_program} ../test/
 cd ../test/
-rm -f test_all.log
+# We cleanup all of the test log files.
+rm -f test_al*.log
+rm -f test*.xml
 
 # Now we run all the tests we have on list
 echo "Running tests in `hostname`"
