@@ -23,7 +23,7 @@ temp="tmp_mail"
 # We start by checking that everything is good, we need to ensure that we have a
 # reasonable configuration, and that we have a completely up to date setup.
 cd ../
-if ./configure --enable-interface=readline $1;
+if ./configure --enable-interface=flat $1;
 then 
     echo "Finished configuring the system."
 else
