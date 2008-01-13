@@ -1,4 +1,4 @@
--command accessory/cd_pwd01.poy -message "'cd' and 'pwd' stdout" -stderr "accessory/stdout/cd_ped01.poy.err"
+-command accessory/cd_pwd01.poy -message "'cd' and 'pwd' stderr" -stderr "accessory/stdout/cd_ped01.poy.err"
 -command accessory/clear_memory01.poy -message "'clear_memory' under defaults"
 -command accessory/clear_memory02.poy -message "'clear_memory' with all arguments"
 -command accessory/echo01.poy -message "'echo' stderr outputs, verify by stderr" -stderr "accessory/stderr/echo01.poy.stderr" -error
