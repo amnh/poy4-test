@@ -1,3 +1,4 @@
+let exit_code = ref 0
 let files = ref []
 let command = ref ""
 let message = ref ""
@@ -162,6 +163,7 @@ let test_program =
     match Sys.os_type with
     | "Win32" -> " | poy_test.exe "
     | _ -> " | ./poy_test "
+
 let () =
     let executer append_output command message check_cost check_cost_less
     filename_fixer =
@@ -213,14 +215,21 @@ let () =
                     if res then
                         Printf.printf "PASSED: %s\n%!" message
                     else
-                        Printf.printf "FAILED: %s\n%!" message
-                else
-                    Printf.printf "FAILED: %s\n%!" message
+                        Printf.printf "FAILED: %s\n%!" message;
+                else begin
+                    Printf.printf "FAILED: %s\n%!" message;
+                    exit_code := 1
+                end
         | Unix.WSIGNALED x ->
-                Printf.printf "FAILED: terminated with signal %d -- %s\n%!" x message
+                Printf.printf "FAILED: terminated with signal %d -- %s\n%!" x
+                message;
+                exit_code := 1
         | Unix.WSTOPPED x ->
-                Printf.printf "FAILED: stopped with signal %d -- %s\n%!" x message
+                Printf.printf "FAILED: stopped with signal %d -- %s\n%!" x
+                message;
+                exit_code := 1
     in
     all_files_execution executer ("cat " ^ !command ^
     " | sed -e s,test.xml," ^ default_report ^ ",", !message, (fun x -> x), 1)
-    files
+    files;
+    exit !exit_code
