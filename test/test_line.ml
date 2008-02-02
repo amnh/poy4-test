@@ -15,6 +15,8 @@ let costfile = ref None
 let costlessfile = ref None
 let error_expected = ref false
 
+let _ = Unix.system "rm tmp_line*.*"
+
 let assign item v = item := v
 let assign_opt item v = item := Some v
 
@@ -100,12 +102,13 @@ let default_report = "test" ^ pid ^ ".xml"
 
 let append_all_output filename_fixer command =
     let append_output command (filename, redirector, default) =
-        let filename =
-            match filename with
-            | None -> default
-            | Some x -> filename_fixer x
-        in
-        String.concat " " [ command; redirector; filename ]
+        match filename, !rmstderr, !rmstdout, !mstderr, !mstdout with
+        | None, None, None, None, None -> command
+        | None, _, _, _, _ ->
+                String.concat " " [ command; redirector; default ]
+        | Some x, _, _, _, _ -> 
+                let filename = filename_fixer x in
+                String.concat " " [ command; redirector; filename ]
     in
     let lst =
         [(!rmstderr, "2>", default_stderr); (!rmstdout, ">", default_stdout)]
