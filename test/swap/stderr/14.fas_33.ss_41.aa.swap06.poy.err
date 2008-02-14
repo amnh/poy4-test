@@ -1,0 +1,246 @@
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 14.fas of type input@ sequences
+
+Information :
+The file 14.fas contains sequences of 49 taxa, each sequence holding 1
+fragment.
+
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 33.ss of type hennig86/Nona
+
+Information : The file 33.ss defines 100 characters in 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
+Information :
+The file 41.aa contains sequences of 47 taxa, each sequence holding 1
+fragment.
+
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Setting random seed value to 1
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Diagnosis Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 92.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 148.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 454.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 499.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 617.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 676.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 709.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 736.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 825.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 939.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 983.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 1021.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1065.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1129.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1190.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1230.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1275.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1299.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1347.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1389.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1431.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1470.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1503.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1536.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1576.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1614.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1660.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1733.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1766.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1805.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1836.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1850.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1870.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1954.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1981.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2008.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2015.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2029.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2042.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2067.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2090.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2152.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2184.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2200.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2240.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2266.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2274.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- times
+Status : Diagnosis Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 87.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 143.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 189.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 212.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 281.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 634.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 701.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 727.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 706.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 738.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 859.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 907.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 929.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 964.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1019.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1051.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1117.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1159.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1185.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1240.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1269.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1275.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1329.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1355.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1378.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1509.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1526.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1635.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1656.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1727.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1770.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1809.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1849.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1918.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1949.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2003.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2020.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2041.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2070.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2081.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2090.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2107.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2140.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2181.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2268.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2301.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2336.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- times
+Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Single TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Single TBR Finished
+Information :
+
+  Trees:
+    Storing 2 trees with costs 2020. to 2043.
+    Best cost was found once 
+PASSED

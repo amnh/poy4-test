@@ -1,0 +1,198 @@
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 16.fas of type input@ sequences
+
+Information :
+The file 16.fas contains sequences of 49 taxa, each sequence holding 6
+fragments.
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 34.ss of type hennig86/Nona
+
+Information : The file 34.ss defines 161 characters in 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
+Information :
+The file 40.aa contains sequences of 42 taxa, each sequence holding 1
+fragment.
+
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Selected Terminals:
+              
+
+Information : 
+Information : Total included: 12
+Information : Total excluded: 37
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Setting random seed value to 1
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Diagnosis Finished
+Status : Wagner : 2 of 12 -- Wagner tree with cost 36.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 109.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 152.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 204.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 235.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 252.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 292.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 383.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 406.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 434.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- times
+Status : Diagnosis Finished
+Status : Wagner : 2 of 12 -- Wagner tree with cost 59.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 126.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 151.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 189.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 224.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 277.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 341.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 414.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 441.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 469.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- times
+Status : Running Pipeline Finished
+Status : Tree search : 1 of 2 -- 
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 481 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Tree search : 2 of 2 -- Estimated finish in 0 s
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 493 Searching
+Status : SPR : 488 Searching
+Status : SPR : 479 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Tree search Finished
+Information :
+
+  Trees:
+    Storing 2 trees with costs 476. to 481.
+    Best cost was found once 
+PASSED
