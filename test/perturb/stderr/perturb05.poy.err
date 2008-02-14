@@ -1,0 +1,442 @@
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 1.fas of type input@ sequences
+
+Information :
+The file 1.fas contains sequences of 49 taxa, each sequence holding 5
+fragments.
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 30.ss of type hennig86/Nona
+
+Information : The file 30.ss defines 144 characters in 49 taxa.
+Status : Loading Characters : 0 of 49 -- Storing the character specifications
+Status : Loading Characters : 1 of 49 -- Storing the character specifications
+Status : Loading Characters : 2 of 49 -- Storing the character specifications
+Status : Loading Characters : 3 of 49 -- Storing the character specifications
+Status : Loading Characters : 4 of 49 -- Storing the character specifications
+Status : Loading Characters : 5 of 49 -- Storing the character specifications
+Status : Loading Characters : 6 of 49 -- Storing the character specifications
+Status : Loading Characters : 7 of 49 -- Storing the character specifications
+Status : Loading Characters : 8 of 49 -- Storing the character specifications
+Status : Loading Characters : 9 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 49 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 49 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
+Information :
+The file 40.aa contains sequences of 42 taxa, each sequence holding 1
+fragment.
+
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Setting random seed value to 1
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Diagnosis Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 82.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 161.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 241.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 295.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 358.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 411.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 425.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 482.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 536.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 570.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 627.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 643.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 680.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 784.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 851.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 924.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1049.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1301.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1321.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1341.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1371.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1433.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1496.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1602.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1625.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1649.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1675.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1732.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1862.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1889.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1945.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2069.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2129.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2203.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2232.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2260.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2345.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2434.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2471.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2612.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2649.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2686.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2744.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2766.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2781.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2797.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2854.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- times
+Status : Diagnosis Finished
+Status : Wagner : 2 of 49 -- Wagner tree with cost 112.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 186.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 249.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 430.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 562.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 635.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 667.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 688.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 842.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 1079.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 1171.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 1293.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1353.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1411.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1461.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1483.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1600.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1616.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1662.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1692.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1792.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1857.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1872.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1886.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1956.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1967.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1985.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 2012.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 2039.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 2071.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 2112.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2142.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2152.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2244.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2317.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2373.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2399.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2463.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2500.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2579.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2613.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2628.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2683.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2698.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2751.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2783.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2812.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- times
+Status : Running Pipeline Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration : 1 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2817 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2825 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 5626 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2817 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 5 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2817 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2817 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration : 1 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2849 Searching
+Status : SPR : 2846 Searching
+Status : SPR : 2839 Searching
+Status : SPR : 2837 Searching
+Status : SPR : 2836 Searching
+Status : SPR : 2832 Searching
+Status : SPR : 2831 Searching
+Status : SPR : 2828 Searching
+Status : SPR : 2824 Searching
+Status : SPR : 2802 Searching
+Status : SPR : 2801 Searching
+Status : SPR : 2800 Searching
+Status : SPR : 2793 Searching
+Status : SPR : 2792 Searching
+Status : SPR : 2784 Searching
+Status : SPR : 2781 Searching
+Status : SPR : 2779 Searching
+Status : SPR : 2766 Searching
+Status : SPR : 2763 Searching
+Status : SPR : 2762 Searching
+Status : SPR : 2761 Searching
+Status : SPR : 2734 Searching
+Status : SPR : 2733 Searching
+Status : SPR : 2732 Searching
+Status : SPR : 2727 Searching
+Status : SPR : 2719 Searching
+Status : SPR : 2711 Searching
+Status : SPR : 2710 Searching
+Status : SPR : 2709 Searching
+Status : SPR : 2707 Searching
+Status : SPR : 2702 Searching
+Status : SPR : 2700 Searching
+Status : SPR : 2699 Searching
+Status : SPR : 2698 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2687 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2687 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2695 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 5 of 5 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2695 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 2687 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
+Status : Alternate Finished
+Information :
+
+  Trees:
+    Storing 2 trees with costs 2687. to 2817.
+    Best cost was found once 
+PASSED
