@@ -1,5 +1,7 @@
 (* Running 'swap' with 'spr' *)
+(* for the sake of speeding up the test, only 12 terminals are used *)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+select(terminals, files:("term12.txt"))
 set(seed:1)
 build (2)
-swap (spr, timeout:300)
+swap (spr)

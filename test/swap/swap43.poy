@@ -2,4 +2,4 @@
 read ("1.fas")
 set(seed:1)
 build(2)
-swap(visited, timeout:300)
+swap(visited)
