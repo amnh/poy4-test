@@ -1,0 +1,7 @@
+(* 'select' under default *)
+set(seed:1)
+read ("1.fas", "30.ss", aminoacids:("40.aa"))
+build(4)
+report(treestats)
+select()
+report(treestats)

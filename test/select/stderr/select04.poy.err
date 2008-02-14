@@ -1,0 +1,50 @@
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Setting random seed value to 1
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : Reading file 1.fas of type input@ sequences
+
+Information :
+The file 1.fas contains sequences of 49 taxa, each sequence holding 5
+fragments.
+Status : Diagnosis Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+Information : 
+                Trees:
+                  Storing 0 trees 
+Status : Diagnosis Finished
+Status : Wagner : 2 of 6 -- Wagner tree with cost 29.
+Status : Wagner : 3 of 6 -- Wagner tree with cost 114.
+Status : Wagner : 4 of 6 -- Wagner tree with cost 120.
+Status : Wagner : 5 of 6 -- Wagner tree with cost 125.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 2 -- times
+Status : Diagnosis Finished
+Status : Wagner : 2 of 6 -- Wagner tree with cost 18.
+Status : Wagner : 3 of 6 -- Wagner tree with cost 109.
+Status : Wagner : 4 of 6 -- Wagner tree with cost 110.
+Status : Wagner : 5 of 6 -- Wagner tree with cost 116.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 2 -- times
+Status : Running Pipeline Finished
+Information :
+
+  Trees:
+    Storing 2 trees with costs 129. to 130.
+    Best cost was found once 
+Information :
+
+  Trees:
+    Storing 2 trees with costs 129. to 130.
+    Best cost was found once 
+PASSED

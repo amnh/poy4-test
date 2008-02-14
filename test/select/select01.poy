@@ -1,0 +1,6 @@
+(* 'select' terminals using terminals file with identifiers *)
+set(seed:1)
+read ("1.fas", "30.ss", aminoacids:("40.aa"))
+select(terminals, files:("term12.txt"))
+build(2)
+report(data)

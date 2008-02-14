@@ -1,0 +1,71 @@
+Data
+        
+        
+         Taxa
+             
+             Total 6
+                                                        
+                     Name         Code          
+                    t11          11            
+                    t13          13            
+                    t3           3             
+                    t5           5             
+                    t7           7             
+                    t9           9             
+         Synonyms
+                     
+                     
+                      
+                 
+    Ignored taxa
+        t8; t6; t49; t48; t47; t46; t45; t44; t43; t42; t41; t40; t4; 
+        t39; t38; t37; t36; t35; t34; t33; t32; t31; t30; t29; t28; t27
+        ; t26; t25; t24; t23; t22; t21; t20; t2; t19; t18; t17; t16; 
+        t15; t14; t12; t10; t1; 
+    Characters
+        Non Additive
+            
+            Total 0
+                   
+            
+        Additive
+            
+            Total 0
+                   
+            
+        Sankoff
+            
+            Total 0
+                   
+            
+        Molecular
+            
+            Total 5
+                                                                                                                                                   
+                    Name         Fixed States         Transformation Cost Matrix         Gap Opening         Weight         class          
+                   1.fas:0                           tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:1                           tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:2                           tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:3                           tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:4                           tcm:(1,2)                          0                   1.             sequence      {}
+            
+        
+    Ignored characters
+        
+    Files
+             
+             
+              File
+                      
+                      
+                      File Name : 1.fas
+                       File Contents 
+                                     
+                                      Characters
+                                    
+                  
+         
+
+
+
+
