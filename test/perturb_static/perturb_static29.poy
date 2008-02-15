@@ -1,0 +1,7 @@
+(* 'perturb' using 'iterations', 'resample', and 'swap' with specified values; static characters only *)
+(* for the sake of speeding up the test, only 12 terminals are used *)
+read ("30.ss", "31.ss", "32.ss", "33.ss", "34.ss")
+select(terminals, files:("term12.txt"))
+set(seed:1)
+build (2)
+perturb (iterations:2, swap(tbr, trees:5))

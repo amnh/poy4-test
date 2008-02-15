@@ -1,0 +1,4 @@
+(* 'search' under without specifying 'build' argument; static homology characters only *)
+read ("30.ss", "31.ss", "32.ss", "33.ss", "34.ss")
+set(seed:1)
+search(build)
