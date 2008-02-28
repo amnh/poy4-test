@@ -1,0 +1,6 @@
+(* Build with branch and bound (1 trees) *)
+(*terminals reduced to 5 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+select (terminals, names:("t1", "t2", "t3", "t4", "t5"))
+set (seed:1)
+build (1, branch_and_bound, trees:1)
