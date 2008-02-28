@@ -1,3 +1,6 @@
 (* Build with all *)
-read ("1.fas", "30.ss", aminoacids:("40.aa"))
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+select (terminals, _random:10)
+set (seed:50)
 build (all)
