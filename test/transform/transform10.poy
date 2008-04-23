@@ -1,5 +1,8 @@
 (* Read and transform prealigned Expect error*)
-read ("FILENAME1")
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 build (2)
 transform ((all, tcm:(1,1), prealigned))
 

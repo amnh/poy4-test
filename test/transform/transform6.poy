@@ -1,5 +1,8 @@
 (* Read and transform auto_sequence_partition and build *)
-read ("1.fas")
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1")
+set (seed:50)
+select (terminals, _random:10)
 build (2)
 transform ((all, auto_sequence_partition))
 

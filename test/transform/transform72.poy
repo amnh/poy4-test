@@ -1,3 +1,3 @@
-(* Read genome and transform with dynamic_pam chrom_indel *)
-read (genome:("FILENAME1"))
-transform ((all, dynamic_pam:(chrom_indel:(2,0.80))))     
+(* Read chromosome and transform with dynamic_pam max_3d_len 500 *)
+read (chromosome:("an.fas"))
+transform ((all, dynamic_pam:(max_3d_len:500)))     

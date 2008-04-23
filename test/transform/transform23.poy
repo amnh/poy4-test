@@ -1,7 +1,10 @@
 (* Read and tra1nsform weight float *)
-read ("1.fas")
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 transform (weight:0.4)
-
+build(1)
 
 
 

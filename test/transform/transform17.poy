@@ -1,5 +1,8 @@
 (* Read and transform tcm *)
-read ("2.fas")
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 transform (tcm:(4,4))
 
 

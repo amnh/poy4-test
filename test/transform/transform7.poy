@@ -1,6 +1,8 @@
 (* Read and transform fixedstates *)
-read ("2.fas")
-set(seed:50)
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1")
+set (seed:50)
+select (terminals, _random:10)
 build (1)
 transform ((all, fixed_states))
-
+report (trees)

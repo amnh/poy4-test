@@ -1,6 +1,10 @@
 (* Read and transform weightfactor integer *)
-read ("1.fas")
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 transform (weightfactor:4)
+build(1)
 
 
 

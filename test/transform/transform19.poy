@@ -1,6 +1,8 @@
-(* Read and transform weight integer *)
-read ("FILENAME1")
-set(seed:50)
+(* Transform weight integer *)
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 build (1)
 transform (weight:4)
 

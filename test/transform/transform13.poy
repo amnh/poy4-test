@@ -1,5 +1,8 @@
-(* Read and transform trailing_insertion *)
-read ("2.fas")
+(* Transform trailing_insertion *)
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 transform (ti:(2,2,2,2,0))
 build (1)
 

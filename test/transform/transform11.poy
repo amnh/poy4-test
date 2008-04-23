@@ -1,5 +1,8 @@
 (* Read and transform static_approx *)
-read ("2.fas")
-build (2)
-transform ((all, static_approx))
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1")
+set (seed:50)
+select (terminals, _random:10)
+build (1)
+transform (static_approx)
 

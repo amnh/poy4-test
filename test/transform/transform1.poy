@@ -1,4 +1,7 @@
 (* Read and transform all gap_opening and build" *)
-read ("1.fas")
+(*terminals reduced to random 10 to expidite test*)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+set (seed:50)
+select (terminals, _random:10)
 transform ((all, gap_opening:1))
 build (1)
