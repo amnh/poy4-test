@@ -1,0 +1,38 @@
+Information : Reading file 26.fas of type input sequences
+
+Information :
+The file 26.fas contains sequences of 31 taxa, each sequence holding 1
+fragment.
+
+Information : Setting random seed value to 50
+Status : Wagner : 2 of 4 -- Wagner tree with cost 3.
+Status : Wagner : 3 of 4 -- Wagner tree with cost 3.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Status : Implied Alignments : 1 of 7 -- vertices calculated
+Status : Implied Alignments : 2 of 7 -- vertices calculated
+Status : Implied Alignments : 3 of 7 -- vertices calculated
+Status : Implied Alignments : 4 of 7 -- vertices calculated
+Status : Implied Alignments : 5 of 7 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 4 -- Storing the character specifications
+Status : Loading Characters : 1 of 4 -- Storing the character specifications
+Status : Loading Characters : 2 of 4 -- Storing the character specifications
+Status : Loading Characters : 3 of 4 -- Storing the character specifications
+Status : Loading Characters : 4 of 4 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Information :
+
+  Trees:
+    Storing 1 tree with cost 23. 
+  Cost Mode: Normal Direct Optimization
+PASSED
