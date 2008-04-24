@@ -1,0 +1,7 @@
+(* Transform_static weightfactor float *)
+(*terminals reduced to random 10 to expidite test*)
+read ("31.ss", "32.ss", "33.ss", "34.ss")
+set (seed:50)
+select (terminals, _random:10)
+transform (weightfactor:0.4)
+build(1)
