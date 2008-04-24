@@ -1,0 +1,11 @@
+-message "Transform static with tcm:(1,1) Expect Error(Transform_static)" -command ./transform_static/transform_static.poy -stderr "./transform_static/stderr/transform_static.err" -error
+-message "Transform static with all fixedstates Expect Error(Transform7_static)" -command ./transform_static/transform7_static.poy -stdout "./transform_static/stdout/transform7_static.out"
+-message "Transform static with all gap_opening Expect Error(Transform8_static)" -command ./transform_static/transform8_static.poy -stderr "./transform_static/stderr/transform8_static.err"
+-message "Transform static prealigned Expect Error (Transform10_static)" -command ./transform_static/transform10_static.poy -stderr "./transform_static/stderr/transform10_static.err" -error
+-message "Transform static with all trailing_insertion(Transform13_static)" -command ./transform_static/transform13_static.poy -stderr "./transform_static/stderr/transform13_static.err"
+-message "Transform static with all trailing_deletion(Transform15_static)" -command ./transform_static/transform15_static.poy -stderr "./transform_static/stderr/transform15_static.err"
+-message "Transform static with all tcm (Transform17_static)" -command ./transform_static/transform17_static.poy -stderr "./transform_static/stderr/transform17_static.err"
+-message "Transform static with all weight integer (Transform19_static)" -command ./transform_static/transform19_static.poy -stderr "./transform_static/stderr/transform19_static.err"
+-message "Transform static with all weightfactor float (Transform21_static)" -command ./transform_static/transform21_static.poy -stderr "./transform_static/stderr/transform21_static.err"
+-message "Transform static with all weight float (Transform23_static)" -command ./transform_static/transform23_static.poy -stderr "./transform_static/stderr/transform23_static.err"
+-message "Transform static with all weightfactor integer (Transform25_static)" -command ./transform_static/transform25_static.poy -stderr "./transform_static/stderr/transform25_static.err"
