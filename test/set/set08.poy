@@ -1,5 +1,5 @@
 (* test 'iterative'; VERIFY COST *)
-set(iterative)
+set(iterative:true)
 read("1.fas")
 set(seed:1)
 build(1)

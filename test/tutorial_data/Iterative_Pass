@@ -2,7 +2,7 @@
 read("*.seq", "morph.ss", aminoacids:("myosin.aa"))
 read("inter_tree.tre")
 transform (tcm:(1,2), gap_opening:1)
-set(iterative)
+set(iterative:true)
 swap()
 select()
 report("all_trees", trees:(total) ,"constree", graphconsensus,
