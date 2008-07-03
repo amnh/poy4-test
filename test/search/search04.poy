@@ -1,4 +1,4 @@
-(* 'search' without specifying 'transform' value *)
+(* 'search' with memory:mb:800, static homology characters only *)
 read ("1.fas", "30.ss", aminoacids:("40.aa"))
 set(seed:1)
-search(transform)
+search(memory:mb:800)

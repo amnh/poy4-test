@@ -1,6 +1,4 @@
-(* 'search' with 'build' *)
-(* for the sake of speeding up the test, only 12 terminals are used *)
+(* 'search' with 'hits:25' *)
 read ("1.fas", "30.ss", aminoacids:("40.aa"))
 set(seed:1)
-select(terminals, files:("term12.txt"))
-search(build:true)
+search(hits:25)
