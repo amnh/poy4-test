@@ -1,16 +1,6 @@
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
 Information : Setting random seed value to 1
-Information : 
-                Trees:
-                  Storing 0 trees 
-Status : Loading terminals Finished
-Status : Diagnosis Finished
-Status : Loading terminals Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
 Error :
 POY requires at least two taxa in order to start a search. Please load some data.
 FAILED
