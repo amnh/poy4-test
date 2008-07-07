@@ -1,4 +1,4 @@
-(* 'search' with 'transform' but without building; static homology characters only *)
+(* 'search' target_cost:4300; static homology characters only *)
 read ("30.ss", "31.ss", "32.ss", "33.ss", "34.ss")
 set(seed:1)
-search(transform:true)
+search(target_cost:4300)

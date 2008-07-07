@@ -1,4 +1,4 @@
-(* 'search' with 'build'; static homology characters only *)
+(* 'search' with 'hits:25'; static homology characters only *)
 read ("30.ss", "31.ss", "32.ss", "33.ss", "34.ss")
 set(seed:1)
-search(build:true)
+search(hits:25)

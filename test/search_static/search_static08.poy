@@ -1,6 +1,4 @@
-(* 'search' with 'transform' based on existing trees; XML VERIFY; static homology characters only *)
+(* 'search' with max_time:0:0:15, min_time:0:0:5; static homology characters only *)
 read ("30.ss", "31.ss", "32.ss", "33.ss", "34.ss")
 set(seed:1)
-build(2)
-search(transform:true)
-report("test.xml", diagnosis)
+search(max_time:0:0:15, min_time:0:0:5)
