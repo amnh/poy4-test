@@ -1,3 +1,3 @@
-(* 'search' under defaults without reading data files; NEEDS a WARNING!; static homology characters only *)
+(* 'search' under defaults without reading data files; expect error ; static homology characters only *)
 set(seed:1)
 search()
