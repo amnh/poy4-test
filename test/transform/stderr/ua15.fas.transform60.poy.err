@@ -1,0 +1,13 @@
+Information :
+The file ua15.fas contains sequences of 15 taxa, each sequence holding 1
+fragment.
+
+Information : Setting random seed value to 1
+Status : Tranform Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+                Cost Mode: Normal Direct Optimization
+PASSED

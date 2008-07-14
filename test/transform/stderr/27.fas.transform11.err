@@ -9,7 +9,6 @@ Status : Wagner : 3 of 5 -- Wagner tree with cost 4.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 9.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Implied Alignments : 1 of 9 -- vertices calculated
 Status : Implied Alignments : 2 of 9 -- vertices calculated

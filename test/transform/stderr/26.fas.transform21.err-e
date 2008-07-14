@@ -1,0 +1,14 @@
+Information : Reading file 26.fas of type input sequences
+
+Information :
+The file 26.fas contains sequences of 31 taxa, each sequence holding 1
+fragment.
+
+Information : Setting random seed value to 50
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Information : 
+                Trees:
+                  Storing 0 trees 
+                Cost Mode: Normal Direct Optimization
+PASSED
