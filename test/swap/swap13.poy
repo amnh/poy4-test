@@ -1,5 +1,5 @@
-(* Running tree drifting without specifying values; ERROR EXPECTED and DETECTED *)
+(* Running tree drifting without specifying values; Expect Error *)
 read ("1.fas")
 set(seed:1)
-build (2)
-swap (drifting)
+build (1)
+swap (drifting:())
