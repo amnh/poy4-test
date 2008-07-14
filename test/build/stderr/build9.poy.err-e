@@ -1,0 +1,40 @@
+Information : Reading file 23.fas of type input sequences
+
+Information :
+The file 23.fas contains sequences of 49 taxa, each sequence holding 1
+fragment.
+
+Information : Setting random seed value to 1
+Status : Wagner : 2 of 5 -- Wagner tree with cost 12.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 13.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 25.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 3 -- Estimated finish in 0 s
+Status : Wagner : 2 of 5 -- Wagner tree with cost 12.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 16.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 28.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 2 of 3 -- Estimated finish in 0 s
+Status : Wagner : 2 of 5 -- Wagner tree with cost 16.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 25.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 28.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 3 of 3 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Status :
+Constrained Wagner Replicate :
+1 of 1 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 16.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+0 of 1 -- Constrained Wagner tree replicate building
+Status : Constrained Wagner Replicate Finished
+Status : Running Pipeline : 1 of 10 -- Estimated finish in 0 s
+FAILED
+Fatal error: exception Failure("No trees for constraint")

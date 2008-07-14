@@ -1,0 +1,20 @@
+Information : Reading file 1.fas of type input sequences
+
+Information :
+The file 1.fas contains sequences of 49 taxa, each sequence holding 5
+fragments.
+Information : Setting random seed value to 50
+Status : Wagner : 2 of 5 -- Wagner tree with cost 26.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 51.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 61.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Information :
+
+  Trees:
+    Storing 1 tree with cost 75. 
+  Cost Mode: Normal Direct Optimization
+PASSED

@@ -1,0 +1,32 @@
+Information : Reading file 2.fas of type input sequences
+
+Information :
+The file 2.fas contains sequences of 17 taxa, each sequence holding 1
+fragment.
+
+Information : Setting random seed value to 50
+Status : Wagner : 2 of 17 -- Wagner tree with cost 48.
+Status : Wagner : 3 of 17 -- Wagner tree with cost 76.
+Status : Wagner : 4 of 17 -- Wagner tree with cost 95.
+Status : Wagner : 5 of 17 -- Wagner tree with cost 118.
+Status : Wagner : 6 of 17 -- Wagner tree with cost 130.
+Status : Wagner : 7 of 17 -- Wagner tree with cost 149.
+Status : Wagner : 8 of 17 -- Wagner tree with cost 196.
+Status : Wagner : 9 of 17 -- Wagner tree with cost 227.
+Status : Wagner : 10 of 17 -- Wagner tree with cost 256.
+Status : Wagner : 11 of 17 -- Wagner tree with cost 270.
+Status : Wagner : 12 of 17 -- Wagner tree with cost 279.
+Status : Wagner : 13 of 17 -- Wagner tree with cost 282.
+Status : Wagner : 14 of 17 -- Wagner tree with cost 300.
+Status : Wagner : 15 of 17 -- Wagner tree with cost 356.
+Status : Wagner : 16 of 17 -- Wagner tree with cost 389.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
+Status : Running Pipeline Finished
+Information :
+
+  Trees:
+    Storing 1 tree with cost 395. 
+  Cost Mode: Exact Iterative Pass
+PASSED

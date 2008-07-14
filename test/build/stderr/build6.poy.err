@@ -1,0 +1,45 @@
+Information : Reading file 2.fas of type input sequences
+
+Information :
+The file 2.fas contains sequences of 17 taxa, each sequence holding 1
+fragment.
+
+Information : Setting random seed value to 50
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Information : The file 2.fas.2.tree contains 1 trees.
+Status : Loading Trees : 1 of 1 -- 
+Status : Loading Trees Finished
+Status : Running Pipeline Finished
+Information :
+
+  Trees:
+    Storing 10 trees with costs 338. to 338.
+    Best cost in 10 trees 
+  Cost Mode: Normal Direct Optimization
+PASSED
