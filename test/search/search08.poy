@@ -1,4 +1,4 @@
-(* 'search' with max_time:0:0:15, min_time:0:0:5; static homology characters only *)
+(* 'search' with max_time:0:0:15, min_time:0:0:5 *)
 read("1.fas")
 set(seed:1)
 search(max_time:0:0:15, min_time:0:0:5)

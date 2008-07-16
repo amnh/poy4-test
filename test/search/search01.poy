@@ -1,3 +1,4 @@
 (* 'search' under defaults without reading data files; expect error *)
+read ("2.fas")
 set(seed:1)
-search()
+search(max_time:0:0:02)
