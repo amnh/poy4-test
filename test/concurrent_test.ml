@@ -5,20 +5,20 @@ let buildbot = ref false
 let buildbot_prefix = ref ""
 let buildbot_suffix = ref ""
 
-let set_buildbot_mode mode = 
+let set_buildbot_mode () = 
     buildbot := true;
     buildbot_suffix := "]))";
-    match mode with
-    | "costcalculation" -> 
+    match !input_file with
+    | "cost_tests" -> 
             buildbot_prefix := 
                 "cost_calculation_tests.append (generate_test ([";
-    | "search" ->
+    | "search_tests" ->
             buildbot_prefix := "search_tests.append (generate_test ([";
-    | "bucket" -> 
+    | "bucket_tests" -> 
             buildbot_prefix :=
                 "append_by_bucket (command_tests, generate_test (["
     | x -> 
-            prerr_string "Unknown mode: ";
+            prerr_string "Unknown mode for file: ";
             prerr_string x;
             prerr_newline ();
             exit 1
@@ -26,7 +26,7 @@ let set_buildbot_mode mode =
 
 let () =
     let parse_list = [
-        ("-buildbot", Arg.String (fun mode -> set_buildbot_mode mode), 
+        ("-buildbot", Arg.Unit set_buildbot_mode, 
         "Don't run the test but dump the buildbot ready file using prefix and \
         suffix according to the following modes: costcalculation, search, \
         bucket.");
