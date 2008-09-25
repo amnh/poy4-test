@@ -1,5 +1,6 @@
 (* Read and transform fixedstates *)
 (*terminals reduced to random 10 to expidite test*)
+set (timer:0)
 read ("FILENAME1")
 set (seed:50)
 select (terminals, _random:10)

@@ -5,8 +5,3 @@ set (seed:50)
 select (terminals, _random:10)
 transform (weight:0.4)
 build(1)
-
-
-
-
-

@@ -1,12 +1,6 @@
 (* Transform weightfactor float *)
 (*terminals reduced to random 10 to expidite test*)
-read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
+read ("FILENAME1")
 set (seed:50)
 select (terminals, _random:10)
 transform (weightfactor:0.4)
-
-
-
-
-
-

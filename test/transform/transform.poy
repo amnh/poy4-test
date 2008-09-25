@@ -1,4 +1,4 @@
-(* Read and transform all tcm:(1,1)) and build" *)
+(* Read and transform all tcm:(1,1)) and build *)
 (*terminals reduced to random 10 to expidite test*)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 set (seed:50)

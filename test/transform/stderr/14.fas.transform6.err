@@ -5,15 +5,15 @@ The file 14.fas contains sequences of 49 taxa, each sequence holding 1
 fragment.
 
 Information : Setting random seed value to 50
-Status : Wagner : 2 of 5 -- Wagner tree with cost 54.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 71.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 96.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 47.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 70.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 95.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
-Status : Wagner : 2 of 5 -- Wagner tree with cost 36.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 70.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 95.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 33.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 46.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 80.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
@@ -31,6 +31,6 @@ Information :
 
   Trees:
     Storing 2 trees with costs 110. to 110.
-    Best cost was found 2 times 
+    Best cost in 2 trees 
   Cost Mode: Normal Direct Optimization
 PASSED

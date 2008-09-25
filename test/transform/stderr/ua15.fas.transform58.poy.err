@@ -2,29 +2,11 @@ Information :
 The file ua15.fas contains sequences of 15 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 1
 Status : Tranform Finished
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
-Status : Wagner : 2 of 15 -- Wagner tree with cost 293.
-Status : Wagner : 3 of 15 -- Wagner tree with cost 998.
-Status : Wagner : 4 of 15 -- Wagner tree with cost 998.
-Status : Wagner : 5 of 15 -- Wagner tree with cost 1140.
-Status : Wagner : 6 of 15 -- Wagner tree with cost 1140.
-Status : Wagner : 7 of 15 -- Wagner tree with cost 1140.
-Status : Wagner : 8 of 15 -- Wagner tree with cost 1349.
-Status : Wagner : 9 of 15 -- Wagner tree with cost 1354.
-Status : Wagner : 10 of 15 -- Wagner tree with cost 1424.
-Status : Wagner : 11 of 15 -- Wagner tree with cost 1433.
-Status : Wagner : 12 of 15 -- Wagner tree with cost 1581.
-Status : Wagner : 13 of 15 -- Wagner tree with cost 1501.
-Status : Wagner : 14 of 15 -- Wagner tree with cost 1767.
-Status : Wagner Finished
-Status : Building Wagner Tree Finished
-Status : Running Pipeline Finished
-Information :
-
-  Trees:
-    Storing 1 tree with cost 1952. 
-  Cost Mode: Normal Direct Optimization
+Information : 
+                Trees:
+                  Storing 0 trees 
+                Cost Mode: Normal Direct Optimization
 PASSED
