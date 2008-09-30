@@ -257,6 +257,7 @@ let () =
                                 with
                                 | Unix.WEXITED 0 -> ()
                                 | _ ->
+                                        exit_code := 1;
                                         Printf.printf 
                                         "FAILED: Could not generate reference %s\n"
                                         x
@@ -268,8 +269,10 @@ let () =
                     in
                     if res then
                         Printf.printf "PASSED: %s\n%!" message
-                    else
+                    else begin
+                        if not !error_expected then exit_code := 1;
                         Printf.printf "FAILED: %s\n%!" message;
+                    end
                 else begin
                     Printf.printf "FAILED: %s\n%!" message;
                     exit_code := 1
