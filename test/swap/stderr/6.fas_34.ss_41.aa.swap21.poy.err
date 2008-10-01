@@ -1,22 +1,13 @@
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : Reading file 6.fas of type input@ sequences
+Information : Reading file 6.fas of type input sequences
 
 Information :
 The file 6.fas contains sequences of 49 taxa, each sequence holding 1
 fragment.
 
-Status : Diagnosis Finished
-Information : 
-                Trees:
-                  Storing 0 trees 
 Information : Reading file 34.ss of type hennig86/Nona
 
-Information : The file 34.ss defines 161 characters in 49 taxa.
+Information :
+The file 34.ss defines 161 static homology characters in 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -108,90 +99,56 @@ Loading Characters : 48 of 49 -- Storing the character specifications
 Status :
 Loading Characters : 49 of 49 -- Storing the character specifications
 Status : Loading Characters Finished
-Status : Diagnosis Finished
-Information : 
-                Trees:
-                  Storing 0 trees 
 Status : Calculating Three Dimansional Aminoacid Cost Matrix Finished
 Information :
 The file 41.aa contains sequences of 47 taxa, each sequence holding 1
 fragment.
 
-Status : Diagnosis Finished
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
 Information : Selected Terminals:
               
 
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
-Information : 
-                Trees:
-                  Storing 0 trees 
 Information : Setting random seed value to 1
-Information : 
-                Trees:
-                  Storing 0 trees 
-Status : Diagnosis Finished
-Status : Wagner : 2 of 12 -- Wagner tree with cost 623.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 1177.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 1780.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 2188.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 4323.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 4553.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 5240.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 5662.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 6417.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 7061.
+Status : Wagner : 2 of 12 -- Wagner tree with cost 894.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 1290.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 2530.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 2832.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 4232.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 4686.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 5478.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 5986.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 6803.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 7156.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 2 -- times
-Status : Diagnosis Finished
-Status : Wagner : 2 of 12 -- Wagner tree with cost 1347.
-Status : Wagner : 3 of 12 -- Wagner tree with cost 2248.
-Status : Wagner : 4 of 12 -- Wagner tree with cost 2746.
-Status : Wagner : 5 of 12 -- Wagner tree with cost 3245.
-Status : Wagner : 6 of 12 -- Wagner tree with cost 3873.
-Status : Wagner : 7 of 12 -- Wagner tree with cost 4254.
-Status : Wagner : 8 of 12 -- Wagner tree with cost 5016.
-Status : Wagner : 9 of 12 -- Wagner tree with cost 5536.
-Status : Wagner : 10 of 12 -- Wagner tree with cost 6110.
-Status : Wagner : 11 of 12 -- Wagner tree with cost 7530.
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 6 s
+Status : Wagner : 2 of 12 -- Wagner tree with cost 626.
+Status : Wagner : 3 of 12 -- Wagner tree with cost 1512.
+Status : Wagner : 4 of 12 -- Wagner tree with cost 1796.
+Status : Wagner : 5 of 12 -- Wagner tree with cost 3072.
+Status : Wagner : 6 of 12 -- Wagner tree with cost 3683.
+Status : Wagner : 7 of 12 -- Wagner tree with cost 4055.
+Status : Wagner : 8 of 12 -- Wagner tree with cost 4967.
+Status : Wagner : 9 of 12 -- Wagner tree with cost 5390.
+Status : Wagner : 10 of 12 -- Wagner tree with cost 5855.
+Status : Wagner : 11 of 12 -- Wagner tree with cost 7222.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 2 of 2 -- times
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Tree search : 1 of 2 -- 
-Status : Alternate : 0 Beginning search
-Status : Alternate : 0 SPR search
-Status : SPR : 7540 Searching
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate Finished
-Status : Tree search : 2 of 2 -- Estimated finish in 1 m, 17 s
-Status : Alternate : 0 Beginning search
-Status : Alternate : 0 SPR search
-Status : SPR : 7576 Searching
-Status : SPR Finished
-Status : Alternate : 0 Performing TBR swapping
-Status : Single TBR Finished
-Status : Alternate Finished
+Status : TBR : 7569 Searching
+Status : TBR Finished
+Status : Tree search : 2 of 2 -- Estimated finish in 3 s
+Status : TBR : 7530 Searching
+Status : TBR Finished
 Status : Tree search Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 7540. to 7576.
-    Best cost was found once 
+    Storing 2 trees with costs 7530. to 7569.
+    Best cost in 1 tree 
+  Cost Mode: Normal Direct Optimization
 PASSED

@@ -6,7 +6,8 @@ fragment.
 
 Information : Reading file 33.ss of type hennig86/Nona
 
-Information : The file 33.ss defines 100 characters in 49 taxa.
+Information :
+The file 33.ss defines 100 static homology characters in 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -104,9 +105,9 @@ The file 41.aa contains sequences of 47 taxa, each sequence holding 1
 fragment.
 
 Information : Setting random seed value to 50
-Status : Wagner : 2 of 5 -- Wagner tree with cost 267.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 397.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 582.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 230.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 283.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 341.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -120,6 +121,6 @@ Status : Diagnosis Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 2456. 
+    Storing 1 tree with cost 1676. 
   Cost Mode: Normal Direct Optimization
 PASSED
