@@ -227,7 +227,7 @@ let () =
                     | Unix.WEXITED 0 -> 
                             (match Unix.system ("sed -i -e '/Estimated/d' " ^ b) with
                             | Unix.WEXITED 0 ->
-                                    (match Unix.system ("diff -q " ^ a ^ " " ^
+                                    (match Unix.system ("diff --strip-trailing-cr -E -B -w -b -u " ^ a ^ " " ^
                                             b) with
                                     | Unix.WEXITED 0 -> true
                                     | _ -> false)
