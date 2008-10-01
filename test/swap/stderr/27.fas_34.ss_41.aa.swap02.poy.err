@@ -103,13 +103,13 @@ Information :
 The file 41.aa contains sequences of 47 taxa, each sequence holding 1
 fragment.
 
+Information : Setting random seed value to 1
 Information : Selected Terminals:
               
 
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
-Information : Setting random seed value to 1
 Status : Wagner : 2 of 12 -- Wagner tree with cost 56.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 318.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 334.

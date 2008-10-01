@@ -1,28 +1,158 @@
+Information : Setting random seed value to 50
 Information : Reading file 26.fas of type input sequences
 
 Information :
 The file 26.fas contains sequences of 31 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
-Status : Wagner : 2 of 4 -- Wagner tree with cost 25.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 30.
+Status : Wagner : 2 of 31 -- Wagner tree with cost 13.
+Status : Wagner : 3 of 31 -- Wagner tree with cost 30.
+Status : Wagner : 4 of 31 -- Wagner tree with cost 34.
+Status : Wagner : 5 of 31 -- Wagner tree with cost 54.
+Status : Wagner : 6 of 31 -- Wagner tree with cost 62.
+Status : Wagner : 7 of 31 -- Wagner tree with cost 77.
+Status : Wagner : 8 of 31 -- Wagner tree with cost 103.
+Status : Wagner : 9 of 31 -- Wagner tree with cost 113.
+Status : Wagner : 10 of 31 -- Wagner tree with cost 115.
+Status : Wagner : 11 of 31 -- Wagner tree with cost 126.
+Status : Wagner : 12 of 31 -- Wagner tree with cost 135.
+Status : Wagner : 13 of 31 -- Wagner tree with cost 152.
+Status : Wagner : 14 of 31 -- Wagner tree with cost 161.
+Status : Wagner : 15 of 31 -- Wagner tree with cost 161.
+Status : Wagner : 16 of 31 -- Wagner tree with cost 173.
+Status : Wagner : 17 of 31 -- Wagner tree with cost 178.
+Status : Wagner : 18 of 31 -- Wagner tree with cost 178.
+Status : Wagner : 19 of 31 -- Wagner tree with cost 179.
+Status : Wagner : 20 of 31 -- Wagner tree with cost 189.
+Status : Wagner : 21 of 31 -- Wagner tree with cost 189.
+Status : Wagner : 22 of 31 -- Wagner tree with cost 189.
+Status : Wagner : 23 of 31 -- Wagner tree with cost 202.
+Status : Wagner : 24 of 31 -- Wagner tree with cost 202.
+Status : Wagner : 25 of 31 -- Wagner tree with cost 214.
+Status : Wagner : 26 of 31 -- Wagner tree with cost 228.
+Status : Wagner : 27 of 31 -- Wagner tree with cost 228.
+Status : Wagner : 28 of 31 -- Wagner tree with cost 234.
+Status : Wagner : 29 of 31 -- Wagner tree with cost 236.
+Status : Wagner : 30 of 31 -- Wagner tree with cost 239.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
-Status : Implied Alignments : 1 of 7 -- vertices calculated
-Status : Implied Alignments : 2 of 7 -- vertices calculated
-Status : Implied Alignments : 3 of 7 -- vertices calculated
-Status : Implied Alignments : 4 of 7 -- vertices calculated
-Status : Implied Alignments : 5 of 7 -- vertices calculated
+Status : Implied Alignments : 1 of 61 -- vertices calculated
+Status : Implied Alignments : 2 of 61 -- vertices calculated
+Status : Implied Alignments : 3 of 61 -- vertices calculated
+Status : Implied Alignments : 4 of 61 -- vertices calculated
+Status : Implied Alignments : 5 of 61 -- vertices calculated
+Status : Implied Alignments : 6 of 61 -- vertices calculated
+Status : Implied Alignments : 7 of 61 -- vertices calculated
+Status : Implied Alignments : 8 of 61 -- vertices calculated
+Status : Implied Alignments : 9 of 61 -- vertices calculated
+Status : Implied Alignments : 10 of 61 -- vertices calculated
+Status : Implied Alignments : 11 of 61 -- vertices calculated
+Status : Implied Alignments : 12 of 61 -- vertices calculated
+Status : Implied Alignments : 13 of 61 -- vertices calculated
+Status : Implied Alignments : 14 of 61 -- vertices calculated
+Status : Implied Alignments : 15 of 61 -- vertices calculated
+Status : Implied Alignments : 16 of 61 -- vertices calculated
+Status : Implied Alignments : 17 of 61 -- vertices calculated
+Status : Implied Alignments : 18 of 61 -- vertices calculated
+Status : Implied Alignments : 19 of 61 -- vertices calculated
+Status : Implied Alignments : 20 of 61 -- vertices calculated
+Status : Implied Alignments : 21 of 61 -- vertices calculated
+Status : Implied Alignments : 22 of 61 -- vertices calculated
+Status : Implied Alignments : 23 of 61 -- vertices calculated
+Status : Implied Alignments : 24 of 61 -- vertices calculated
+Status : Implied Alignments : 25 of 61 -- vertices calculated
+Status : Implied Alignments : 26 of 61 -- vertices calculated
+Status : Implied Alignments : 27 of 61 -- vertices calculated
+Status : Implied Alignments : 28 of 61 -- vertices calculated
+Status : Implied Alignments : 29 of 61 -- vertices calculated
+Status : Implied Alignments : 30 of 61 -- vertices calculated
+Status : Implied Alignments : 31 of 61 -- vertices calculated
+Status : Implied Alignments : 32 of 61 -- vertices calculated
+Status : Implied Alignments : 33 of 61 -- vertices calculated
+Status : Implied Alignments : 34 of 61 -- vertices calculated
+Status : Implied Alignments : 35 of 61 -- vertices calculated
+Status : Implied Alignments : 36 of 61 -- vertices calculated
+Status : Implied Alignments : 37 of 61 -- vertices calculated
+Status : Implied Alignments : 38 of 61 -- vertices calculated
+Status : Implied Alignments : 39 of 61 -- vertices calculated
+Status : Implied Alignments : 40 of 61 -- vertices calculated
+Status : Implied Alignments : 41 of 61 -- vertices calculated
+Status : Implied Alignments : 42 of 61 -- vertices calculated
+Status : Implied Alignments : 43 of 61 -- vertices calculated
+Status : Implied Alignments : 44 of 61 -- vertices calculated
+Status : Implied Alignments : 45 of 61 -- vertices calculated
+Status : Implied Alignments : 46 of 61 -- vertices calculated
+Status : Implied Alignments : 47 of 61 -- vertices calculated
+Status : Implied Alignments : 48 of 61 -- vertices calculated
+Status : Implied Alignments : 49 of 61 -- vertices calculated
+Status : Implied Alignments : 50 of 61 -- vertices calculated
+Status : Implied Alignments : 51 of 61 -- vertices calculated
+Status : Implied Alignments : 52 of 61 -- vertices calculated
+Status : Implied Alignments : 53 of 61 -- vertices calculated
+Status : Implied Alignments : 54 of 61 -- vertices calculated
+Status : Implied Alignments : 55 of 61 -- vertices calculated
+Status : Implied Alignments : 56 of 61 -- vertices calculated
+Status : Implied Alignments : 57 of 61 -- vertices calculated
+Status : Implied Alignments : 58 of 61 -- vertices calculated
+Status : Implied Alignments : 59 of 61 -- vertices calculated
 Status : Implied Alignments Finished
 Status : Static Approximation Finished
-Status : Loading Characters : 0 of 4 -- Storing the character specifications
-Status : Loading Characters : 1 of 4 -- Storing the character specifications
-Status : Loading Characters : 2 of 4 -- Storing the character specifications
-Status : Loading Characters : 3 of 4 -- Storing the character specifications
-Status : Loading Characters : 4 of 4 -- Storing the character specifications
+Status : Loading Characters : 0 of 31 -- Storing the character specifications
+Status : Loading Characters : 1 of 31 -- Storing the character specifications
+Status : Loading Characters : 2 of 31 -- Storing the character specifications
+Status : Loading Characters : 3 of 31 -- Storing the character specifications
+Status : Loading Characters : 4 of 31 -- Storing the character specifications
+Status : Loading Characters : 5 of 31 -- Storing the character specifications
+Status : Loading Characters : 6 of 31 -- Storing the character specifications
+Status : Loading Characters : 7 of 31 -- Storing the character specifications
+Status : Loading Characters : 8 of 31 -- Storing the character specifications
+Status : Loading Characters : 9 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 31 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 31 -- Storing the character specifications
 Status : Loading Characters Finished
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
@@ -33,6 +163,6 @@ Status : Diagnosis Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 42. 
+    Storing 1 tree with cost 233. 
   Cost Mode: Normal Direct Optimization
 PASSED
