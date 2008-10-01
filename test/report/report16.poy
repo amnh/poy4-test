@@ -2,4 +2,4 @@
 read ("1.fas", "30.ss")
 set (seed:50)
 build (3)
-report (graphconsensus)
+report ("report16", graphconsensus)

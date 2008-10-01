@@ -1,4 +1,5 @@
 (* Build and report diagnosis to file *)
- read ("1.fas")
+read ("1.fas")
+set (seed:1)
 build (1)
-report ("report41", diagnosis)
+report (diagnosis)

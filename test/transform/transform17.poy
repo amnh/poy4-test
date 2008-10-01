@@ -1,7 +1,7 @@
 (* Read and transform tcm *)
 (*terminals reduced to random 10 to expidite test*)
-read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 set (seed:50)
+read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 select (terminals, _random:10)
 transform (tcm:(4,4))
 

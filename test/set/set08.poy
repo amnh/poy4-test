@@ -1,6 +1,5 @@
-(* test 'iterative'; VERIFY COST *)
+(* test 'iterative *)
 set(iterative:exact)
 read("1.fas")
 set(seed:1)
 build(1)
-report("test.xml", diagnosis)
