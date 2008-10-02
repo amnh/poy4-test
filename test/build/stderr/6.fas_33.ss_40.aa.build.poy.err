@@ -1,13 +1,13 @@
-Information : Reading file 6.fas of type input sequences
+Information : Setting random seed value to 50
+Information : Reading file 1.fas of type input sequences
 
 Information :
-The file 6.fas contains sequences of 49 taxa, each sequence holding 1
-fragment.
-
-Information : Reading file 33.ss of type hennig86/Nona
+The file 1.fas contains sequences of 49 taxa, each sequence holding 5
+fragments.
+Information : Reading file 30.ss of type hennig86/Nona
 
 Information :
-The file 33.ss defines 100 static homology characters in 49 taxa.
+The file 30.ss defines 144 static homology characters in 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -104,52 +104,511 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
-Status : Wagner : 2 of 4 -- Wagner tree with cost 2109.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2563.
+Status : Wagner : 2 of 49 -- Wagner tree with cost 189.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 266.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 369.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 445.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 490.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 614.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 706.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 818.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 834.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 898.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 930.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 982.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1053.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1059.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1104.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1144.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1172.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1208.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1265.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1291.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1352.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1373.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1520.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1566.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1583.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1596.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1612.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1839.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1873.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1974.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 2022.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2070.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2123.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2141.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2169.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2228.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2248.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2355.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2464.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2500.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2539.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2571.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2578.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2593.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2663.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2721.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2772.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 2109.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2941.
+Status : Running Pipeline : 1 of 10 -- Estimated finish in 1 m, 14 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 79.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 133.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 189.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 366.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 411.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 460.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 488.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 614.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 680.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 748.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 786.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 906.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1155.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1194.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1261.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1333.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1358.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1412.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1426.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1494.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1572.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1717.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1787.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1824.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1879.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1995.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 2046.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 2080.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 2132.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 2206.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 2260.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2273.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2320.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2329.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2382.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2457.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2478.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2537.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2552.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2580.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2626.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2677.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2775.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2815.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2832.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2860.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2887.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 1559.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2509.
+Status : Running Pipeline : 2 of 10 -- Estimated finish in 1 m, 3 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 303.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 389.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 533.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 629.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 688.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 750.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 867.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 1054.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 1091.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 1131.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 1171.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 1278.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1303.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1320.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1393.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1452.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1463.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1542.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1566.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1596.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1664.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1681.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1722.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1792.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1805.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1841.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1899.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 2008.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 2086.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 2123.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 2153.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2179.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2193.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2232.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2264.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2310.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2339.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2381.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2411.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2458.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2514.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2526.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2543.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2602.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2654.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2736.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2788.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 2109.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2941.
+Status : Running Pipeline : 3 of 10 -- Estimated finish in 56 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 127.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 233.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 269.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 311.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 463.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 480.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 581.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 700.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 796.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 845.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 910.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 972.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 984.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1014.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1049.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1126.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1189.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1220.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1238.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1326.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1346.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1451.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1497.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1581.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1834.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1847.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1879.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1949.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1963.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 2068.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 2077.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2197.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2241.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2286.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2296.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2363.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2402.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2450.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2467.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2534.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2588.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2627.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2643.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2666.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2698.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2766.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2790.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 1559.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2375.
+Status : Running Pipeline : 4 of 10 -- Estimated finish in 48 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 180.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 242.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 289.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 342.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 404.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 432.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 454.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 507.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 577.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 579.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 828.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 854.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 917.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1029.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1163.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1191.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1198.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1249.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1277.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1326.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1375.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1407.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1485.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1504.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1584.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1625.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1695.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1834.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1847.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1908.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1962.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2042.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2155.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2215.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2274.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2377.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2404.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2441.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2453.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2467.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2521.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2548.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2602.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2647.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2667.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2717.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2796.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 999.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2388.
+Status : Running Pipeline : 5 of 10 -- Estimated finish in 41 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 230.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 372.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 484.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 550.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 649.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 748.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 799.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 835.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 866.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 884.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 945.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 1025.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1060.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1085.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1157.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1165.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1232.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1270.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1285.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1308.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1408.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1414.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1441.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1543.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1560.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1586.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1611.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1621.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1652.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1682.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1732.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1781.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1874.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 1910.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 1960.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2031.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2062.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2225.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2277.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2339.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2370.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2467.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2516.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2606.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2729.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2738.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2765.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 999.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2941.
+Status : Running Pipeline : 6 of 10 -- Estimated finish in 33 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 109.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 171.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 195.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 296.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 555.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 663.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 708.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 755.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 842.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 909.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 953.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 1003.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 1025.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1048.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1069.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1223.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1297.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1377.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1401.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1430.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1456.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1482.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1516.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1582.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1596.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1622.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1635.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1701.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1736.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1794.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1845.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1933.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2000.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2059.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2078.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2134.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2158.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2188.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2223.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2365.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2386.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2451.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2582.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2651.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2663.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2677.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2772.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 2233.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2809.
+Status : Running Pipeline : 7 of 10 -- Estimated finish in 24 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 26.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 113.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 170.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 255.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 325.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 334.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 392.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 522.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 542.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 619.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 742.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 826.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 996.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 1030.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1135.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1180.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1299.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1346.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1370.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1415.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1431.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1489.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1516.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1581.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1632.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1671.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1776.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1793.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1835.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1882.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1974.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2007.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2136.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2192.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2214.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2243.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2263.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2293.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2318.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2360.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2422.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2436.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2444.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2489.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2546.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2609.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2650.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 2109.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2941.
+Status : Running Pipeline : 8 of 10 -- Estimated finish in 16 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 92.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 104.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 164.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 187.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 264.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 288.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 349.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 429.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 480.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 547.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 586.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 698.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 948.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 969.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1056.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1125.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1183.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1201.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1235.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1247.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1296.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1365.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1442.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1624.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1740.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1768.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1844.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1922.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1970.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1998.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 2059.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 2072.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 2099.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2210.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2221.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2235.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2357.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2415.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2448.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2510.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2526.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2538.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2563.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2614.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2674.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2776.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2814.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 1160.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 2857.
+Status : Running Pipeline : 9 of 10 -- Estimated finish in 8 s
+Status : Wagner : 2 of 49 -- Wagner tree with cost 145.
+Status : Wagner : 3 of 49 -- Wagner tree with cost 248.
+Status : Wagner : 4 of 49 -- Wagner tree with cost 300.
+Status : Wagner : 5 of 49 -- Wagner tree with cost 327.
+Status : Wagner : 6 of 49 -- Wagner tree with cost 409.
+Status : Wagner : 7 of 49 -- Wagner tree with cost 462.
+Status : Wagner : 8 of 49 -- Wagner tree with cost 538.
+Status : Wagner : 9 of 49 -- Wagner tree with cost 579.
+Status : Wagner : 10 of 49 -- Wagner tree with cost 640.
+Status : Wagner : 11 of 49 -- Wagner tree with cost 660.
+Status : Wagner : 12 of 49 -- Wagner tree with cost 685.
+Status : Wagner : 13 of 49 -- Wagner tree with cost 759.
+Status : Wagner : 14 of 49 -- Wagner tree with cost 867.
+Status : Wagner : 15 of 49 -- Wagner tree with cost 931.
+Status : Wagner : 16 of 49 -- Wagner tree with cost 1009.
+Status : Wagner : 17 of 49 -- Wagner tree with cost 1024.
+Status : Wagner : 18 of 49 -- Wagner tree with cost 1083.
+Status : Wagner : 19 of 49 -- Wagner tree with cost 1096.
+Status : Wagner : 20 of 49 -- Wagner tree with cost 1136.
+Status : Wagner : 21 of 49 -- Wagner tree with cost 1275.
+Status : Wagner : 22 of 49 -- Wagner tree with cost 1290.
+Status : Wagner : 23 of 49 -- Wagner tree with cost 1361.
+Status : Wagner : 24 of 49 -- Wagner tree with cost 1461.
+Status : Wagner : 25 of 49 -- Wagner tree with cost 1479.
+Status : Wagner : 26 of 49 -- Wagner tree with cost 1528.
+Status : Wagner : 27 of 49 -- Wagner tree with cost 1595.
+Status : Wagner : 28 of 49 -- Wagner tree with cost 1678.
+Status : Wagner : 29 of 49 -- Wagner tree with cost 1715.
+Status : Wagner : 30 of 49 -- Wagner tree with cost 1802.
+Status : Wagner : 31 of 49 -- Wagner tree with cost 1854.
+Status : Wagner : 32 of 49 -- Wagner tree with cost 1884.
+Status : Wagner : 33 of 49 -- Wagner tree with cost 1899.
+Status : Wagner : 34 of 49 -- Wagner tree with cost 1974.
+Status : Wagner : 35 of 49 -- Wagner tree with cost 2015.
+Status : Wagner : 36 of 49 -- Wagner tree with cost 2067.
+Status : Wagner : 37 of 49 -- Wagner tree with cost 2190.
+Status : Wagner : 38 of 49 -- Wagner tree with cost 2213.
+Status : Wagner : 39 of 49 -- Wagner tree with cost 2225.
+Status : Wagner : 40 of 49 -- Wagner tree with cost 2238.
+Status : Wagner : 41 of 49 -- Wagner tree with cost 2269.
+Status : Wagner : 42 of 49 -- Wagner tree with cost 2310.
+Status : Wagner : 43 of 49 -- Wagner tree with cost 2357.
+Status : Wagner : 44 of 49 -- Wagner tree with cost 2414.
+Status : Wagner : 45 of 49 -- Wagner tree with cost 2427.
+Status : Wagner : 46 of 49 -- Wagner tree with cost 2440.
+Status : Wagner : 47 of 49 -- Wagner tree with cost 2663.
+Status : Wagner : 48 of 49 -- Wagner tree with cost 2818.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 10 of 10 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information :
 
   Trees:
-    Storing 10 trees with costs 3407. to 3407.
-    Best cost in 10 trees 
+    Storing 10 trees with costs 2759. to 2864.
+    Best cost in 1 tree 
   Cost Mode: Normal Direct Optimization
 PASSED

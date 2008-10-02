@@ -5,7 +5,8 @@ The file 16.fas contains sequences of 49 taxa, each sequence holding 6
 fragments.
 Information : Reading file 31.ss of type hennig86/Nona
 
-Information : The file 31.ss defines 167 characters in 49 taxa.
+Information :
+The file 31.ss defines 167 static homology characters in 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -105,9 +106,9 @@ fragment.
 Information : Setting random seed value to 50
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
-Status : Wagner : 2 of 5 -- Wagner tree with cost 380.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 612.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 1320.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 208.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 312.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 668.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -115,6 +116,6 @@ Status : Running Pipeline Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 1268. 
+    Storing 1 tree with cost 844. 
   Cost Mode: Normal Direct Optimization
 PASSED

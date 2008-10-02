@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 14.fas of type input sequences
 
 Information :
@@ -104,16 +105,16 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 1
-Status : Wagner : 2 of 5 -- Wagner tree with cost 84.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 113.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 155.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 66.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 111.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 197.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 215. 
+    Storing 1 tree with cost 229. 
   Cost Mode: Normal Direct Optimization
 PASSED

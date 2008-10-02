@@ -5,10 +5,10 @@ fragment.
 Status : Tranform Finished
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
-Status : Wagner : 2 of 6 -- Wagner tree with cost 20.
-Status : Wagner : 3 of 6 -- Wagner tree with cost 70.
-Status : Wagner : 4 of 6 -- Wagner tree with cost 70.
-Status : Wagner : 5 of 6 -- Wagner tree with cost 70.
+Status : Wagner : 2 of 6 -- Wagner tree with cost 0.
+Status : Wagner : 3 of 6 -- Wagner tree with cost 0.
+Status : Wagner : 4 of 6 -- Wagner tree with cost 0.
+Status : Wagner : 5 of 6 -- Wagner tree with cost 40.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s

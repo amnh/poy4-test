@@ -1,4 +1,4 @@
 (* Build with of_file *)
-read ("2.fas")
 set (seed:50)
+read ("2.fas")
 build (of_file: "2.fas.2.tree")

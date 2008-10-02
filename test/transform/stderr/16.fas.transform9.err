@@ -4,9 +4,9 @@ Information :
 The file 16.fas contains sequences of 49 taxa, each sequence holding 6
 fragments.
 Information : Setting random seed value to 50
-Status : Wagner : 2 of 5 -- Wagner tree with cost 23.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 24.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 27.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 8.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 9.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 12.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s

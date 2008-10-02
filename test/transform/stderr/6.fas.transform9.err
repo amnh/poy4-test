@@ -5,9 +5,9 @@ The file 6.fas contains sequences of 49 taxa, each sequence holding 1
 fragment.
 
 Information : Setting random seed value to 50
-Status : Wagner : 2 of 5 -- Wagner tree with cost 659.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 2558.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 3337.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 1336.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 2596.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 3543.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -37,6 +37,6 @@ Status : Diagnosis Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 3807. 
+    Storing 1 tree with cost 3768. 
   Cost Mode: Normal Direct Optimization
 PASSED

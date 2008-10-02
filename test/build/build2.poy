@@ -1,6 +1,6 @@
 (* Build with as_is default *)
 (*terminals reduced to random 10 to expidite test*)
+set (seed:50)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 select (terminals, _random:10)
-set (seed:50)
 build (as_is)

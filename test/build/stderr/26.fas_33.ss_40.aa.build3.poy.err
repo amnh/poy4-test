@@ -1,3 +1,4 @@
+Information : Setting random seed value to 50
 Information : Reading file 26.fas of type input sequences
 
 Information :
@@ -104,24 +105,27 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
-Status : Wagner : 2 of 4 -- Wagner tree with cost 32.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 109.
+Status : Wagner ordered build : 0 Building ordered tree
+Status : Wagner : 2 of 5 -- Wagner tree with cost 55.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 76.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 127.
 Status : Wagner Finished
-Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 32.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 76.
+Status : Wagner ordered build : 0 Building random trees
+Status : Wagner ordered build Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
+Status : Wagner ordered build : 0 Building ordered tree
+Status : Wagner : 2 of 5 -- Wagner tree with cost 55.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 76.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 127.
 Status : Wagner Finished
-Status : Building Wagner Tree Finished
-Status : Wagner : 2 of 4 -- Wagner tree with cost 60.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 108.
-Status : Wagner Finished
-Status : Building Wagner Tree Finished
+Status : Wagner ordered build : 0 Building random trees
+Status : Wagner ordered build Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information :
 
   Trees:
-    Storing 3 trees with costs 149. to 149.
-    Best cost in 3 trees 
+    Storing 2 trees with costs 194. to 194.
+    Best cost in 2 trees 
   Cost Mode: Normal Direct Optimization
 PASSED
