@@ -1,5 +1,5 @@
 (* Build report with treestats *)
+set(seed:50, timer:0)
 read ("1.fas", "30.ss" )
-set(seed:50)
 build (1)
 report (treestats)

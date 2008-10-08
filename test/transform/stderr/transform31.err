@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information :
 The file ca1.fas contains sequences of 6 taxa, each sequence holding 1
 fragment.
@@ -8,10 +9,10 @@ Status : Transforming Finished
 Status : Tranform Finished
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
-Status : Wagner : 2 of 6 -- Wagner tree with cost 100.
-Status : Wagner : 3 of 6 -- Wagner tree with cost 350.
-Status : Wagner : 4 of 6 -- Wagner tree with cost 350.
-Status : Wagner : 5 of 6 -- Wagner tree with cost 350.
+Status : Wagner : 2 of 6 -- Wagner tree with cost 0.
+Status : Wagner : 3 of 6 -- Wagner tree with cost 0.
+Status : Wagner : 4 of 6 -- Wagner tree with cost 0.
+Status : Wagner : 5 of 6 -- Wagner tree with cost 150.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s

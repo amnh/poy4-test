@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 26.fas of type input sequences
 
 Information :
@@ -110,19 +111,20 @@ Information : Selected Terminals:
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
-Information : Setting random seed value to 1
 Status : Wagner : 2 of 3 -- Wagner tree with cost 57.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Information : Starting on tree
 Status : SPR : 211 Searching
 Status : SPR Finished
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
 Status : Wagner : 2 of 3 -- Wagner tree with cost 57.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Information : Starting on tree
 Status : SPR : 211 Searching
 Status : SPR Finished
+Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : Implied Alignments : 1 of 5 -- vertices calculated
@@ -161,8 +163,10 @@ Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 3 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 3 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
@@ -187,20 +191,28 @@ Status : TBR Finished
 Status : Perturbing : 1 of 9 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 9 -- Estimated finish in 3 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 9 -- Estimated finish in 3 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 4 of 9 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 5 of 9 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 6 of 9 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 7 of 9 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 8 of 9 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 9 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
@@ -209,23 +221,32 @@ Status : Perturb Iteration Finished
 Status : Untransforming Characters : 1 of 9 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 2 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 3 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 4 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 5 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 6 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 7 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 8 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 9 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 10 s
 Status : Implied Alignments : 1 of 5 -- vertices calculated
 Status : Implied Alignments : 2 of 5 -- vertices calculated
 Status : Implied Alignments : 3 of 5 -- vertices calculated
@@ -265,8 +286,10 @@ Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 3 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 3 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
@@ -291,20 +314,28 @@ Status : TBR Finished
 Status : Perturbing : 1 of 9 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 2 of 9 -- Estimated finish in 3 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 3 of 9 -- Estimated finish in 3 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 4 of 9 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 5 of 9 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 6 of 9 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 7 of 9 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 8 of 9 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Perturbing : 9 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
@@ -313,20 +344,28 @@ Status : Perturb Iteration Finished
 Status : Untransforming Characters : 1 of 9 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 2 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 3 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 4 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 5 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 6 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 7 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 8 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
+Status : Untransforming Characters : 9 of 9 -- Estimated finish in 0 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Untransforming Characters Finished

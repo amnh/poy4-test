@@ -1,17 +1,17 @@
+Information : Setting random seed value to 1
 Information : Reading file 26.fas of type input sequences
 
 Information :
 The file 26.fas contains sequences of 31 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
-Status : Wagner : 2 of 4 -- Wagner tree with cost 22.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 22.
+Status : Wagner : 2 of 4 -- Wagner tree with cost 28.
+Status : Wagner : 3 of 4 -- Wagner tree with cost 40.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
-Status : Wagner : 2 of 4 -- Wagner tree with cost 20.
-Status : Wagner : 3 of 4 -- Wagner tree with cost 23.
+Status : Wagner : 2 of 4 -- Wagner tree with cost 27.
+Status : Wagner : 3 of 4 -- Wagner tree with cost 44.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
@@ -28,7 +28,7 @@ Status : Diagnosis Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 23. to 25.
-    Best cost in 1 tree 
+    Storing 2 trees with costs 51. to 51.
+    Best cost in 2 trees 
   Cost Mode: Normal Direct Optimization
 PASSED

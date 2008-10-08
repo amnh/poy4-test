@@ -1,2 +1,3 @@
 (* 'echo' stdout outputs, verify by stdout *)
+set (seed:1, timer:0)
 echo ("print on screen", output)

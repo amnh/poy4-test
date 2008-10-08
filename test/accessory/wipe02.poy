@@ -1,4 +1,5 @@
 (* 'wipe'; just to see if works #2*)
+set (seed:1, timer:0)
 read("1.fas")
 build(2)
 wipe()

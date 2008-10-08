@@ -1,5 +1,5 @@
 (* Build with set seed and report  ia to xml file *)
+set (seed:50, timer:0)
 read ("1.fas")
-set (seed:50)
 build (1)
 report ("./report/xml/report36.poy.xml", ia)

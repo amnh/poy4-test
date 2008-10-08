@@ -1,3 +1,4 @@
+Information : Setting random seed value to 50
 Information : Reading file 26.fas of type input sequences
 
 Information :
@@ -6,7 +7,8 @@ fragment.
 
 Information : Reading file 32.ss of type hennig86/Nona
 
-Information : The file 32.ss defines 88 characters in 49 taxa.
+Information :
+The file 32.ss defines 88 static homology characters in 49 taxa.
 Status : Loading Characters : 0 of 49 -- Storing the character specifications
 Status : Loading Characters : 1 of 49 -- Storing the character specifications
 Status : Loading Characters : 2 of 49 -- Storing the character specifications
@@ -103,12 +105,11 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
-Status : Wagner : 2 of 5 -- Wagner tree with cost 140.
-Status : Wagner : 3 of 5 -- Wagner tree with cost 155.
-Status : Wagner : 4 of 5 -- Wagner tree with cost 198.
+Status : Wagner : 2 of 5 -- Wagner tree with cost 98.
+Status : Wagner : 3 of 5 -- Wagner tree with cost 132.
+Status : Wagner : 4 of 5 -- Wagner tree with cost 170.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -116,6 +117,6 @@ Status : Running Pipeline Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 232. 
+    Storing 1 tree with cost 211. 
   Cost Mode: Normal Direct Optimization
 PASSED

@@ -1,3 +1,4 @@
 (* Read unannotated chromosome and transform using dynamic pam circular true *)
+set (seed:1, timer:0)
 read (chromosome:("FILENAME1"))
 transform ((all, dynamic_pam:(circular:true)))

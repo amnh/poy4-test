@@ -1,3 +1,4 @@
 (* 'echo' outputs on screen; verify by stderr *)
+set (seed:1, timer:0)
 echo ("error message", error)
 echo ("information", info)

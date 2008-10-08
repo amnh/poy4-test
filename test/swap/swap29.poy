@@ -1,5 +1,5 @@
 (* Running 'swap' under 'bfs' with negative integer value; ERROR EXPECTED *)
+set(seed:1, timer:0)
 read ("1.fas")
-set(seed:1)
 build (2)
 swap(bfs:-8)

@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 16.fas of type input sequences
 
 Information :
@@ -103,7 +104,6 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 1
 Information : Selected Terminals:
               
 

@@ -1,5 +1,5 @@
 (* 'select' static homology characters *)
-set(seed:1)
+set(seed:1, timer:0)
 read("6.fas","14.fas","16.fas","26.fas","27.fas")
 read("31.ss","32.ss","33.ss","34.ss")
 read(aminoacids:("40.aa","41.aa"))

@@ -1,4 +1,5 @@
 (* search using all data under ip *) 
+set (seed:1, timer:0)
 read("*.seq", "morph.ss", aminoacids:("myosin.aa")) 
 read("inter_tree.tre") 
 transform (tcm:(1,2), gap_opening:1) 

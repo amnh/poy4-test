@@ -1,5 +1,5 @@
 (* 'select' unique trees *)
-set(seed:1,root:"t1")
+set(seed:1, timer:0,root:"t1")
 read ("1.fas", "30.ss", aminoacids:("40.aa"))
 build(6)
 report(treestats)

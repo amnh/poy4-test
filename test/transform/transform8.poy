@@ -1,7 +1,7 @@
 (* Read and transform gap_opening *)
 (*terminals reduced to random 10 to expidite test*)
+set (seed:50, timer:0)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
-set (seed:50)
 select (terminals, _random:10)
 transform ((all, gap_opening:3))
 build (1)

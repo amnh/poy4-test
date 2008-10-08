@@ -1,7 +1,7 @@
 (* Running 'swap' under 'bfs' with integer value *)
 (* for the sake of speeding up the test, only 12 terminals are used *)
+set(seed:1, timer:0)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 select(terminals, files:("term12.txt"))
-set(seed:1)
 build (2)
 swap(bfs:8)

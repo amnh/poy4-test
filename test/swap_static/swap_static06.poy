@@ -1,5 +1,5 @@
 (* Running 'swap' with 'tbr' and 'spr' under 'once'; static homology characters only *)
 read ("30.ss", "31.ss", "32.ss", "33.ss", "34.ss")
-set(seed:1)
+set(seed:1, timer:0)
 build (2)
 swap (spr:once, tbr:once)

@@ -1,6 +1,6 @@
 (* Build with randomized *)
 (*terminals reduced to random 10 to expidite test*)
-set (seed:1)
+set (seed:1, timer:0)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 select (terminals, _random:10)
 build (1, randomized)

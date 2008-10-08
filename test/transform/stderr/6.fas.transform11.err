@@ -1,10 +1,10 @@
+Information : Setting random seed value to 50
 Information : Reading file 6.fas of type input sequences
 
 Information :
 The file 6.fas contains sequences of 49 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
 Status : Wagner : 2 of 5 -- Wagner tree with cost 1336.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2596.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3543.

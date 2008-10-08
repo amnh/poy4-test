@@ -1,6 +1,6 @@
 (* Transform_static tcm *)
 (*terminals reduced to random 10 to expidite test*)
+set (seed:50, timer:0)
 read ("31.ss", "32.ss", "33.ss", "34.ss")
-set (seed:50)
 select (terminals, _random:10)
 transform (tcm:(4,4))

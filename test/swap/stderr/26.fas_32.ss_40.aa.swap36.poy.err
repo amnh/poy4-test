@@ -145,15 +145,18 @@ Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 0 s
 Status : TBR : 368 Searching
 Status : TBR : 365 Searching
 Status : TBR : 363 Searching
-Status : TBR : 361 Searching
-Status : TBR : 357 Searching
-Status : TBR : 354 Searching
+Status : TBR : 362 Searching
+Status : TBR : 360 Searching
+Status : TBR : 356 Searching
+Status : TBR : 353 Searching
+Status : TBR : 352 Searching
+Status : TBR : 343 Searching
 Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 354. to 381.
+    Storing 2 trees with costs 343. to 381.
     Best cost in 1 tree 
   Cost Mode: Normal Direct Optimization
 PASSED

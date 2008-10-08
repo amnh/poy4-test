@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 26.fas of type input sequences
 
 Information :
@@ -110,7 +111,6 @@ Information : Selected Terminals:
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
-Information : Setting random seed value to 1
 Status : Wagner : 2 of 12 -- Wagner tree with cost 94.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 126.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 146.
@@ -158,12 +158,17 @@ Status : SPR : 354 Searching
 Status : SPR Finished
 Status : Alternate : 0 Performing TBR swapping
 Status : Single TBR Finished
+Status : Alternate : 0 SPR search
+Status : SPR : 354 Searching
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Status : Single TBR Finished
 Status : Alternate Finished
 Status : Running pipeline on each tree Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 354. to 381.
+    Storing 2 trees with costs 353. to 381.
     Best cost in 1 tree 
   Cost Mode: Normal Direct Optimization
 PASSED

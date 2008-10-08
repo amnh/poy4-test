@@ -1,6 +1,6 @@
 (* Read and transform static_approx:keep *)
 (*terminals reduced to random 10 to expidite test*)
-set(seed:50)
+set(seed:50, timer:0)
 set (timer:0)
 read ("FILENAME1")
 build (1)

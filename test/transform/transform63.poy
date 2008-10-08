@@ -1,3 +1,4 @@
 (* Read unannotated chromosome using dynamic pam rearranged_len using float .5 Error Expected *)
+set (seed:1, timer:0)
 read (chromosome:("FILENAME1"))
 transform ((all, dynamic_pam:(min_rearrangement_len:0.5)))

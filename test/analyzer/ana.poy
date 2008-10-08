@@ -1,1 +1,2 @@
+set (seed:1, timer:0)
 report (script_analysis:"FILENAME1")

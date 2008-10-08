@@ -1,6 +1,7 @@
 (* search using all data *) 
+set (seed:1, timer:0)
 read("*.seq", "morph.ss", aminoacids:("myosin.aa")) 
-set(seed:1, log:"all_data_search.log", root:"taxon1") 
+set(seed:1, timer:0, log:"all_data_search.log", root:"taxon1") 
 report(timer:"search start") 
 transform (tcm:(1,2), gap_opening:1) 
 build(250) 

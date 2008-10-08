@@ -1,6 +1,6 @@
 (* Transform weightfactor float *)
 (*terminals reduced to random 10 to expidite test*)
+set (seed:50, timer:0)
 read ("FILENAME1")
-set (seed:50)
 select (terminals, _random:10)
 transform (weightfactor:0.4)

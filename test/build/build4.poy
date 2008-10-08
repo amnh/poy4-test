@@ -1,4 +1,4 @@
 (* Build specifying a negative number Expect Error *)
-set (seed:50)
+set (seed:50, timer:0)
 read ("1.fas")
 build (-2)

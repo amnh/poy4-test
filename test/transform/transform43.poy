@@ -1,3 +1,4 @@
 (* Read annotated chromosome and using dynamic pam locus_breakpoint 50 *)
+set (seed:1, timer:0)
 read (annotated:("FILENAME1"))
 transform ((all, dynamic_pam:(locus_breakpoint:50)))

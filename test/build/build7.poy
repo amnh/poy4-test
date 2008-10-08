@@ -1,6 +1,6 @@
 (* Build with set seed for xml output *)
+set (seed:50, timer:0)
 read ("1.fas")
-set (seed:50)
 select (terminals, _random:10)
 build (1)
 report ("test.xml", diagnosis, data)

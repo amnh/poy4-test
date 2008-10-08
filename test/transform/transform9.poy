@@ -1,7 +1,7 @@
 (* Read and transform multi_static_approx *)
 (*terminals reduced to random 10 to expidite test*)
+set (seed:50, timer:0)
 read ("FILENAME1")
-set (seed:50)
 select (terminals, _random:10)
 build (1)
 transform (multi_static_approx)

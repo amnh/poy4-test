@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 1.fas of type input sequences
 
 Information :
@@ -103,7 +104,6 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 1
 Status : Wagner : 2 of 49 -- Wagner tree with cost 82.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 164.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 246.
@@ -156,7 +156,7 @@ Status : Building Wagner Tree Finished
 Information : Starting on tree
 Status : SPR : 2787 Searching
 Status : SPR Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 19 s
+Status : Running Pipeline : 1 of 2 -- Estimated finish in 20 s
 Status : Wagner : 2 of 49 -- Wagner tree with cost 171.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 248.
 Status : Wagner : 4 of 49 -- Wagner tree with cost 319.
@@ -255,18 +255,29 @@ Status : TBR : 7523 Searching
 Status : TBR : 7504 Searching
 Status : TBR : 7480 Searching
 Status : TBR : 7461 Searching
-Status : TBR : 7452 Searching
-Status : TBR : 7449 Searching
-Status : TBR : 7438 Searching
-Status : TBR : 7427 Searching
+Status : TBR : 7458 Searching
+Status : TBR : 7450 Searching
+Status : TBR : 7441 Searching
+Status : TBR : 7439 Searching
+Status : TBR : 7420 Searching
 Status : TBR : 7418 Searching
-Status : TBR : 7411 Searching
-Status : TBR : 7404 Searching
-Status : TBR : 7388 Searching
-Status : TBR : 7387 Searching
-Status : TBR : 7383 Searching
-Status : TBR : 7378 Searching
-Status : TBR : 7373 Searching
+Status : TBR : 7410 Searching
+Status : TBR : 7403 Searching
+Status : TBR : 7396 Searching
+Status : TBR : 7385 Searching
+Status : TBR : 7374 Searching
+Status : TBR : 7348 Searching
+Status : TBR : 7344 Searching
+Status : TBR : 7338 Searching
+Status : TBR : 7325 Searching
+Status : TBR : 7323 Searching
+Status : TBR : 7318 Searching
+Status : TBR : 7312 Searching
+Status : TBR : 7309 Searching
+Status : TBR : 7305 Searching
+Status : TBR : 7303 Searching
+Status : TBR : 7299 Searching
+Status : TBR : 7290 Searching
 Status : TBR Finished
 Status : TBR : 10539 Searching
 Status : TBR : 10537 Searching
@@ -281,122 +292,149 @@ Status : TBR : 10374 Searching
 Status : TBR : 10370 Searching
 Status : TBR : 10346 Searching
 Status : TBR : 10336 Searching
-Status : TBR : 10299 Searching
-Status : TBR : 10295 Searching
-Status : TBR : 10286 Searching
-Status : TBR : 10271 Searching
-Status : TBR : 10263 Searching
-Status : TBR : 10242 Searching
+Status : TBR : 10333 Searching
+Status : TBR : 10301 Searching
+Status : TBR : 10298 Searching
+Status : TBR : 10294 Searching
+Status : TBR : 10285 Searching
+Status : TBR : 10256 Searching
+Status : TBR : 10240 Searching
 Status : TBR Finished
-Status : Perturbing : 1 of 11 -- 
+Status : Perturbing : 1 of 13 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 11 -- Estimated finish in 7 s
+Status : Perturbing : 2 of 13 -- Estimated finish in 9 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 11 -- Estimated finish in 6 s
+Status : Perturbing : 3 of 13 -- Estimated finish in 8 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 4 of 11 -- Estimated finish in 5 s
+Status : Perturbing : 4 of 13 -- Estimated finish in 7 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 5 of 11 -- Estimated finish in 5 s
+Status : Perturbing : 5 of 13 -- Estimated finish in 6 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 6 of 11 -- Estimated finish in 4 s
+Status : Perturbing : 6 of 13 -- Estimated finish in 6 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 7 of 11 -- Estimated finish in 3 s
+Status : Perturbing : 7 of 13 -- Estimated finish in 5 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 8 of 11 -- Estimated finish in 3 s
+Status : Perturbing : 8 of 13 -- Estimated finish in 4 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 9 of 11 -- Estimated finish in 2 s
+Status : Perturbing : 9 of 13 -- Estimated finish in 4 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 10 of 11 -- Estimated finish in 1 s
+Status : Perturbing : 10 of 13 -- Estimated finish in 3 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 11 of 11 -- Estimated finish in 1 s
+Status : Perturbing : 11 of 13 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 12 of 13 -- Estimated finish in 2 s
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Perturbing : 13 of 13 -- Estimated finish in 1 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : Tree search : 1 of 5 -- 
-Status : TBR : 2805 Searching
-Status : TBR : 2798 Searching
-Status : TBR : 2789 Searching
-Status : TBR : 2787 Searching
+Status : Tree search : 1 of 8 -- 
+Status : TBR : 2816 Searching
+Status : TBR Finished
+Status : Tree search : 2 of 8 -- Estimated finish in 5 m, 21 s
+Status : TBR : 2802 Searching
 Status : TBR : 2786 Searching
-Status : TBR : 2783 Searching
-Status : TBR : 2777 Searching
 Status : TBR : 2775 Searching
-Status : TBR : 2764 Searching
-Status : TBR : 2763 Searching
-Status : TBR Finished
-Status : Tree search : 2 of 5 -- Estimated finish in 7 m, 8 s
-Status : TBR : 2797 Searching
-Status : TBR : 2776 Searching
-Status : TBR : 2771 Searching
-Status : TBR : 2768 Searching
+Status : TBR : 2770 Searching
 Status : TBR : 2767 Searching
+Status : TBR : 2765 Searching
+Status : TBR : 2763 Searching
+Status : TBR : 2754 Searching
+Status : TBR : 2743 Searching
+Status : TBR : 2730 Searching
+Status : TBR : 2723 Searching
+Status : TBR : 2721 Searching
+Status : TBR : 2718 Searching
+Status : TBR : 2712 Searching
+Status : TBR : 2706 Searching
 Status : TBR Finished
-Status : Tree search : 3 of 5 -- Estimated finish in 3 m, 39 s
-Status : TBR : 2800 Searching
-Status : TBR : 2797 Searching
-Status : TBR : 2789 Searching
-Status : TBR : 2788 Searching
-Status : TBR : 2783 Searching
-Status : TBR : 2782 Searching
+Status : Tree search : 3 of 8 -- Estimated finish in 12 m, 22 s
+Status : TBR : 2803 Searching
+Status : TBR : 2796 Searching
+Status : TBR : 2787 Searching
+Status : TBR : 2784 Searching
+Status : TBR : 2781 Searching
 Status : TBR Finished
-Status : Tree search : 4 of 5 -- Estimated finish in 2 m, 5 s
-Status : TBR : 2746 Searching
+Status : Tree search : 4 of 8 -- Estimated finish in 8 m, 59 s
+Status : TBR : 2805 Searching
 Status : TBR Finished
-Status : Tree search : 5 of 5 -- Estimated finish in 50 s
+Status : Tree search : 5 of 8 -- Estimated finish in 6 m, 1 s
+Status : TBR : 2737 Searching
+Status : TBR Finished
+Status : Tree search : 6 of 8 -- Estimated finish in 4 m, 2 s
+Status : TBR : 2735 Searching
+Status : TBR Finished
+Status : Tree search : 7 of 8 -- Estimated finish in 2 m, 26 s
 Status : TBR : 2732 Searching
+Status : TBR Finished
+Status : Tree search : 8 of 8 -- Estimated finish in 1 m, 8 s
+Status : TBR : 2730 Searching
 Status : TBR Finished
 Status : Tree search Finished
 Status :
-Running pipeline on each tree : 2 of 2 -- Estimated finish in 6 m, 56 s
+Running pipeline on each tree : 2 of 2 -- Estimated finish in 14 m, 41 s
 Status : Perturb Iteration : 1 of 2 -- 
 Status : Ratcheting : 0 of 1 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 1 of 1 -- trees in the current optimum
-Status : TBR : 8342 Searching
-Status : TBR : 8301 Searching
-Status : TBR : 8280 Searching
-Status : TBR : 8279 Searching
-Status : TBR : 8255 Searching
-Status : TBR : 8235 Searching
-Status : TBR : 8204 Searching
-Status : TBR : 8195 Searching
-Status : TBR : 8193 Searching
-Status : TBR : 8188 Searching
-Status : TBR : 8159 Searching
-Status : TBR : 8135 Searching
-Status : TBR : 8112 Searching
-Status : TBR : 8105 Searching
-Status : TBR : 8092 Searching
-Status : TBR : 8079 Searching
-Status : TBR : 8060 Searching
-Status : TBR : 8034 Searching
-Status : TBR : 8032 Searching
-Status : TBR : 8019 Searching
-Status : TBR : 7984 Searching
-Status : TBR : 7979 Searching
-Status : TBR : 7975 Searching
-Status : TBR : 7951 Searching
-Status : TBR : 7945 Searching
-Status : TBR : 7920 Searching
-Status : TBR : 7911 Searching
+Status : TBR : 6988 Searching
+Status : TBR : 6984 Searching
+Status : TBR : 6972 Searching
+Status : TBR : 6947 Searching
+Status : TBR : 6942 Searching
+Status : TBR : 6890 Searching
+Status : TBR : 6879 Searching
+Status : TBR : 6823 Searching
+Status : TBR : 6814 Searching
+Status : TBR : 6798 Searching
+Status : TBR : 6783 Searching
+Status : TBR : 6767 Searching
+Status : TBR : 6755 Searching
+Status : TBR : 6736 Searching
+Status : TBR : 6735 Searching
+Status : TBR : 6682 Searching
+Status : TBR : 6662 Searching
+Status : TBR : 6660 Searching
+Status : TBR : 6658 Searching
+Status : TBR : 6636 Searching
+Status : TBR : 6620 Searching
+Status : TBR : 6619 Searching
+Status : TBR : 6578 Searching
+Status : TBR : 6557 Searching
+Status : TBR : 6554 Searching
+Status : TBR : 6543 Searching
+Status : TBR : 6540 Searching
+Status : TBR : 6528 Searching
+Status : TBR : 6507 Searching
+Status : TBR : 6443 Searching
+Status : TBR : 6400 Searching
+Status : TBR : 6397 Searching
+Status : TBR : 6394 Searching
+Status : TBR : 6337 Searching
+Status : TBR : 6326 Searching
+Status : TBR : 6321 Searching
+Status : TBR : 6314 Searching
+Status : TBR : 6308 Searching
 Status : TBR Finished
 Status : Perturbing : 1 of 3 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 3 -- Estimated finish in 1 s
+Status : Perturbing : 2 of 3 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing : 3 of 3 -- Estimated finish in 1 s
@@ -415,88 +453,82 @@ Status : Ratcheting : 2 of 3 -- trees in the current optimum
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Ratcheting : 3 of 3 -- trees in the current optimum
-Status : TBR : 7622 Searching
-Status : TBR : 7619 Searching
-Status : TBR : 7603 Searching
-Status : TBR : 7598 Searching
-Status : TBR : 7594 Searching
-Status : TBR : 7560 Searching
-Status : TBR : 7552 Searching
-Status : TBR : 7551 Searching
-Status : TBR : 7550 Searching
-Status : TBR : 7456 Searching
-Status : TBR : 7448 Searching
-Status : TBR : 7445 Searching
-Status : TBR : 7442 Searching
-Status : TBR : 7431 Searching
-Status : TBR : 7420 Searching
-Status : TBR : 7417 Searching
-Status : TBR : 7412 Searching
-Status : TBR : 7409 Searching
-Status : TBR : 7397 Searching
-Status : TBR : 7347 Searching
-Status : TBR : 7330 Searching
-Status : TBR : 7329 Searching
-Status : TBR : 7325 Searching
-Status : TBR : 7315 Searching
+Status : TBR : 10135 Searching
+Status : TBR : 10016 Searching
+Status : TBR : 9944 Searching
+Status : TBR : 9929 Searching
+Status : TBR : 9921 Searching
+Status : TBR : 9911 Searching
+Status : TBR : 9867 Searching
+Status : TBR : 9861 Searching
+Status : TBR : 9836 Searching
+Status : TBR : 9820 Searching
+Status : TBR : 9819 Searching
+Status : TBR : 9782 Searching
+Status : TBR : 9762 Searching
+Status : TBR : 9745 Searching
+Status : TBR : 9700 Searching
+Status : TBR : 9691 Searching
+Status : TBR : 9681 Searching
+Status : TBR : 9675 Searching
+Status : TBR : 9673 Searching
+Status : TBR : 9670 Searching
+Status : TBR Finished
+Status : TBR : 7392 Searching
+Status : TBR : 7344 Searching
+Status : TBR : 7339 Searching
 Status : TBR : 7314 Searching
-Status : TBR : 7304 Searching
-Status : TBR : 7296 Searching
-Status : TBR : 7295 Searching
-Status : TBR : 7291 Searching
-Status : TBR : 7290 Searching
-Status : TBR : 7284 Searching
-Status : TBR : 7283 Searching
-Status : TBR : 7279 Searching
-Status : TBR : 7278 Searching
-Status : TBR : 7268 Searching
-Status : TBR : 7267 Searching
-Status : TBR : 7250 Searching
+Status : TBR : 7294 Searching
+Status : TBR : 7285 Searching
+Status : TBR : 7274 Searching
+Status : TBR : 7258 Searching
+Status : TBR : 7241 Searching
+Status : TBR : 7237 Searching
+Status : TBR : 7221 Searching
+Status : TBR : 7207 Searching
+Status : TBR : 7206 Searching
+Status : TBR : 7203 Searching
+Status : TBR : 7199 Searching
+Status : TBR : 7198 Searching
+Status : TBR : 7194 Searching
+Status : TBR : 7188 Searching
+Status : TBR : 7187 Searching
 Status : TBR Finished
-Status : TBR : 7463 Searching
-Status : TBR : 7447 Searching
-Status : TBR : 7420 Searching
-Status : TBR : 7408 Searching
-Status : TBR : 7388 Searching
-Status : TBR : 7232 Searching
-Status : TBR : 7231 Searching
-Status : TBR : 7220 Searching
-Status : TBR : 7173 Searching
-Status : TBR : 7152 Searching
-Status : TBR : 7119 Searching
-Status : TBR : 7076 Searching
-Status : TBR : 7074 Searching
-Status : TBR : 7057 Searching
-Status : TBR : 7032 Searching
-Status : TBR : 7007 Searching
-Status : TBR : 6989 Searching
-Status : TBR : 6979 Searching
-Status : TBR : 6976 Searching
-Status : TBR : 6973 Searching
-Status : TBR : 6959 Searching
-Status : TBR : 6952 Searching
-Status : TBR : 6934 Searching
-Status : TBR : 6887 Searching
-Status : TBR : 6878 Searching
-Status : TBR : 6872 Searching
-Status : TBR : 6866 Searching
-Status : TBR : 6844 Searching
-Status : TBR Finished
-Status : TBR : 9514 Searching
+Status : TBR : 10186 Searching
+Status : TBR : 10086 Searching
+Status : TBR : 10064 Searching
+Status : TBR : 10038 Searching
+Status : TBR : 9960 Searching
+Status : TBR : 9926 Searching
+Status : TBR : 9917 Searching
+Status : TBR : 9869 Searching
+Status : TBR : 9862 Searching
+Status : TBR : 9834 Searching
+Status : TBR : 9808 Searching
+Status : TBR : 9805 Searching
+Status : TBR : 9782 Searching
+Status : TBR : 9774 Searching
+Status : TBR : 9758 Searching
+Status : TBR : 9743 Searching
+Status : TBR : 9737 Searching
+Status : TBR : 9731 Searching
+Status : TBR : 9724 Searching
+Status : TBR : 9719 Searching
+Status : TBR : 9713 Searching
 Status : TBR Finished
 Status : Perturbing : 1 of 9 -- 
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 2 of 9 -- Estimated finish in 5 s
+Status : Perturbing : 2 of 9 -- Estimated finish in 6 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 3 of 9 -- Estimated finish in 5 s
+Status : Perturbing : 3 of 9 -- Estimated finish in 6 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 4 of 9 -- Estimated finish in 4 s
+Status : Perturbing : 4 of 9 -- Estimated finish in 5 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 5 of 9 -- Estimated finish in 3 s
+Status : Perturbing : 5 of 9 -- Estimated finish in 4 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing : 6 of 9 -- Estimated finish in 3 s
@@ -505,7 +537,7 @@ Status : Diagnosis Finished
 Status : Perturbing : 7 of 9 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Perturbing : 8 of 9 -- Estimated finish in 1 s
+Status : Perturbing : 8 of 9 -- Estimated finish in 2 s
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : Perturbing : 9 of 9 -- Estimated finish in 1 s
@@ -514,90 +546,46 @@ Status : Diagnosis Finished
 Status : Perturbing Finished
 Status : Ratcheting Finished
 Status : Perturb Iteration Finished
-Status : Tree search : 1 of 6 -- 
-Status : TBR : 2794 Searching
+Status : Tree search : 1 of 8 -- 
+Status : TBR : 2698 Searching
 Status : TBR Finished
-Status : Tree search : 2 of 6 -- Estimated finish in 53 s
-Status : TBR : 2882 Searching
-Status : TBR : 2866 Searching
-Status : TBR : 2859 Searching
-Status : TBR : 2845 Searching
-Status : TBR : 2843 Searching
-Status : TBR : 2842 Searching
-Status : TBR : 2836 Searching
-Status : TBR : 2833 Searching
-Status : TBR : 2823 Searching
-Status : TBR : 2809 Searching
-Status : TBR : 2803 Searching
-Status : TBR : 2802 Searching
-Status : TBR : 2795 Searching
-Status : TBR : 2789 Searching
-Status : TBR : 2785 Searching
-Status : TBR : 2784 Searching
-Status : TBR : 2782 Searching
-Status : TBR : 2781 Searching
-Status : TBR : 2766 Searching
-Status : TBR : 2763 Searching
-Status : TBR : 2751 Searching
-Status : TBR : 2742 Searching
-Status : TBR : 2740 Searching
-Status : TBR : 2730 Searching
-Status : TBR : 2728 Searching
-Status : TBR : 2722 Searching
-Status : TBR : 2720 Searching
+Status : Tree search : 2 of 8 -- Estimated finish in 4 m, 46 s
+Status : TBR : 2696 Searching
+Status : TBR Finished
+Status : Tree search : 3 of 8 -- Estimated finish in 4 m, 9 s
 Status : TBR : 2719 Searching
-Status : TBR : 2716 Searching
-Status : TBR : 2712 Searching
-Status : TBR : 2708 Searching
-Status : TBR : 2706 Searching
+Status : TBR : 2718 Searching
+Status : TBR : 2701 Searching
+Status : TBR : 2692 Searching
+Status : TBR : 2685 Searching
+Status : TBR : 2684 Searching
 Status : TBR Finished
-Status : Tree search : 3 of 6 -- Estimated finish in 2 m, 28 s
-Status : TBR : 2845 Searching
-Status : TBR : 2837 Searching
-Status : TBR : 2826 Searching
-Status : TBR : 2808 Searching
-Status : TBR : 2804 Searching
-Status : TBR : 2793 Searching
-Status : TBR : 2791 Searching
-Status : TBR : 2784 Searching
-Status : TBR : 2776 Searching
-Status : TBR : 2775 Searching
-Status : TBR : 2773 Searching
-Status : TBR : 2772 Searching
-Status : TBR : 2758 Searching
-Status : TBR : 2746 Searching
-Status : TBR : 2745 Searching
-Status : TBR : 2741 Searching
-Status : TBR : 2738 Searching
+Status : Tree search : 4 of 8 -- Estimated finish in 4 m, 18 s
+Status : TBR : 2714 Searching
+Status : TBR : 2713 Searching
+Status : TBR : 2696 Searching
+Status : TBR : 2690 Searching
+Status : TBR : 2687 Searching
+Status : TBR : 2684 Searching
 Status : TBR Finished
-Status : Tree search : 4 of 6 -- Estimated finish in 2 m, 22 s
-Status : TBR : 2820 Searching
-Status : TBR : 2799 Searching
-Status : TBR : 2797 Searching
-Status : TBR : 2794 Searching
-Status : TBR : 2789 Searching
-Status : TBR : 2788 Searching
-Status : TBR : 2786 Searching
-Status : TBR : 2777 Searching
-Status : TBR : 2776 Searching
-Status : TBR : 2775 Searching
-Status : TBR : 2774 Searching
-Status : TBR : 2773 Searching
-Status : TBR : 2769 Searching
-Status : TBR : 2768 Searching
+Status : Tree search : 5 of 8 -- Estimated finish in 3 m, 49 s
+Status : TBR : 2679 Searching
 Status : TBR Finished
-Status : Tree search : 5 of 6 -- Estimated finish in 1 m, 48 s
-Status : TBR : 2811 Searching
+Status : Tree search : 6 of 8 -- Estimated finish in 2 m, 42 s
+Status : TBR : 2678 Searching
 Status : TBR Finished
-Status : Tree search : 6 of 6 -- Estimated finish in 46 s
-Status : TBR : 2804 Searching
+Status : Tree search : 7 of 8 -- Estimated finish in 1 m, 43 s
+Status : TBR : 2675 Searching
+Status : TBR Finished
+Status : Tree search : 8 of 8 -- Estimated finish in 51 s
+Status : TBR : 2680 Searching
 Status : TBR Finished
 Status : Tree search Finished
 Status : Running pipeline on each tree Finished
 Information :
 
   Trees:
-    Storing 2 trees with costs 2690. to 2703.
+    Storing 2 trees with costs 2675. to 2676.
     Best cost in 1 tree 
   Cost Mode: Normal Direct Optimization
 PASSED

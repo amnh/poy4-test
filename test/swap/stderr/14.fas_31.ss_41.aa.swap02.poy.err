@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 14.fas of type input sequences
 
 Information :
@@ -104,7 +105,6 @@ Information :
 The file 41.aa contains sequences of 47 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 1
 Information : Selected Terminals:
               
 
@@ -145,7 +145,7 @@ Status : TBR : 923 Searching
 Status : TBR : 918 Searching
 Status : TBR : 903 Searching
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 1 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 2 s
 Status : TBR : 823 Searching
 Status : TBR Finished
 Status : Running pipeline on each tree Finished

@@ -1,4 +1,4 @@
 (* 'search' with memory:mb:800, max_time:0:0:10  *)
 read ("1.fas", "30.ss", aminoacids:("40.aa"))
-set(seed:1)
+set(seed:1, timer:0)
 search(memory:mb:800, max_time:0:0:10)

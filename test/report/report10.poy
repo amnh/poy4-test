@@ -1,5 +1,5 @@
 (* Build report clades *)
+set(seed:50, timer:0)
 read ("1.fas")
-set(seed:50)
 build (1)
 report ("report10", clades)

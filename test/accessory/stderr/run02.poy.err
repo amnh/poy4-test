@@ -1,6 +1,7 @@
 Error :
-Command error in file ./accessory/echo01.poy line 2 between characters
+Command error in file ./accessory/echo01.poy line 3 between characters
 28 and 29 :
     [output_class] expected after "," (in [application_command])
 
 FAILED
+Fatal error: exception Failure("Script execution stopped")

@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 6.fas of type input sequences
 
 Information :
@@ -110,7 +111,6 @@ Information : Selected Terminals:
 Information : 
 Information : Total included: 12
 Information : Total excluded: 37
-Information : Setting random seed value to 1
 Status : Wagner : 2 of 12 -- Wagner tree with cost 718.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 1112.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 2343.
@@ -142,7 +142,7 @@ Status : Running pipeline on each tree : 1 of 2 --
 Information : Starting on tree
 Status : TBR : 6828 Searching
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 20 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 35 s
 Information : Starting on tree
 Status : TBR : 6828 Searching
 Status : TBR Finished

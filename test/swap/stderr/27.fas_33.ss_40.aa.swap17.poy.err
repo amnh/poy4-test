@@ -1,3 +1,4 @@
+Information : Setting random seed value to 1
 Information : Reading file 27.fas of type input sequences
 
 Information :
@@ -103,7 +104,6 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 1
 Information : Selected Terminals:
               
 
@@ -143,7 +143,7 @@ Status : SPR : 391 Searching
 Status : SPR : 387 Searching
 Status : SPR : 385 Searching
 Status : SPR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 0 s
+Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 1 s
 Status : SPR : 400 Searching
 Status : SPR Finished
 Status : Running pipeline on each tree Finished

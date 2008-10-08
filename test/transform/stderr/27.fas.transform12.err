@@ -26,29 +26,29 @@ Status : Wagner : 20 of 47 -- Wagner tree with cost 51.
 Status : Wagner : 21 of 47 -- Wagner tree with cost 56.
 Status : Wagner : 22 of 47 -- Wagner tree with cost 56.
 Status : Wagner : 23 of 47 -- Wagner tree with cost 56.
-Status : Wagner : 24 of 47 -- Wagner tree with cost 61.
-Status : Wagner : 25 of 47 -- Wagner tree with cost 61.
-Status : Wagner : 26 of 47 -- Wagner tree with cost 63.
-Status : Wagner : 27 of 47 -- Wagner tree with cost 63.
-Status : Wagner : 28 of 47 -- Wagner tree with cost 63.
-Status : Wagner : 29 of 47 -- Wagner tree with cost 63.
-Status : Wagner : 30 of 47 -- Wagner tree with cost 63.
-Status : Wagner : 31 of 47 -- Wagner tree with cost 63.
-Status : Wagner : 32 of 47 -- Wagner tree with cost 64.
-Status : Wagner : 33 of 47 -- Wagner tree with cost 66.
-Status : Wagner : 34 of 47 -- Wagner tree with cost 66.
-Status : Wagner : 35 of 47 -- Wagner tree with cost 66.
-Status : Wagner : 36 of 47 -- Wagner tree with cost 66.
-Status : Wagner : 37 of 47 -- Wagner tree with cost 66.
-Status : Wagner : 38 of 47 -- Wagner tree with cost 67.
-Status : Wagner : 39 of 47 -- Wagner tree with cost 67.
-Status : Wagner : 40 of 47 -- Wagner tree with cost 76.
-Status : Wagner : 41 of 47 -- Wagner tree with cost 76.
-Status : Wagner : 42 of 47 -- Wagner tree with cost 76.
-Status : Wagner : 43 of 47 -- Wagner tree with cost 76.
-Status : Wagner : 44 of 47 -- Wagner tree with cost 76.
-Status : Wagner : 45 of 47 -- Wagner tree with cost 76.
-Status : Wagner : 46 of 47 -- Wagner tree with cost 76.
+Status : Wagner : 24 of 47 -- Wagner tree with cost 63.
+Status : Wagner : 25 of 47 -- Wagner tree with cost 63.
+Status : Wagner : 26 of 47 -- Wagner tree with cost 65.
+Status : Wagner : 27 of 47 -- Wagner tree with cost 65.
+Status : Wagner : 28 of 47 -- Wagner tree with cost 65.
+Status : Wagner : 29 of 47 -- Wagner tree with cost 65.
+Status : Wagner : 30 of 47 -- Wagner tree with cost 65.
+Status : Wagner : 31 of 47 -- Wagner tree with cost 65.
+Status : Wagner : 32 of 47 -- Wagner tree with cost 66.
+Status : Wagner : 33 of 47 -- Wagner tree with cost 68.
+Status : Wagner : 34 of 47 -- Wagner tree with cost 68.
+Status : Wagner : 35 of 47 -- Wagner tree with cost 68.
+Status : Wagner : 36 of 47 -- Wagner tree with cost 68.
+Status : Wagner : 37 of 47 -- Wagner tree with cost 68.
+Status : Wagner : 38 of 47 -- Wagner tree with cost 69.
+Status : Wagner : 39 of 47 -- Wagner tree with cost 69.
+Status : Wagner : 40 of 47 -- Wagner tree with cost 78.
+Status : Wagner : 41 of 47 -- Wagner tree with cost 78.
+Status : Wagner : 42 of 47 -- Wagner tree with cost 78.
+Status : Wagner : 43 of 47 -- Wagner tree with cost 78.
+Status : Wagner : 44 of 47 -- Wagner tree with cost 78.
+Status : Wagner : 45 of 47 -- Wagner tree with cost 78.
+Status : Wagner : 46 of 47 -- Wagner tree with cost 78.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
 Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
@@ -1142,6 +1142,6 @@ Status : Diagnosis Finished
 Information :
 
   Trees:
-    Storing 1 tree with cost 81. 
+    Storing 1 tree with cost 83. 
   Cost Mode: Normal Direct Optimization
 PASSED

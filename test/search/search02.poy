@@ -1,6 +1,6 @@
 (* 'search' under defaults, max_time:0:0:20 *)
 (* for the sake of speeding up the test, only 12 terminals are used *)
 set (timer:0)
+set(seed:1, timer:0)
 read ("1.fas", "30.ss", aminoacids:("40.aa"))
-set(seed:1)
 search(max_time:0:0:15)

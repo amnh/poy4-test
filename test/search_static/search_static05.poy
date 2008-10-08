@@ -1,5 +1,5 @@
 (* 'search' with min_time:0:0:15 argument; static homology characters only *)
 set (timer:0)
+set(seed:1, timer:0)
 read ("30.ss")
-set(seed:1)
 search(max_time:0:0:4, min_time:0:0:4, hits:1)

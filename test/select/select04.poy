@@ -1,5 +1,5 @@
 (* 'select' terminals based terminal names 1 *)
-set(seed:1)
+set(seed:1, timer:0)
 read("1.fas")
 select(names:("t3","t5","t7","t9","t11","t13"))
 build(2)

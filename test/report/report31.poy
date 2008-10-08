@@ -1,5 +1,5 @@
 (* Build and report trees : collapse *)
-set (seed:1)
+set (seed:1, timer:0)
 read ("1.fas")
 build (1)
 report (trees: (collapse))

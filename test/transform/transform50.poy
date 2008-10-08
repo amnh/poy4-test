@@ -1,3 +1,4 @@
 (* Read annotated chromosome and both locus_breakpoint and locus_inversion ERROR EXPECTED *)
+set (seed:1, timer:0)
 read (annotated:("FILENAME1"))
 transform ((all, dynamic_pam:(((all, dynamic_pam:(locus_breakpoint:50,locus_inversion:40)))

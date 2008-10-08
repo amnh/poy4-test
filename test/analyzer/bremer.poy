@@ -1,4 +1,5 @@
 (* Bremer support for dynamic homology trees *) 
+set (seed:1, timer:0)
 read("18s.fas", "28s.fas") 
 set(root:"Americhernus") 
 build() 

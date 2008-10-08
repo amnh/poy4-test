@@ -1,7 +1,7 @@
 (*Transform_static gap_opening *)
 (*terminals reduced to random 10 to expidite test*)
+set (seed:50, timer:0)
 read ("31.ss", "32.ss", "33.ss", "34.ss")
-set (seed:50)
 select (terminals, _random:10)
 build (2)
 transform ((all, gap_opening:3))

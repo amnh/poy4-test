@@ -1,6 +1,6 @@
 (* Build 3 trees and report graphsupports for bremer to ps file *)
+set(seed:50, timer:0)
 read ("1.fas", "30.ss")
-set(seed:50)
 select (terminals, _random:20)
 build (1)
 calculate_support (bremer)

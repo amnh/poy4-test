@@ -1,4 +1,4 @@
 (* Build default *)
-set (seed:50)
+set (seed:50, timer:0)
 read ("1.fas", "30.ss", aminoacids:("40.aa"))
 build ()

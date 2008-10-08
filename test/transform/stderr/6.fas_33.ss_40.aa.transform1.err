@@ -1,3 +1,4 @@
+Information : Setting random seed value to 50
 Information : Reading file 6.fas of type input sequences
 
 Information :
@@ -104,7 +105,6 @@ Information :
 The file 40.aa contains sequences of 42 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Wagner : 2 of 5 -- Wagner tree with cost 1486.

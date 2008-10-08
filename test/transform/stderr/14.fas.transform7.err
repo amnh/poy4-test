@@ -1,15 +1,16 @@
+Information : Setting random seed value to 50
 Information : Reading file 14.fas of type input sequences
 
 Information :
 The file 14.fas contains sequences of 49 taxa, each sequence holding 1
 fragment.
 
-Information : Setting random seed value to 50
 Status : Wagner : 2 of 5 -- Wagner tree with cost 47.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 70.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 95.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
+Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished

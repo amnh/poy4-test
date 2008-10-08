@@ -1,5 +1,5 @@
 (* Build and report diagnosis to file *)
+set (seed:1, timer:0)
 read ("1.fas")
-set (seed:1)
 build (1)
 report (diagnosis)

@@ -1,4 +1,5 @@
 (* Build and report trees : hennig *)
+set (seed:50, timer:0)
 read ("1.fas", "30.ss" )
 build (1)
 report (trees: (hennig))

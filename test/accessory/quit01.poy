@@ -1,3 +1,4 @@
 (* 'quit' with arguments; ERROR EXPECTED and DETECTED *)
+set (seed:1, timer:0)
 read ("1.fas")
 quit (bye)

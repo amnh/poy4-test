@@ -1,3 +1,4 @@
 (* Read chromosome and transform with dynamic_pam max_3d_len 500 *)
+set (seed:1, timer:0)
 read (chromosome:("an.fas"))
 transform ((all, dynamic_pam:(max_3d_len:500)))     

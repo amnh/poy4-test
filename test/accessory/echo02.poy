@@ -1,2 +1,3 @@
 (* 'echo' outputs to file *)
+set (seed:1, timer:0)
 echo ("testing Output message", output:"./accessory/txt/echo02.poy.txt")

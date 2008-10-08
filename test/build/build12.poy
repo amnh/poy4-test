@@ -1,7 +1,7 @@
 (* Build with iterative *)
 (*terminals reduced to 8 to expidite test*)
+set (seed:50, timer:0)
 read ("2.fas")
-set (seed:50)
 set (iterative:exact)
 build (1)
 report (treestats)

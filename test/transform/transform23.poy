@@ -1,6 +1,6 @@
 (* Read and tra1nsform weight float *)
 (*terminals reduced to random 10 to expidite test*)
-set (seed:50)
+set (seed:50, timer:0)
 read ("FILENAME1", "FILENAME2", aminoacids:("FILENAME3"))
 select (terminals, _random:10)
 transform (weight:0.4)

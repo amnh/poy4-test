@@ -6,12 +6,12 @@ Data
              Total 6
                                                         
                      Name         Code          
-                    t11          11            
-                    t13          13            
-                    t3           3             
-                    t5           5             
-                    t7           7             
-                    t9           9             
+                    t11          8            {}
+                    t13          6            {}
+                    t3           3            {}
+                    t5           5            {}
+                    t7           7            {}
+                    t9           4            {}
          Synonyms
                      
                      
@@ -41,13 +41,13 @@ Data
         Molecular
             
             Total 5
-                                                                                                                                                   
-                    Name         Fixed States         Transformation Cost Matrix         Gap Opening         Weight         class          
-                   1.fas:0                           tcm:(1,2)                          0                   1.             sequence      {}
-                   1.fas:1                           tcm:(1,2)                          0                   1.             sequence      {}
-                   1.fas:2                           tcm:(1,2)                          0                   1.             sequence      {}
-                   1.fas:3                           tcm:(1,2)                          0                   1.             sequence      {}
-                   1.fas:4                           tcm:(1,2)                          0                   1.             sequence      {}
+                                                                                                                                                         
+                    Name         Initial Assignment         Transformation Cost Matrix         Gap Opening         Weight         class          
+                   1.fas:0      Direct Optimization        tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:1      Direct Optimization        tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:2      Direct Optimization        tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:3      Direct Optimization        tcm:(1,2)                          0                   1.             sequence      {}
+                   1.fas:4      Direct Optimization        tcm:(1,2)                          0                   1.             sequence      {}
             
         
     Ignored characters
