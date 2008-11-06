@@ -45,15 +45,82 @@ Status : TBR Finished
 Status : Running pipeline on each tree Finished
 Status :
 Constrained Wagner Replicate :
-1 of 1 -- Constrained Wagner tree replicate building
+10 of 10 -- Constrained Wagner tree replicate building
 Status : Wagner Finished
 Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
 Status : Wagner Finished
 Status : Wagner Finished
 Status :
 Constrained Wagner Replicate :
-0 of 1 -- Constrained Wagner tree replicate building
+9 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+8 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+7 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+6 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+5 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+4 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+3 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+2 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+1 of 10 -- Constrained Wagner tree replicate building
+Status : Wagner Finished
+Status : Wagner : 2 of 3 -- Wagner tree with cost 22.
+Status : Wagner Finished
+Status : Wagner Finished
+Status :
+Constrained Wagner Replicate :
+0 of 10 -- Constrained Wagner tree replicate building
 Status : Constrained Wagner Replicate Finished
-Status : Running Pipeline : 1 of 10 -- Estimated finish in 0 s
-FAILED
-Fatal error: exception Failure("No trees for constraint")
+Information :
+
+  Trees:
+    Storing 10 trees with costs 29. to 35.
+    Best cost in 7 trees 
+  Cost Mode: Normal Direct Optimization
+PASSED
