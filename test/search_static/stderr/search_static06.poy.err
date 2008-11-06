@@ -566,7 +566,6 @@ Status : TBR : 4327 Searching
 Status : TBR : 4326 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4326.; Time left: 59 m, 42 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 2
 Status : Wagner : 2 of 49 -- Wagner tree with cost 218.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 307.
@@ -640,7 +639,6 @@ Status : TBR : 4334 Searching
 Status : TBR : 4331 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4326.; Time left: 59 m, 36 s; Hits: 1
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -708,7 +706,6 @@ Status : TBR : 4325 Searching
 Status : TBR : 4323 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4323.; Time left: 58 m, 58 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 3
 Status : Wagner : 2 of 49 -- Wagner tree with cost 187.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 382.
@@ -793,7 +790,6 @@ Status : TBR Finished
 Status : TBR : 4316 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4316.; Time left: 58 m, 46 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 4
 Status : Wagner : 2 of 49 -- Wagner tree with cost 161.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 386.
@@ -881,7 +877,6 @@ Status : TBR : 4332 Searching
 Status : TBR : 4321 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4316.; Time left: 58 m, 34 s; Hits: 1
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -952,7 +947,6 @@ Status : TBR : 4320 Searching
 Status : TBR : 4317 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4316.; Time left: 57 m, 55 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 5
 Status : Wagner : 2 of 49 -- Wagner tree with cost 178.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 331.
@@ -1039,7 +1033,6 @@ Status : TBR Finished
 Status : TBR : 4313 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4313.; Time left: 57 m, 41 s; Hits: 1
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -1103,7 +1096,6 @@ Status : Diagnosis Finished
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 56 m, 45 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 6
 Status : Wagner : 2 of 49 -- Wagner tree with cost 238.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 375.
@@ -1179,7 +1171,6 @@ Status : TBR Finished
 Status : TBR : 4316 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 56 m, 35 s; Hits: 1
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -1249,7 +1240,6 @@ Status : TBR : 4297 Searching
 Status : TBR : 4289 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 55 m, 55 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 7
 Status : Wagner : 2 of 49 -- Wagner tree with cost 218.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 325.
@@ -1331,7 +1321,6 @@ Status : TBR : 4305 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 55 m, 32 s; Hits: 2
 Status : RAS + TBR : 0 Searching on tree number 8
 Status : Wagner : 2 of 49 -- Wagner tree with cost 102.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 306.
@@ -1425,7 +1414,6 @@ Status : TBR : 4308 Searching
 Status : TBR : 4305 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 55 m, 11 s; Hits: 2
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -1495,7 +1483,6 @@ Status : Diagnosis Finished
 Status : TBR : 4299 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 54 m, 25 s; Hits: 2
 Status : RAS + TBR : 0 Searching on tree number 9
 Status : Wagner : 2 of 49 -- Wagner tree with cost 286.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 403.
@@ -1574,7 +1561,6 @@ Status : TBR : 4314 Searching
 Status : TBR Finished
 Status : TBR : 4314 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 4297.; Time left: 54 m, 5 s; Hits: 2
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -1631,7 +1617,6 @@ Status : Perturb Iteration Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 53 m, 21 s; Hits: 2
 Status : RAS + TBR : 0 Searching on tree number 10
 Status : Wagner : 2 of 49 -- Wagner tree with cost 270.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 354.
@@ -1724,7 +1709,6 @@ Status : TBR Finished
 Status : TBR : 4320 Searching
 Status : TBR : 4313 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 4297.; Time left: 53 m, 4 s; Hits: 2
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -1801,10 +1785,8 @@ Status : TBR : 4318 Searching
 Status : TBR : 4315 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 26 s; Hits: 2
 Status : RAS + TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 26 s; Hits: 2
 Status : Fusing Trees : 0 Generation 1
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1813,9 +1795,7 @@ Tree Fusing :
 1 of 1 -- tree #10 [4297.] -> tree #3 [4317.]: tree with cost 4299.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 25 s; Hits: 2
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 25 s; Hits: 2
 Status : Fusing Trees : 0 Generation 2
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1824,9 +1804,7 @@ Tree Fusing :
 1 of 1 -- tree #7 [4299.] -> tree #4 [4315.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 25 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 25 s; Hits: 3
 Status : Fusing Trees : 0 Generation 3
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1835,9 +1813,7 @@ Tree Fusing :
 1 of 1 -- tree #10 [4297.] -> tree #5 [4304.]: tree with cost 4304.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 25 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 25 s; Hits: 3
 Status : Fusing Trees : 0 Generation 4
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1846,41 +1822,31 @@ Tree Fusing :
 1 of 1 -- tree #7 [4299.] -> tree #8 [4297.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 24 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 24 s; Hits: 3
 Status : Fusing Trees : 0 Generation 5
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 24 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 24 s; Hits: 3
 Status : Fusing Trees : 0 Generation 6
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 23 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 23 s; Hits: 3
 Status : Fusing Trees : 0 Generation 7
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 23 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 23 s; Hits: 3
 Status : Fusing Trees : 0 Generation 8
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 22 s; Hits: 3
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 22 s; Hits: 3
 Status : Fusing Trees : 0 Generation 9
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1889,9 +1855,7 @@ Tree Fusing :
 1 of 1 -- tree #6 [4299.] -> tree #2 [4316.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 21 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 21 s; Hits: 4
 Status : Fusing Trees : 0 Generation 10
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1900,9 +1864,7 @@ Tree Fusing :
 1 of 1 -- tree #6 [4299.] -> tree #7 [4297.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 20 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 20 s; Hits: 4
 Status : Fusing Trees : 0 Generation 11
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1911,41 +1873,31 @@ Tree Fusing :
 1 of 1 -- tree #8 [4297.] -> tree #5 [4299.]: tree with cost 4299.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 20 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 20 s; Hits: 4
 Status : Fusing Trees : 0 Generation 12
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 19 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 19 s; Hits: 4
 Status : Fusing Trees : 0 Generation 13
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 19 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 19 s; Hits: 4
 Status : Fusing Trees : 0 Generation 14
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 18 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 18 s; Hits: 4
 Status : Fusing Trees : 0 Generation 15
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 18 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 18 s; Hits: 4
 Status : Fusing Trees : 0 Generation 16
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1954,17 +1906,13 @@ Tree Fusing :
 1 of 1 -- tree #2 [4315.] -> tree #4 [4299.]: tree with cost 4315.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 17 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 17 s; Hits: 4
 Status : Fusing Trees : 0 Generation 17
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 16 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 16 s; Hits: 4
 Status : Fusing Trees : 0 Generation 18
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1973,9 +1921,7 @@ Tree Fusing :
 1 of 1 -- tree #2 [4315.] -> tree #4 [4299.]: tree with cost 4315.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 15 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 15 s; Hits: 4
 Status : Fusing Trees : 0 Generation 19
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -1984,27 +1930,21 @@ Tree Fusing :
 1 of 1 -- tree #3 [4314.] -> tree #5 [4299.]: tree with cost 4316.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 15 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 15 s; Hits: 4
 Status : Fusing Trees : 0 Generation 20
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 14 s; Hits: 4
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 14 s; Hits: 4
 Status : Fusing Trees : 0 Generation 21
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 13 s; Hits: 4
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 52 m, 10 s; Hits: 4
 Status : Fusing Trees Finished
 Status : RAS + TBR : 0 
 Status : RAS + TBR : 0 Searching on tree number 11
@@ -2097,7 +2037,6 @@ Status : TBR Finished
 Status : TBR : 4305 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 51 m, 49 s; Hits: 4
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -2168,7 +2107,6 @@ Status : Diagnosis Finished
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 51 m, 10 s; Hits: 5
 Status : RAS + TBR : 0 Searching on tree number 12
 Status : Wagner : 2 of 49 -- Wagner tree with cost 223.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 430.
@@ -2265,7 +2203,6 @@ Status : TBR : 4316 Searching
 Status : TBR : 4314 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 50 m, 55 s; Hits: 5
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -2339,7 +2276,6 @@ Status : TBR : 4306 Searching
 Status : TBR : 4300 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 50 m, 15 s; Hits: 5
 Status : RAS + TBR : 0 Searching on tree number 13
 Status : Wagner : 2 of 49 -- Wagner tree with cost 261.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 397.
@@ -2431,7 +2367,6 @@ Status : TBR : 4299 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 49 m, 47 s; Hits: 6
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -2495,7 +2430,6 @@ Status : Perturb Iteration Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 49 m, 14 s; Hits: 7
 Status : RAS + TBR : 0 Searching on tree number 14
 Status : Wagner : 2 of 49 -- Wagner tree with cost 60.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 273.
@@ -2591,7 +2525,6 @@ Status : TBR : 4319 Searching
 Status : TBR : 4316 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 48 m, 56 s; Hits: 7
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -2656,7 +2589,6 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : TBR : 4315 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 4297.; Time left: 48 m, 4 s; Hits: 7
 Status : RAS + TBR : 0 Searching on tree number 15
 Status : Wagner : 2 of 49 -- Wagner tree with cost 208.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 346.
@@ -2755,7 +2687,6 @@ Status : TBR Finished
 Status : TBR : 4329 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 47 m, 47 s; Hits: 7
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -2825,7 +2756,6 @@ Status : TBR : 4299 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 46 m, 46 s; Hits: 8
 Status : RAS + TBR : 0 Searching on tree number 16
 Status : Wagner : 2 of 49 -- Wagner tree with cost 312.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 447.
@@ -2913,7 +2843,6 @@ Status : TBR : 4303 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 46 m, 20 s; Hits: 9
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -2974,7 +2903,6 @@ Status : Perturb Iteration Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 45 m, 43 s; Hits: 10
 Status : RAS + TBR : 0 Searching on tree number 17
 Status : Wagner : 2 of 49 -- Wagner tree with cost 212.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 362.
@@ -3071,7 +2999,6 @@ Status : TBR : 4296 Searching
 Status : TBR : 4293 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 45 m, 25 s; Hits: 11
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -3132,7 +3059,6 @@ Status : Perturb Iteration Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 44 m, 43 s; Hits: 12
 Status : RAS + TBR : 0 Searching on tree number 18
 Status : Wagner : 2 of 49 -- Wagner tree with cost 267.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 413.
@@ -3227,7 +3153,6 @@ Status : TBR : 4315 Searching
 Status : TBR : 4311 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 44 m, 20 s; Hits: 12
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -3298,7 +3223,6 @@ Status : Diagnosis Finished
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 43 m, 39 s; Hits: 13
 Status : RAS + TBR : 0 Searching on tree number 19
 Status : Wagner : 2 of 49 -- Wagner tree with cost 291.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 412.
@@ -3392,7 +3316,6 @@ Status : TBR : 4320 Searching
 Status : TBR : 4317 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 43 m, 15 s; Hits: 13
 Status : RAS + TBR : 0 Searching on tree number 20
 Status : Wagner : 2 of 49 -- Wagner tree with cost 178.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 285.
@@ -3472,7 +3395,6 @@ Status : TBR Finished
 Status : TBR : 4314 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 42 m, 43 s; Hits: 13
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -3548,42 +3470,32 @@ Status : TBR : 4303 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 26 s; Hits: 14
 Status : RAS + TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 26 s; Hits: 14
 Status : Fusing Trees : 0 Generation 22
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 24 s; Hits: 14
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 24 s; Hits: 14
 Status : Fusing Trees : 0 Generation 23
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 23 s; Hits: 14
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 23 s; Hits: 14
 Status : Fusing Trees : 0 Generation 24
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 22 s; Hits: 14
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 22 s; Hits: 14
 Status : Fusing Trees : 0 Generation 25
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 17 s; Hits: 14
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 17 s; Hits: 14
 Status : Fusing Trees : 0 Generation 26
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3592,9 +3504,7 @@ Tree Fusing :
 1 of 1 -- tree #8 [4299.] -> tree #6 [4314.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 11 s; Hits: 15
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 11 s; Hits: 15
 Status : Fusing Trees : 0 Generation 27
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3603,17 +3513,13 @@ Tree Fusing :
 1 of 1 -- tree #5 [4314.] -> tree #6 [4299.]: tree with cost 4316.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 4 s; Hits: 15
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 41 m, 4 s; Hits: 15
 Status : Fusing Trees : 0 Generation 28
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 57 s; Hits: 15
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 57 s; Hits: 15
 Status : Fusing Trees : 0 Generation 29
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3622,17 +3528,13 @@ Tree Fusing :
 1 of 1 -- tree #7 [4299.] -> tree #2 [4316.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 52 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 52 s; Hits: 16
 Status : Fusing Trees : 0 Generation 30
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 51 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 51 s; Hits: 16
 Status : Fusing Trees : 0 Generation 31
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3641,9 +3543,7 @@ Tree Fusing :
 1 of 1 -- tree #15 [4297.] -> tree #5 [4304.]: tree with cost 4304.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 50 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 50 s; Hits: 16
 Status : Fusing Trees : 0 Generation 32
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3652,9 +3552,7 @@ Tree Fusing :
 1 of 1 -- tree #8 [4297.] -> tree #5 [4304.]: tree with cost 4304.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 49 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 49 s; Hits: 16
 Status : Fusing Trees : 0 Generation 33
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3663,25 +3561,19 @@ Tree Fusing :
 1 of 1 -- tree #14 [4297.] -> tree #5 [4304.]: tree with cost 4304.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 47 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 47 s; Hits: 16
 Status : Fusing Trees : 0 Generation 34
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 47 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 47 s; Hits: 16
 Status : Fusing Trees : 0 Generation 35
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 46 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 46 s; Hits: 16
 Status : Fusing Trees : 0 Generation 36
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3690,73 +3582,55 @@ Tree Fusing :
 1 of 1 -- tree #15 [4297.] -> tree #6 [4299.]: tree with cost 4299.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 45 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 45 s; Hits: 16
 Status : Fusing Trees : 0 Generation 37
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 44 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 44 s; Hits: 16
 Status : Fusing Trees : 0 Generation 38
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 43 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 43 s; Hits: 16
 Status : Fusing Trees : 0 Generation 39
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 42 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 42 s; Hits: 16
 Status : Fusing Trees : 0 Generation 40
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 42 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 42 s; Hits: 16
 Status : Fusing Trees : 0 Generation 41
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 41 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 41 s; Hits: 16
 Status : Fusing Trees : 0 Generation 42
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 40 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 40 s; Hits: 16
 Status : Fusing Trees : 0 Generation 43
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 39 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 39 s; Hits: 16
 Status : Fusing Trees : 0 Generation 44
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 38 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 38 s; Hits: 16
 Status : Fusing Trees : 0 Generation 45
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3765,41 +3639,31 @@ Tree Fusing :
 1 of 1 -- tree #6 [4299.] -> tree #6 [4297.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 37 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 37 s; Hits: 16
 Status : Fusing Trees : 0 Generation 46
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 37 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 37 s; Hits: 16
 Status : Fusing Trees : 0 Generation 47
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 36 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 36 s; Hits: 16
 Status : Fusing Trees : 0 Generation 48
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 35 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 35 s; Hits: 16
 Status : Fusing Trees : 0 Generation 49
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 34 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 34 s; Hits: 16
 Status : Fusing Trees : 0 Generation 50
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -3808,44 +3672,34 @@ Tree Fusing :
 1 of 1 -- tree #7 [4297.] -> tree #6 [4299.]: tree with cost 4299.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 33 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 33 s; Hits: 16
 Status : Fusing Trees : 0 Generation 51
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 32 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 32 s; Hits: 16
 Status : Fusing Trees : 0 Generation 52
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 32 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 32 s; Hits: 16
 Status : Fusing Trees : 0 Generation 53
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 31 s; Hits: 16
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 31 s; Hits: 16
 Status : Fusing Trees : 0 Generation 54
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 30 s; Hits: 16
 Status : TBR : 4299 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 27 s; Hits: 17
 Status : Fusing Trees Finished
 Status : RAS + TBR : 0 
 Status : RAS + TBR : 0 Searching on tree number 21
@@ -3936,7 +3790,6 @@ Status : TBR : 4304 Searching
 Status : TBR : 4303 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 40 m, 15 s; Hits: 17
 Status : RAS + TBR : 0 Searching on tree number 22
 Status : Wagner : 2 of 49 -- Wagner tree with cost 264.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 419.
@@ -4022,7 +3875,6 @@ Status : TBR : 4328 Searching
 Status : TBR : 4321 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 39 m, 59 s; Hits: 17
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -4085,7 +3937,6 @@ Status : Diagnosis Finished
 Status : TBR : 4312 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 39 m, 26 s; Hits: 17
 Status : RAS + TBR : 0 Searching on tree number 23
 Status : Wagner : 2 of 49 -- Wagner tree with cost 277.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 458.
@@ -4176,7 +4027,6 @@ Status : TBR : 4321 Searching
 Status : TBR : 4313 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 39 m, 2 s; Hits: 17
 Status : RAS + TBR : 0 Searching on tree number 24
 Status : Wagner : 2 of 49 -- Wagner tree with cost 274.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 378.
@@ -4256,7 +4106,6 @@ Status : TBR : 4315 Searching
 Status : TBR : 4312 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 38 m, 49 s; Hits: 17
 Status : RAS + TBR : 0 Searching on tree number 25
 Status : Wagner : 2 of 49 -- Wagner tree with cost 239.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 374.
@@ -4337,7 +4186,6 @@ Status : TBR : 4316 Searching
 Status : TBR : 4315 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 38 m, 38 s; Hits: 17
 Status : RAS + TBR : 0 Searching on tree number 26
 Status : Wagner : 2 of 49 -- Wagner tree with cost 109.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 294.
@@ -4424,7 +4272,6 @@ Status : TBR Finished
 Status : TBR : 4303 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 38 m, 25 s; Hits: 17
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -4487,7 +4334,6 @@ Status : Diagnosis Finished
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 37 m, 56 s; Hits: 18
 Status : RAS + TBR : 0 Searching on tree number 27
 Status : Wagner : 2 of 49 -- Wagner tree with cost 236.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 366.
@@ -4570,7 +4416,6 @@ Status : TBR Finished
 Status : TBR : 4299 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 37 m, 39 s; Hits: 18
 Status : RAS + TBR : 0 Searching on tree number 28
 Status : Wagner : 2 of 49 -- Wagner tree with cost 224.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 391.
@@ -4660,7 +4505,6 @@ Status : TBR : 4304 Searching
 Status : TBR : 4299 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 37 m, 20 s; Hits: 18
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -4721,7 +4565,6 @@ Status : Perturb Iteration Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 51 s; Hits: 18
 Status : RAS + TBR : 0 Searching on tree number 29
 Status : Wagner : 2 of 49 -- Wagner tree with cost 243.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 415.
@@ -4803,7 +4646,6 @@ Status : TBR Finished
 Status : TBR : 4305 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 35 s; Hits: 18
 Status : RAS + TBR : 0 Searching on tree number 30
 Status : Wagner : 2 of 49 -- Wagner tree with cost 188.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 315.
@@ -4894,18 +4736,14 @@ Status : TBR : 4308 Searching
 Status : TBR : 4301 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 12 s; Hits: 18
 Status : RAS + TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 11 s; Hits: 18
 Status : Fusing Trees : 0 Generation 55
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 7 s; Hits: 18
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 7 s; Hits: 18
 Status : Fusing Trees : 0 Generation 56
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -4914,97 +4752,73 @@ Tree Fusing :
 1 of 1 -- tree #12 [4299.] -> tree #11 [4303.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 1 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 36 m, 1 s; Hits: 19
 Status : Fusing Trees : 0 Generation 57
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 58 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 58 s; Hits: 19
 Status : Fusing Trees : 0 Generation 58
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 54 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 54 s; Hits: 19
 Status : Fusing Trees : 0 Generation 59
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 53 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 53 s; Hits: 19
 Status : Fusing Trees : 0 Generation 60
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 45 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 45 s; Hits: 19
 Status : Fusing Trees : 0 Generation 61
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 44 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 44 s; Hits: 19
 Status : Fusing Trees : 0 Generation 62
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 43 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 43 s; Hits: 19
 Status : Fusing Trees : 0 Generation 63
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 41 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 41 s; Hits: 19
 Status : Fusing Trees : 0 Generation 64
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 39 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 39 s; Hits: 19
 Status : Fusing Trees : 0 Generation 65
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 37 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 37 s; Hits: 19
 Status : Fusing Trees : 0 Generation 66
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 36 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 36 s; Hits: 19
 Status : Fusing Trees : 0 Generation 67
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 34 s; Hits: 19
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 34 s; Hits: 19
 Status : Fusing Trees : 0 Generation 68
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5013,9 +4827,7 @@ Tree Fusing :
 1 of 1 -- tree #12 [4299.] -> tree #1 [4315.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 30 s; Hits: 20
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 30 s; Hits: 20
 Status : Fusing Trees : 0 Generation 69
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5024,9 +4836,7 @@ Tree Fusing :
 1 of 1 -- tree #4 [4312.] -> tree #15 [4297.]: tree with cost 4312.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 22 s; Hits: 20
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 22 s; Hits: 20
 Status : Fusing Trees : 0 Generation 70
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5035,17 +4845,13 @@ Tree Fusing :
 1 of 1 -- tree #8 [4304.] -> tree #8 [4303.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 17 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 17 s; Hits: 21
 Status : Fusing Trees : 0 Generation 71
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 13 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 13 s; Hits: 21
 Status : Fusing Trees : 0 Generation 72
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5054,9 +4860,7 @@ Tree Fusing :
 1 of 1 -- tree #3 [4312.] -> tree #11 [4297.]: tree with cost 4312.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 9 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 9 s; Hits: 21
 Status : Fusing Trees : 0 Generation 73
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5065,17 +4869,13 @@ Tree Fusing :
 1 of 1 -- tree #16 [4297.] -> tree #5 [4308.]: tree with cost 4299.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 7 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 7 s; Hits: 21
 Status : Fusing Trees : 0 Generation 74
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 4 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 4 s; Hits: 21
 Status : Fusing Trees : 0 Generation 75
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5084,41 +4884,31 @@ Tree Fusing :
 1 of 1 -- tree #9 [4299.] -> tree #14 [4297.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 2 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 2 s; Hits: 21
 Status : Fusing Trees : 0 Generation 76
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 0 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 35 m, 0 s; Hits: 21
 Status : Fusing Trees : 0 Generation 77
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 60 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 60 s; Hits: 21
 Status : Fusing Trees : 0 Generation 78
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 57 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 57 s; Hits: 21
 Status : Fusing Trees : 0 Generation 79
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 56 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 56 s; Hits: 21
 Status : Fusing Trees : 0 Generation 80
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5127,17 +4917,13 @@ Tree Fusing :
 1 of 1 -- tree #10 [4299.] -> tree #15 [4297.]: tree with cost 4297.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 55 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 55 s; Hits: 21
 Status : Fusing Trees : 0 Generation 81
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 54 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 54 s; Hits: 21
 Status : Fusing Trees : 0 Generation 82
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5146,17 +4932,13 @@ Tree Fusing :
 1 of 1 -- tree #16 [4297.] -> tree #9 [4299.]: tree with cost 4299.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 53 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 53 s; Hits: 21
 Status : Fusing Trees : 0 Generation 83
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 52 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 52 s; Hits: 21
 Status : Fusing Trees : 0 Generation 84
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5165,17 +4947,13 @@ Tree Fusing :
 1 of 1 -- tree #4 [4308.] -> tree #13 [4297.]: tree with cost 4307.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 51 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 51 s; Hits: 21
 Status : Fusing Trees : 0 Generation 85
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 50 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 50 s; Hits: 21
 Status : Fusing Trees : 0 Generation 86
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5184,9 +4962,7 @@ Tree Fusing :
 1 of 1 -- tree #3 [4312.] -> tree #7 [4299.]: tree with cost 4318.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 48 s; Hits: 21
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 48 s; Hits: 21
 Status : Fusing Trees : 0 Generation 87
 Status : Tree Fusing : 0 of 1 -- 
 Status : Tree Fusing : 1 of 1 -- 
@@ -5195,12 +4971,10 @@ Tree Fusing :
 1 of 1 -- tree #4 [4308.] -> tree #15 [4297.]: tree with cost 4307.
 Status : Tree Fusing Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 47 s; Hits: 21
 Status : TBR : 4299 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 42 s; Hits: 22
 Status : Fusing Trees Finished
 Status : RAS + TBR : 0 
 Status : RAS + TBR : 0 Searching on tree number 31
@@ -5304,7 +5078,6 @@ Status : TBR : 4303 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 34 m, 21 s; Hits: 23
 Status : Transforming : 1 of 1 --  of transformations applied
 Status : Transforming Finished
 Status : Diagnosis : 0 Recalculating original tree
@@ -5373,7 +5146,6 @@ Status : TBR : 4300 Searching
 Status : TBR : 4289 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 32 m, 51 s; Hits: 24
 Status : RAS + TBR : 0 Searching on tree number 32
 Status : Wagner : 2 of 49 -- Wagner tree with cost 244.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 458.
@@ -5476,13 +5248,10 @@ Status : TBR : 4299 Searching
 Status : TBR : 4297 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 31 m, 57 s; Hits: 25
 Status : RAS + TBR Finished
 Status :
-Automated Search : 0 Best tree: 4297.; Time left: 31 m, 57 s; Hits: 25
 Status : Fusing Trees : 0 Generation 88
 Status : Fusing Trees Finished
-Status : Automated Search Finished
 Information :
 The search evaluated 32 independent repetitions with ratchet and fusing for 88 generations. The shortest tree was found 25 times.
 Information :

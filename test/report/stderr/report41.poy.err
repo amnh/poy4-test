@@ -53,7 +53,6 @@ Status : Wagner : 47 of 49 -- Wagner tree with cost 866.
 Status : Wagner : 48 of 49 -- Wagner tree with cost 870.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 1 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Diagnosis : 1 of 1 -- Recalculating trees
 Status : Diagnosis Finished

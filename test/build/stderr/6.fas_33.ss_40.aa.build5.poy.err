@@ -110,61 +110,51 @@ Status : Wagner : 3 of 5 -- Wagner tree with cost 2662.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3662.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 10 -- Estimated finish in 10 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 2069.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2640.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3497.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 2 of 10 -- Estimated finish in 9 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 1555.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2202.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3539.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 3 of 10 -- Estimated finish in 7 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 2069.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2676.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3648.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 4 of 10 -- Estimated finish in 6 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 2103.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2897.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3410.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 5 of 10 -- Estimated finish in 5 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 1442.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 1929.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 2750.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 6 of 10 -- Estimated finish in 4 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 1442.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 1929.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3183.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 7 of 10 -- Estimated finish in 3 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 1379.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2607.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3181.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 8 of 10 -- Estimated finish in 2 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 997.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 1505.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 2790.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 9 of 10 -- Estimated finish in 1 s
 Status : Wagner : 2 of 5 -- Wagner tree with cost 997.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 2192.
 Status : Wagner : 4 of 5 -- Wagner tree with cost 3435.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 10 of 10 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information :
 

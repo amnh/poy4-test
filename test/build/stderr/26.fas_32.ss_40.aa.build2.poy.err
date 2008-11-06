@@ -112,7 +112,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 1 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -120,7 +119,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 2 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -128,7 +126,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 3 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -136,7 +133,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 4 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -144,7 +140,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 5 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -152,7 +147,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 6 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -160,7 +154,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 7 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -168,7 +161,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 8 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -176,7 +168,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 9 of 10 -- Estimated finish in 0 s
 Status : Wagner ordered build : 0 Building ordered tree
 Status : Wagner : 2 of 5 -- Wagner tree with cost 100.
 Status : Wagner : 3 of 5 -- Wagner tree with cost 134.
@@ -184,7 +175,6 @@ Status : Wagner : 4 of 5 -- Wagner tree with cost 178.
 Status : Wagner Finished
 Status : Wagner ordered build : 0 Building random trees
 Status : Wagner ordered build Finished
-Status : Running Pipeline : 10 of 10 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information :
 

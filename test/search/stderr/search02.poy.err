@@ -158,7 +158,6 @@ Status : Building Wagner Tree Finished
 Status : TBR : 2808 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 2808.; Time left: 59 m, 21 s; Hits: 1
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -1359,7 +1358,6 @@ Status : Diagnosis Finished
 Status : TBR : 2783 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 2783.; Time left: 20 m, 38 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 2
 Status : Wagner : 2 of 49 -- Wagner tree with cost 190.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 230.
@@ -1413,7 +1411,6 @@ Status : Building Wagner Tree Finished
 Status : TBR : 2778 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 2778.; Time left: 19 m, 31 s; Hits: 1
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -2612,12 +2609,9 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : TBR : 2763 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 2763.; Time left: -1015 s; Hits: 1
 Status : RAS + TBR Finished
-Status : Automated Search : 0 Best tree: 2763.; Time left: -1015 s; Hits: 1
 Status : Fusing Trees : 0 Generation 1
 Status : Fusing Trees Finished
-Status : Automated Search Finished
 Information :
 The search evaluated 2 independent repetitions with ratchet and fusing for 1 generations. The shortest tree was found 1 times.
 Information :

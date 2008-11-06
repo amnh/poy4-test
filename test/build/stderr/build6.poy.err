@@ -13,7 +13,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 1 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -22,7 +21,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 2 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -31,7 +29,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 3 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -40,7 +37,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 4 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -49,7 +45,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 5 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -58,7 +53,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 6 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -67,7 +61,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 7 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -76,7 +69,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 8 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -85,7 +77,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 9 of 10 -- Estimated finish in 0 s
 Information : The file 2.fas.2.tree contains 1 trees.
 Warning :
 The following terminals do not appear in the input tree 1 of file
@@ -94,7 +85,6 @@ any  other trees built by POY, as some terminals appearing in the new trees
 will be missing on this one and could cause errors.
 Status : Loading Trees : 1 of 1 -- 
 Status : Loading Trees Finished
-Status : Running Pipeline : 10 of 10 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Information :
 

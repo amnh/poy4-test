@@ -158,7 +158,6 @@ Status : Building Wagner Tree Finished
 Status : TBR : 2808 Searching
 Status : TBR Finished
 Status :
-Automated Search : 0 Best tree: 2808.; Time left: 57 m, 32 s; Hits: 1
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -1358,12 +1357,9 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : TBR : 2783 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 2783.; Time left: -1917 s; Hits: 1
 Status : RAS + TBR Finished
-Status : Automated Search : 0 Best tree: 2783.; Time left: -1917 s; Hits: 1
 Status : Fusing Trees : 0 Generation 1
 Status : Fusing Trees Finished
-Status : Automated Search Finished
 Information :
 The search evaluated 1 independent repetitions with ratchet and fusing for 1 generations. The shortest tree was found 1 times.
 Information :

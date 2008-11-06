@@ -123,7 +123,6 @@ Status : Wagner : 10 of 12 -- Wagner tree with cost 826.
 Status : Wagner : 11 of 12 -- Wagner tree with cost 863.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 1 of 2 -- Estimated finish in 0 s
 Status : Wagner : 2 of 12 -- Wagner tree with cost 41.
 Status : Wagner : 3 of 12 -- Wagner tree with cost 127.
 Status : Wagner : 4 of 12 -- Wagner tree with cost 179.
@@ -136,7 +135,6 @@ Status : Wagner : 10 of 12 -- Wagner tree with cost 662.
 Status : Wagner : 11 of 12 -- Wagner tree with cost 757.
 Status : Wagner Finished
 Status : Building Wagner Tree Finished
-Status : Running Pipeline : 2 of 2 -- Estimated finish in 0 s
 Status : Running Pipeline Finished
 Status : Running pipeline on each tree : 1 of 2 -- 
 Status : TBR : 912 Searching
@@ -145,7 +143,6 @@ Status : TBR : 802 Searching
 Status : TBR : 793 Searching
 Status : TBR : 735 Searching
 Status : TBR Finished
-Status : Running pipeline on each tree : 2 of 2 -- Estimated finish in 0 s
 Status : TBR : 706 Searching
 Status : TBR Finished
 Status : Running pipeline on each tree Finished

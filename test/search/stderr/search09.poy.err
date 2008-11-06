@@ -68,7 +68,6 @@ Status : TBR : 849 Searching
 Status : TBR Finished
 Status : TBR : 846 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 846.; Time left: 14 m, 17 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 2
 Status : Wagner : 2 of 49 -- Wagner tree with cost 40.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 48.
@@ -125,7 +124,6 @@ Status : TBR : 851 Searching
 Status : TBR : 846 Searching
 Status : TBR : 845 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 845.; Time left: 13 m, 55 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 3
 Status : Wagner : 2 of 49 -- Wagner tree with cost 17.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 80.
@@ -186,7 +184,6 @@ Status : TBR : 855 Searching
 Status : TBR Finished
 Status : TBR : 849 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 845.; Time left: 12 m, 51 s; Hits: 1
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -1185,7 +1182,6 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : TBR : 847 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 845.; Time left: 12 m, 36 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 4
 Status : Wagner : 2 of 49 -- Wagner tree with cost 34.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 269.
@@ -1254,7 +1250,6 @@ Status : TBR : 846 Searching
 Status : TBR : 844 Searching
 Status : TBR : 840 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 11 m, 48 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 5
 Status : Wagner : 2 of 49 -- Wagner tree with cost 22.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 31.
@@ -1314,7 +1309,6 @@ Status : TBR : 852 Searching
 Status : TBR Finished
 Status : TBR : 849 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 10 m, 58 s; Hits: 1
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -2310,7 +2304,6 @@ Status : Ratcheting Finished
 Status : Perturb Iteration Finished
 Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 10 m, 53 s; Hits: 1
 Status : RAS + TBR : 0 Searching on tree number 6
 Status : Wagner : 2 of 49 -- Wagner tree with cost 40.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 90.
@@ -2376,7 +2369,6 @@ Status : TBR Finished
 Status : TBR : 842 Searching
 Status : TBR : 840 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 10 m, 4 s; Hits: 2
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -3373,7 +3365,6 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : TBR : 840 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 9 m, 48 s; Hits: 3
 Status : RAS + TBR : 0 Searching on tree number 7
 Status : Wagner : 2 of 49 -- Wagner tree with cost 44.
 Status : Wagner : 3 of 49 -- Wagner tree with cost 94.
@@ -3430,7 +3421,6 @@ Status : TBR : 844 Searching
 Status : TBR Finished
 Status : TBR : 840 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 9 m, 23 s; Hits: 4
 Status : Implied Alignments : 1 of 97 -- vertices calculated
 Status : Implied Alignments : 2 of 97 -- vertices calculated
 Status : Implied Alignments : 3 of 97 -- vertices calculated
@@ -4429,12 +4419,9 @@ Status : Diagnosis : 0 Recalculating original tree
 Status : Diagnosis Finished
 Status : TBR : 844 Searching
 Status : TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 9 m, 7 s; Hits: 5
 Status : RAS + TBR Finished
-Status : Automated Search : 0 Best tree: 840.; Time left: 9 m, 7 s; Hits: 5
 Status : Fusing Trees : 0 Generation 1
 Status : Fusing Trees Finished
-Status : Automated Search Finished
 Information :
 The search evaluated 7 independent repetitions with ratchet and fusing for 1 generations. The shortest tree was found 5 times.
 Information :
