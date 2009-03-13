@@ -205,10 +205,7 @@ let rec all_files_execution executer acc lst =
             executer (append_all_output filename_fixer) command message
             check_cost cost_less filename_fixer
 
-let test_program =
-    match Sys.os_type with
-    | "Win32" -> " | poy_test.exe "
-    | _ -> " | ./poy_test "
+let test_program = "./poy_test.native"
 
 let () =
     let executer append_output command message check_cost check_cost_less
