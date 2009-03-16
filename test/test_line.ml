@@ -176,7 +176,7 @@ let files =
 let replacer (command, message, filename_fixer, counter) filename =
     let initial_filename = "FILENAME" ^ string_of_int counter in
     let replacer = 
-        String.concat "" ["sed -e s,"; initial_filename; ","; filename; ","] 
+        String.concat "" ["sed -e 's,"; initial_filename; ","; filename; ",'"] 
     in
     let local_fix x = 
         Str.global_replace (Str.regexp initial_filename) filename x
@@ -292,6 +292,6 @@ let () =
                 exit_code := 1
     in
     all_files_execution executer ("cat " ^ !command ^
-    " | sed -e s,test.xml," ^ default_report ^ ",", !message, (fun x -> x), 1)
+    " | sed -e 's,test.xml," ^ default_report ^ ",'", !message, (fun x -> x), 1)
     files;
     exit !exit_code
