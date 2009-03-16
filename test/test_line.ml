@@ -220,18 +220,21 @@ let () =
             | Some a ->
                     let a = filename_fixer a
                     and b = filename_fixer b in
-                    match Unix.system ("sed -i \"\" -e '/Estimated/d; /Automated Search/d' " ^ a) with
+                    match Unix.system ("sed -i -e '/Estimated/d; /Automated Search/d' " ^ a) with
                     | Unix.WEXITED 0 -> 
-                            (match Unix.system ("sed -i \"\" -e '/Estimated/d; /Automated Search/d' " ^ b) with
+                            (match Unix.system ("sed -i -e '/Estimated/d; /Automated Search/d' " ^ b) with
                             | Unix.WEXITED 0 ->
                                     (match Unix.system ("diff --strip-trailing-cr -E -B -w -b -u " ^ a ^ " " ^
                                             b) with
                                     | Unix.WEXITED 0 -> true
                                     | _ -> false)
                             | _ -> false)
-                   | _ -> false
+                   | _ -> 
+                           prerr_string ("Failed executing sed in " ^ a);
+                           prerr_newline ();
+                           false
         in
-        let prefix = command ^ test_program in
+        let prefix = command ^ " | " ^ test_program in
         let execution_line =
             match check_cost, check_cost_less with
             | None, None -> prefix 
